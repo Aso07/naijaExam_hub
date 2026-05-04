@@ -1,0 +1,495 @@
+{
+
+
+  "Government": [
+    { "id": 1, "text": "Power differs from influence in that it is?", "options": ["persuasive while influence is directive", "coercive while influence is harmful", "coercive while influence is persuasive", "arrogant while influence is corruptive"], "answer": 2 },
+    { "id": 3, "text": "Where the constitution is supreme, unconstitutional acts of the executive can be checked by?", "options": ["Recall", "Judicial review", "Vote of no confidence", "Impeachment"], "answer": 1 },
+    { "id": 4, "text": "The central decision-making organ of a confederation is made up of?", "options": ["Technocrats", "Elected politicians", "Nominated politicians", "Pressure groups"], "answer": 2 },
+    { "id": 5, "text": "A major feature which differentiated the 1963 and 1979 constitutions was that in the former?", "options": ["ministers were appointed from the national assembly", "ministers were appointed from outside the national assembly", "the prime minister was elected by the whole country", "the national assembly comprised the senate and the house of assembly"], "answer": 0 },
+    { "id": 16, "text": "Which of the following is true of a parliamentary system of government?", "options": ["clear separation of government organs", "strict operation of bicameral legislature", "removal of government by impeachment", "adherence to majority rule"], "answer": 3 },
+    { "id": 17, "text": "Which constitution recognized local government as a third tier of government in Nigeria?", "options": ["1946 Constitution", "1960 Constitution", "1963 Constitution", "1979 Constitution"], "answer": 3 },
+    { "id": 21, "text": "When did Nigeria gain her Independence?", "options": ["1st October 1963", "31st October 1960", "1st October 1960", "1st October 1914"], "answer": 2 },
+    { "id": 22, "text": "The Judiciary is the arm of government that?", "options": ["makes the law", "executes the law", "interprets the law", "enforces the law"], "answer": 2 },
+    { "id": 23, "text": "Separation of powers is primarily intended to prevent?", "options": ["Dictatorship", "Democracy", "Federalism", "Judicial review"], "answer": 0 },
+    { "id": 24, "text": "A cabinet system of government is practiced in?", "options": ["The USA", "The United Kingdom", "The USSR", "Brazil"], "answer": 1 },
+    { "id": 25, "text": "Pressure groups seek to?", "options": ["overthrow the government", "influence government policies", "contest elections", "form a cabinet"], "answer": 1 },
+    { "id": 26, "text": "An unwritten constitution is one which is?", "options": ["not subject to review", "made up of conventions", "only partially written", "illegal"], "answer": 1 },
+    { "id": 35, "text": "The first female to drive a car in Nigeria was?", "options": ["Olufunmilayo Ransome-Kuti", "Bolanle Awe", "Mary Herbert", "Margaret Ekpo"], "answer": 0 },
+    { "id": 36, "text": "The capital of Nigeria was moved from Lagos to Abuja in?", "options": ["1976", "1981", "1991", "1999"], "answer": 2 }
+  ],
+  "Biology": [
+    { "id": 7, "text": "In Biology, the 'powerhouse' of the cell is the?", "options": ["Nucleus", "Ribosome", "Mitochondria", "Cytoplasm"], "answer": 2 },
+    { "id": 8, "text": "Which organelle is responsible for energy production in cells?", "options": ["Ribosome", "Nucleus", "Mitochondrion", "Chloroplast"], "answer": 2 },
+    { "id": 9, "text": "The gene is located on the?", "options": ["Ribosome", "Cell membrane", "Chromosome", "Cytoplasm"], "answer": 2 },
+    { "id": 10, "text": "Natural selection was proposed by?", "options": ["Gregor Mendel", "Charles Darwin", "Louis Pasteur", "Carolus Linnaeus"], "answer": 1 },
+    { "id": 18, "text": "Which gas is absorbed during photosynthesis?", "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Hydrogen"], "answer": 1 },
+    { "id": 19, "text": "An example of a decomposer in an ecosystem is?", "options": ["Earthworm", "Fungi", "Cow", "Hawk"], "answer": 1 },
+    { "id": 20, "text": "The membrane around the vacuole is known as?", "options": ["Elaioplast", "Amyloplast", "Tonoplast", "Cytoplast"], "answer": 2 },
+    { "id": 27, "text": "The hormone which regulates the amount of glucose in the blood is?", "options": ["Adrenaline", "Insulin", "Thyroxine", "Pituitrin"], "answer": 1 },
+    { "id": 28, "text": "Deamination occurs in the?", "options": ["Kidney", "Liver", "Pancreas", "Heart"], "answer": 1 },
+    { "id": 29, "text": "The smallest living organism sharing characteristics of both living and non-living is?", "options": ["Bacteria", "Virus", "Fungi", "Protozoa"], "answer": 1 }
+  ],
+  "Economics": [
+    { "id": 11, "text": "Economics is the study of human behaviour as it relates to?", "options": ["efficient allocation of resources", "production of goods", "operation of companies", "generation of income"], "answer": 0 },
+    { "id": 12, "text": "When Total Product (TP) is at its maximum, Marginal Product (MP) is?", "options": ["Maximum", "Minimum", "Zero", "Constant"], "answer": 2 },
+    { "id": 13, "text": "A company's expenditure on raw materials is regarded as?", "options": ["Fixed cost", "Variable cost", "Marginal cost", "Average cost"], "answer": 1 },
+    { "id": 14, "text": "The objective of public finance is to promote?", "options": ["Private profit", "Economic stability", "Corporate expansion", "Social inequality"], "answer": 1 },
+    { "id": 15, "text": "Localization of industries refers to?", "options": ["spread of firms producing different products", "siting of industries near the market", "concentration of firms of an industry in a place", "siting of firms producing different products"], "answer": 2 },
+    { "id": 31, "text": "Division of labour leads to?", "options": ["Decreased efficiency", "Specialization", "Higher costs", "Reduced output"], "answer": 1 },
+    { "id": 32, "text": "A limited liability company is owned by?", "options": ["The government", "Partners", "Shareholders", "A sole trader"], "answer": 2 },
+    { "id": 33, "text": "Macroeconomics is the study of economics from the point of view of?", "options": ["Individual firms", "Households", "The national economy", "Small businesses"], "answer": 2 },
+    { "id": 34, "text": "Scarcity in economics means that resources are?", "options": ["unlimited", "free", "insufficient to satisfy wants", "wasted"], "answer": 2 },
+    { "id": 41, "text": "In a capitalist economy, what to produce is decided by?", "options": ["The government", "Price mechanism", "Tradition", "Religious leaders"], "answer": 1 }
+  ],
+  "Physics": [
+    { "id": 6, "text": "Which of these is the primary source of energy for the earth?", "options": ["The Moon", "The Sun", "Electricity", "Coal"], "answer": 1 },
+    { "id": 30, "text": "Which instrument is used to measure atmospheric pressure?", "options": ["Hygrometer", "Thermometer", "Barometer", "Anemometer"], "answer": 2 },
+    { "id": 37, "text": "Who is the 'Father of Experimental Physics'?", "options": ["Galileo", "Newton", "Einstein", "Faraday"], "answer": 0 },
+    { "id": 38, "text": "According to Einstein, mass and energy are related by?", "options": ["E = mc", "E = mc^2", "E = m/c", "E = m^2c"], "answer": 1 },
+    { "id": 39, "text": "Which force is the weakest in nature?", "options": ["Magnetic force", "Gravitational force", "Nuclear force", "Electric force"], "answer": 1 },
+    { "id": 40, "text": "Which branch of science deals with nature and natural phenomena?", "options": ["Biology", "Sociology", "Physics", "Chemistry"], "answer": 2 }
+  ],
+  "General": [
+    { "id": 2, "text": "The 2026 UTME will be purely CBT according to the current guidelines of?", "options": ["WAEC", "JAMB", "NECO", "NABTEB"], "answer": 1 },
+    { "id": 42, "text": "What does JAMB stand for?", "options": ["Joint Admissions and Matriculation Board", "Junior Admissions and Matriculation Board", "Joint Association of Matriculation Boards", "Joint Admissions and Management Board"], "answer": 0 },
+    { "id": 43, "text": "How many subjects are typically written in the UTME?", "options": ["3", "4", "5", "6"], "answer": 1 },
+    { "id": 44, "text": "What is the total obtainable score in JAMB?", "options": ["300", "400", "500", "800"], "answer": 1 }
+  ],
+  "Biology": [
+    { "id": 45, "text": "Which of these is a biotic component of an ecosystem?", "options": ["Water", "Soil", "Plants", "Temperature"], "answer": 2 },
+    { "id": 46, "text": "The function of ribosomes in a cell is?", "options": ["Energy production", "Protein synthesis", "Waste disposal", "Cell division"], "answer": 1 },
+    { "id": 47, "text": "In which of the following does external fertilization take place?", "options": ["Toads", "Lizards", "Birds", "Mammals"], "answer": 0 },
+    { "id": 48, "text": "The excretory structure in the earthworm is the?", "options": ["Flame cell", "Malpighian tubule", "Nephridium", "Contractile vacuole"], "answer": 2 },
+    { "id": 61, "text": "What is the primary function of the lungs?", "options": ["Digestion", "Circulation", "Gaseous exchange", "Excretion"], "answer": 2 },
+    { "id": 62, "text": "The universal donor for blood transfusion belongs to group?", "options": ["A", "B", "AB", "O"], "answer": 3 },
+    { "id": 63, "text": "The structural unit of life is the?", "options": ["Organ", "Tissue", "Cell", "System"], "answer": 2 },
+    { "id": 64, "text": "Movement of water across a semi-permeable membrane is?", "options": ["Diffusion", "Osmosis", "Active transport", "Translocation"], "answer": 1 },
+    { "id": 65, "text": "A cross between a red-flowered and a white-flowered plant producing pink flowers is?", "options": ["Incomplete dominance", "Codominance", "Linkage", "Mutation"], "answer": 0 },
+    { "id": 79, "text": "The process by which plants lose water through leaves is?", "options": ["Evaporation", "Condensation", "Transpiration", "Precipitation"], "answer": 2 },
+    { "id": 80, "text": "Which vitamin is synthesized by the skin in sunlight?", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"], "answer": 3 },
+    { "id": 92, "text": "The gas used by plants for respiration is?", "options": ["Carbon dioxide", "Oxygen", "Nitrogen", "Argon"], "answer": 1 },
+    { "id": 93, "text": "Which organ in the human body filters blood?", "options": ["Heart", "Lungs", "Kidneys", "Stomach"], "answer": 2 }
+  ],
+  "Economics": [
+    { "id": 51, "text": "Opportunity cost is also known as?", "options": ["Real cost", "Money cost", "Variable cost", "Fixed cost"], "answer": 0 },
+    { "id": 52, "text": "A downward sloping demand curve implies that?", "options": ["price and quantity move together", "price increases as quantity increases", "quantity demanded increases as price falls", "demand is perfectly elastic"], "answer": 2 },
+    { "id": 53, "text": "Which of the following is NOT a factor of production?", "options": ["Land", "Labour", "Money", "Capital"], "answer": 2 },
+    { "id": 54, "text": "The reward for land as a factor of production is?", "options": ["Profit", "Wages", "Interest", "Rent"], "answer": 3 },
+    { "id": 55, "text": "Inflation is defined as a persistent rise in?", "options": ["stock prices", "interest rates", "the general price level", "wages"], "answer": 2 },
+    { "id": 66, "text": "Which sector is currently the largest contributor to Nigeria's GDP?", "options": ["Agriculture", "Manufacturing", "Services", "Mining"], "answer": 2 },
+    { "id": 67, "text": "The Central Bank of Nigeria (CBN) was established in?", "options": ["1958", "1960", "1963", "1977"], "answer": 0 },
+    { "id": 68, "text": "Devaluation of a currency is intended to?", "options": ["increase imports", "decrease exports", "make exports cheaper", "increase inflation"], "answer": 2 },
+    { "id": 69, "text": "A market with many buyers and many sellers of identical products is?", "options": ["Monopoly", "Oligopoly", "Perfect competition", "Monopolistic competition"], "answer": 2 },
+    { "id": 70, "text": "The primary aim of a trade union is to?", "options": ["increase production", "protect workers' interests", "support the government", "set prices"], "answer": 1 }
+  ],
+  "Government": [
+    { "id": 56, "text": "The first military Head of State in Nigeria was?", "options": ["Aguiyi-Ironsi", "Yakubu Gowon", "Murtala Muhammed", "Olusegun Obasanjo"], "answer": 0 },
+    { "id": 57, "text": "Nigeria's first constitution was the?", "options": ["Clifford Constitution", "Richards Constitution", "Macpherson Constitution", "Lyttelton Constitution"], "answer": 0 },
+    { "id": 58, "text": "The 1979 Constitution of Nigeria provided for a?", "options": ["Parliamentary system", "Presidential system", "Confederal system", "Monarchy"], "answer": 1 },
+    { "id": 59, "text": "The head of the Nigerian police is the?", "options": ["Police Commissioner", "Inspector General", "Director of SSS", "Chief of Staff"], "answer": 1 },
+    { "id": 60, "text": "Which arm of government is responsible for passing the budget?", "options": ["Executive", "Legislature", "Judiciary", "Bureaucracy"], "answer": 1 },
+    { "id": 81, "text": "A constitution that is difficult to amend is called?", "options": ["Flexible", "Rigid", "Unitary", "Federal"], "answer": 1 },
+    { "id": 82, "text": "In a democracy, sovereignty resides in the?", "options": ["President", "People", "Judiciary", "Parliament"], "answer": 1 },
+    { "id": 84, "text": "Who was the Premier of the Western Region in the First Republic?", "options": ["Nnamdi Azikiwe", "Obafemi Awolowo", "Ahmadu Bello", "Tafawa Balewa"], "answer": 1 },
+    { "id": 100, "text": "The 1963 Constitution of Nigeria made Nigeria a?", "options": ["Monarchy", "Republic", "Protectorate", "Colony"], "answer": 1 }
+  ],
+  "English": [
+    { "id": 71, "text": "Who is the author of 'Things Fall Apart'?", "options": ["Chinua Achebe", "Wole Soyinka", "Ben Okri", "Flora Nwapa"], "answer": 0 },
+    { "id": 72, "text": "The plural of 'Sheep' is?", "options": ["Sheeps", "Sheepes", "Sheep", "Ship"], "answer": 2 },
+    { "id": 73, "text": "Identify the adjective: 'The brave soldier fought well.'", "options": ["Brave", "Soldier", "Fought", "Well"], "answer": 0 },
+    { "id": 74, "text": "What is the synonym of 'Gigantic'?", "options": ["Small", "Huge", "Weak", "Fast"], "answer": 1 },
+    { "id": 75, "text": "Choose the correct spelling:", "options": ["Accommodation", "Acommodation", "Accomodation", "Acomodation"], "answer": 0 },
+    { "id": 85, "text": "The official language of Nigeria is?", "options": ["Hausa", "Igbo", "Yoruba", "English"], "answer": 3 }
+  ],
+  "Physics": [
+    { "id": 37, "text": "Who is the 'Father of Experimental Physics'?", "options": ["Galileo", "Newton", "Einstein", "Faraday"], "answer": 0 },
+    { "id": 38, "text": "According to Einstein, mass and energy are related by?", "options": ["E = mc", "E = mc^2", "E = m/c", "E = m^2c"], "answer": 1 },
+    { "id": 39, "text": "Which force is the weakest in nature?", "options": ["Magnetic force", "Gravitational force", "Nuclear force", "Electric force"], "answer": 1 },
+    { "id": 40, "text": "Which branch of science deals with nature and natural phenomena?", "options": ["Biology", "Sociology", "Physics", "Chemistry"], "answer": 2 },
+    { "id": 77, "text": "Water boils at ____ degrees Celsius at standard pressure.", "options": ["0", "50", "100", "120"], "answer": 2 },
+    { "id": 94, "text": "A material that allows electricity to pass through is a?", "options": ["Insulator", "Conductor", "Semiconductor", "Resistor"], "answer": 1 }
+  ],
+  "Mathematics": [
+    { "id": 86, "text": "Find the median of: 2, 4, 6, 8, 10.", "options": ["4", "6", "8", "5"], "answer": 1 },
+    { "id": 87, "text": "Calculate 25% of 200.", "options": ["25", "40", "50", "75"], "answer": 2 },
+    { "id": 88, "text": "Solve for x: 2x + 4 = 10.", "options": ["2", "3", "4", "5"], "answer": 1 },
+    { "id": 89, "text": "The sum of angles in a triangle is?", "options": ["90", "180", "270", "360"], "answer": 1 },
+    { "id": 90, "text": "A shape with eight sides is an?", "options": ["Hexagon", "Heptagon", "Octagon", "Nonagon"], "answer": 2 }
+  ],
+  
+  "Chemistry": [
+    { "id": 76, "text": "The smallest unit of a chemical element is the?", "options": ["Molecule", "Atom", "Ion", "Proton"], "answer": 1 },
+    { "id": 78, "text": "The chemical symbol for Gold is?", "options": ["Go", "Gd", "Au", "Ag"], "answer": 2 },
+    { "id": 106, "text": "Which of these is a noble gas?", "options": ["Oxygen", "Nitrogen", "Argon", "Chlorine"], "answer": 2 },
+    { "id": 107, "text": "The oxidation state of Oxygen in most compounds is?", "options": ["+1", "-1", "+2", "-2"], "answer": 3 },
+    { "id": 109, "text": "The law of constant composition was proposed by?", "options": ["Dalton", "Proust", "Lavoisier", "Gay-Lussac"], "answer": 1 },
+    { "id": 110, "text": "Which particle is responsible for the identity of an atom?", "options": ["Neutron", "Proton", "Electron", "Positron"], "answer": 1 }
+  ],
+  "Geography": [
+    { "id": 91, "text": "The largest planet in our solar system is?", "options": ["Earth", "Mars", "Jupiter", "Saturn"], "answer": 2 },
+    { "id": 95, "text": "The Earth rotates from?", "options": ["North to South", "South to North", "East to West", "West to East"], "answer": 3 }
+  ],
+  "History_and_Gov": [
+    { "id": 96, "text": "In a federal system, power is shared between?", "options": ["Executive and Judiciary", "Central and component units", "Majority and Minority", "Rich and Poor"], "answer": 1 },
+    { "id": 97, "text": "The rule of law means?", "options": ["The law is for the rich", "The president is above the law", "Equality before the law", "Lawyers are supreme"], "answer": 2 },
+    { "id": 98, "text": "The ECOWAS headquarters is located in?", "options": ["Accra", "Lagos", "Abuja", "Lome"], "answer": 2 },
+    { "id": 99, "text": "Human rights are?", "options": ["privileges for citizens", "claims allowed by law", "military decrees", "party manifestos"], "answer": 1 },
+    { "id": 100, "text": "The 1963 Constitution of Nigeria made Nigeria a?", "options": ["Monarchy", "Republic", "Protectorate", "Colony"], "answer": 1 },
+    { "id": 101, "text": "The main reason for the abolition of the slave trade was?", "options": ["humanitarian", "religious", "economic", "political"], "answer": 2 },
+    { "id": 102, "text": "In a pre-colonial West African society, the age grade was used for?", "options": ["tax collection", "defense and community work", "religious rituals", "colonial administration"], "answer": 1 },
+    { "id": 103, "text": "The 1914 Amalgamation of Nigeria was performed by?", "options": ["Sir James Robertson", "Lord Lugard", "Sir Arthur Richards", "Sir John Macpherson"], "answer": 1 },
+    { "id": 131, "text": "The 1999 Constitution was promulgated by?", "options": ["Sani Abacha", "Abdulsalami Abubakar", "Ibrahim Babangida", "Olusegun Obasanjo"], "answer": 1 },
+    { "id": 146, "text": "The 'Middle Passage' refers to?", "options": ["Trans-Saharan trade", "Atlantic Slave Trade route", "Silk Road", "Suez Canal"], "answer": 1 }
+  ],
+  "Biology": [
+    { "id": 105, "text": "The study of the age of fossils is called?", "options": ["Archeology", "Paleontology", "Evolution", "Anthropology"], "answer": 1 },
+    { "id": 108, "text": "An example of a polysaccharide is?", "options": ["Glucose", "Sucrose", "Starch", "Fructose"], "answer": 2 },
+    { "id": 136, "text": "The study of heredity and variation is?", "options": ["Evolution", "Genetics", "Ecology", "Morphology"], "answer": 1 },
+    { "id": 137, "text": "The site of gaseous exchange in insects is the?", "options": ["Gills", "Lungs", "Tracheoles", "Skin"], "answer": 2 }
+  ],
+  "Literature_and_English": [
+    { "id": 116, "text": "A figure of speech where a part represents the whole is?", "options": ["Metaphor", "Synecdoche", "Personification", "Hyperbole"], "answer": 1 },
+    { "id": 117, "text": "The recurring main idea in a literary work is the?", "options": ["Plot", "Setting", "Theme", "Mood"], "answer": 2 },
+    { "id": 118, "text": "A poem of fourteen lines is an?", "options": ["Ode", "Elegy", "Sonnet", "Epic"], "answer": 2 }
+  ],
+  "Commerce_and_Economics": [
+    { "id": 111, "text": "The primary function of commerce is to?", "options": ["increase production", "ensure consumption", "facilitate exchange of goods", "create employment"], "answer": 2 },
+    { "id": 142, "text": "Utility in economics means?", "options": ["Usefulness", "Satisfaction derived", "Necessary goods", "Service"], "answer": 1 },
+    { "id": 144, "text": "An example of a direct tax is?", "options": ["VAT", "Excise duty", "Income tax", "Customs duty"], "answer": 2 }
+  ],
+  "Religious_Studies": [
+    { "id": 121, "text": "The first book of the Bible is?", "options": ["Exodus", "Leviticus", "Genesis", "Numbers"], "answer": 2 },
+    { "id": 122, "text": "According to Islam, the first pillar is?", "options": ["Salat", "Zakat", "Shahadah", "Sawm"], "answer": 2 },
+    { "id": 123, "text": "The Ten Commandments were given to Moses on Mount?", "options": ["Nebo", "Sinai", "Carmel", "Olives"], "answer": 1 },
+    { "id": 124, "text": "The Prophet Muhammad (SAW) was born in?", "options": ["Medina", "Mecca", "Jerusalem", "Cairo"], "answer": 1 },
+    { "id": 125, "text": "Who was the first king of Israel?", "options": ["David", "Saul", "Solomon", "Samuel"], "answer": 1 }
+  ],
+  "Physics": [
+    { "id": 126, "text": "The value of 'g' (acceleration due to gravity) on earth is approx?", "options": ["5 m/s²", "9.8 m/s²", "15 m/s²", "20 m/s²"], "answer": 1 },
+    { "id": 127, "text": "Energy possessed by a body in motion is?", "options": ["Potential energy", "Chemical energy", "Kinetic energy", "Solar energy"], "answer": 2 },
+    { "id": 128, "text": "Sound travels fastest in?", "options": ["Air", "Water", "Steel", "Vacuum"], "answer": 2 },
+    { "id": 129, "text": "The unit of electric current is?", "options": ["Volt", "Ohm", "Ampere", "Watt"], "answer": 2 },
+    { "id": 130, "text": "A convex lens is also known as a?", "options": ["Diverging lens", "Converging lens", "Bifocal lens", "Cylindrical lens"], "answer": 1 }
+  ],
+  "History_and_Gov": [
+    { "id": 131, "text": "The 1999 Constitution was promulgated by?", "options": ["Sani Abacha", "Abdulsalami Abubakar", "Ibrahim Babangida", "Olusegun Obasanjo"], "answer": 1 },
+    { "id": 132, "text": "Delegated legislation is made by?", "options": ["Parliament", "The Judiciary", "Administrative bodies", "The Electorate"], "answer": 2 },
+    { "id": 133, "text": "A written constitution is often?", "options": ["Flexible", "Rigid", "Unstable", "Informal"], "answer": 1 },
+    { "id": 134, "text": "The organ of the OAU now AU that meets twice a year is the?", "options": ["Assembly of Heads of State", "Council of Ministers", "General Secretariat", "Economic Commission"], "answer": 0 },
+    { "id": 135, "text": "Franchise refers to the?", "options": ["right to sue", "right to vote", "right to own property", "right to education"], "answer": 1 },
+    { "id": 146, "text": "The 'Middle Passage' refers to?", "options": ["Trans-Saharan trade", "Atlantic Slave Trade route", "Silk Road", "Suez Canal"], "answer": 1 }
+  ],
+  "Biology": [
+    { "id": 136, "text": "The study of heredity and variation is?", "options": ["Evolution", "Genetics", "Ecology", "Morphology"], "answer": 1 },
+    { "id": 137, "text": "The site of gaseous exchange in insects is the?", "options": ["Gills", "Lungs", "Tracheoles", "Skin"], "answer": 2 },
+    { "id": 138, "text": "Vitamin K is essential for?", "options": ["Night vision", "Strong bones", "Blood clotting", "Healthy skin"], "answer": 2 },
+    { "id": 139, "text": "The movement of a plant part towards light is?", "options": ["Geotropism", "Phototropism", "Hydrotropism", "Chemotropism"], "answer": 1 },
+    { "id": 140, "text": "The largest organ in the human body is the?", "options": ["Liver", "Skin", "Heart", "Brain"], "answer": 1 }
+  ],
+  "Economics_and_Commerce": [
+    { "id": 141, "text": "Production is said to be complete when goods reach the?", "options": ["Wholesaler", "Retailer", "Consumer", "Manufacturer"], "answer": 2 },
+    { "id": 142, "text": "Utility in economics means?", "options": ["Usefulness", "Satisfaction derived", "Necessary goods", "Service"], "answer": 1 },
+    { "id": 143, "text": "The curve showing the combination of two goods a consumer can buy is?", "options": ["Supply curve", "Demand curve", "Budget line", "Isoquant"], "answer": 2 },
+    { "id": 144, "text": "An example of a direct tax is?", "options": ["VAT", "Excise duty", "Income tax", "Customs duty"], "answer": 2 },
+    { "id": 145, "text": "Population growth is determined by?", "options": ["Birth rate only", "Death rate only", "Migration only", "Birth, Death and Migration"], "answer": 3 }
+  ],
+
+  "General_Knowledge_and_History": [
+    { "id": 147, "text": "Who was the first woman to win a Nobel Prize?", "options": ["Mother Teresa", "Marie Curie", "Indira Gandhi", "Malala Yousafzai"], "answer": 1 },
+    { "id": 148, "text": "Nigeria’s first petroleum refinery is located at?", "options": ["Warri", "Kaduna", "Port Harcourt", "Lagos"], "answer": 2 },
+    { "id": 149, "text": "The Berlin Conference of 1884/85 was for the?", "options": ["abolition of slavery", "partition of Africa", "independence of Africa", "formation of UN"], "answer": 1 },
+    { "id": 150, "text": "Which Nigerian city is famous for its indigo dye pits?", "options": ["Ibadan", "Kano", "Zaria", "Benin"], "answer": 1 },
+    { "id": 186, "text": "Who was the first woman to fly an aircraft in Nigeria?", "options": ["Chinyere Kalu", "Stella Oduah", "Funmilayo Ransome-Kuti", "Bolanle Awe"], "answer": 0 },
+    { "id": 190, "text": "Which river joins the Niger at Lokoja?", "options": ["River Kaduna", "River Benue", "River Ogun", "River Cross"], "answer": 1 },
+    { "id": 197, "text": "The first capital city of Nigeria was?", "options": ["Abuja", "Lagos", "Calabar", "Lokoja"], "answer": 2 },
+    { "id": 199, "text": "As of June 2024, what is the official National Anthem of Nigeria?", "options": ["Arise, O Compatriots", "Nigeria, We Hail Thee", "God Bless Nigeria", "Land of our Birth"], "answer": 1 }
+  ],
+  "English_and_Literature": [
+    { "id": 151, "text": "Choose the most appropriate option: 'The girl is too ___ to speak.'", "options": ["shyer", "shyest", "shy", "shily"], "answer": 2 },
+    { "id": 155, "text": "The phrase 'to kick the bucket' means?", "options": ["to play football", "to die", "to fetch water", "to be angry"], "answer": 1 },
+    { "id": 198, "text": "Who was the first Nigerian to win a Nobel Prize?", "options": ["Chinua Achebe", "Wole Soyinka", "Nnamdi Azikiwe", "Ken Saro-Wiwa"], "answer": 1 }
+  ],
+  "Science_Physics_Chemistry": [
+    { "id": 156, "text": "What is the pH of pure water?", "options": ["1", "5", "7", "14"], "answer": 2 },
+    { "id": 157, "text": "The hardest known natural substance is?", "options": ["Gold", "Iron", "Diamond", "Graphite"], "answer": 2 },
+    { "id": 161, "text": "Pressure is defined as?", "options": ["Mass/Volume", "Force/Area", "Distance/Time", "Work/Time"], "answer": 1 },
+    { "id": 164, "text": "Resistance is measured in?", "options": ["Joules", "Watts", "Ohms", "Amps"], "answer": 2 }
+  ],
+  "Biology": [
+    { "id": 177, "text": "Bile is stored in the?", "options": ["Liver", "Gallbladder", "Stomach", "Pancreas"], "answer": 1 },
+    { "id": 201, "text": "The process of transfer of pollen grains from the anther to the stigma is?", "options": ["Fertilization", "Pollination", "Germination", "Transpiration"], "answer": 1 },
+    { "id": 202, "text": "Which of these is a social insect?", "options": ["Housefly", "Mosquito", "Termite", "Butterfly"], "answer": 2 }
+  ],
+  "ICT_and_Computer": [
+    { "id": 191, "text": "Which of these is a hardware component?", "options": ["Windows", "Microsoft Word", "Monitor", "Antivirus"], "answer": 2 },
+    { "id": 192, "text": "The 'brain' of the computer is the?", "options": ["RAM", "Hard Drive", "CPU", "Monitor"], "answer": 2 },
+    { "id": 195, "text": "1 Kilobyte is equal to?", "options": ["100 bytes", "1000 bytes", "1024 bytes", "1024 bits"], "answer": 2 }
+  ],
+  "Government_and_Civics": [
+    { "id": 166, "text": "The 1960 independence constitution was?", "options": ["Unitary", "Confederal", "Federal", "Monarchical"], "answer": 2 },
+    { "id": 169, "text": "The upper house of the Nigerian National Assembly is the?", "options": ["House of Representatives", "Senate", "Supreme Court", "State Assembly"], "answer": 1 },
+    { "id": 200, "text": "How many states are in Nigeria?", "options": ["12", "19", "30", "36"], "answer": 3 }
+  ],
+
+  "Biology": [
+    { 
+      "id": 201, 
+      "text": "The process of transfer of pollen grains from the anther to the stigma is?", 
+      "options": ["Fertilization", "Pollination", "Germination", "Transpiration"], 
+      "answer": 1 
+    },
+    { 
+      "id": 202, 
+      "text": "Which of these is a social insect?", 
+      "options": ["Housefly", "Mosquito", "Termite", "Butterfly"], 
+      "answer": 2 
+    }
+  ],
+
+  "Biology": [
+    { "id": 203, "text": "The basic unit of classification of living things is the?", "options": ["Genus", "Species", "Family", "Order"], "answer": 1 },
+    { "id": 204, "text": "The study of the relationship between organisms and their environment is?", "options": ["Genetics", "Ecology", "Physiology", "Anatomy"], "answer": 1 },
+    { "id": 205, "text": "Which part of the flower develops into a fruit after fertilization?", "options": ["Ovule", "Style", "Ovary", "Stigma"], "answer": 2 },
+    { "id": 236, "text": "An example of a flightless bird is the?", "options": ["Eagle", "Ostrich", "Hawk", "Parrot"], "answer": 1 },
+    { "id": 237, "text": "The red pigment in blood which carries oxygen is?", "options": ["Chlorophyll", "Haemoglobin", "Melanin", "Plasma"], "answer": 1 },
+    { "id": 238, "text": "The process of maintaining a constant internal environment is?", "options": ["Excretion", "Homeostasis", "Respiration", "Osmoregulation"], "answer": 1 }
+  ],
+  "Physics_and_Chemistry": [
+    { "id": 206, "text": "The change in the direction of light as it passes from one medium to another is?", "options": ["Reflection", "Refraction", "Diffraction", "Dispersion"], "answer": 1 },
+    { "id": 209, "text": "Which of the following is a derived unit?", "options": ["Kilogram", "Metre", "Newton", "Second"], "answer": 2 },
+    { "id": 221, "text": "Which gas is known as 'laughing gas'?", "options": ["Nitrogen dioxide", "Nitrous oxide", "Nitric oxide", "Nitrogen pentoxide"], "answer": 1 },
+    { "id": 224, "text": "The formula for common salt is?", "options": ["NaOH", "NaCl", "HCl", "KCl"], "answer": 1 },
+    { "id": 241, "text": "Work done is measured in?", "options": ["Watts", "Joules", "Newtons", "Amperes"], "answer": 1 },
+    { "id": 245, "text": "Sound is a type of?", "options": ["Electromagnetic wave", "Mechanical wave", "Transverse wave", "Static wave"], "answer": 1 }
+  ],
+  "Government_and_Civics": [
+    { "id": 211, "text": "In a democracy, the highest organ of the state is the?", "options": ["Executive", "Legislature", "Judiciary", "Bureaucracy"], "answer": 1 },
+    { "id": 214, "text": "The first indigenous Governor-General of Nigeria was?", "options": ["Herbert Macaulay", "Nnamdi Azikiwe", "Tafawa Balewa", "Obafemi Awolowo"], "answer": 1 },
+    { "id": 231, "text": "The 1976 Local Government Reform in Nigeria made local government?", "options": ["Part of state government", "A third tier of government", "Private entities", "Military outposts"], "answer": 1 },
+    { "id": 246, "text": "The first military president of Nigeria was?", "options": ["Murtala Muhammed", "Ibrahim Babangida", "Sani Abacha", "Yakubu Gowon"], "answer": 1 },
+    { "id": 250, "text": "The highest law-making body in Nigeria is the?", "options": ["Supreme Court", "National Assembly", "Executive Council", "NBA"], "answer": 1 }
+  ],
+  "Economics": [
+    { "id": 216, "text": "Elasticity of demand measures the responsiveness of quantity demanded to changes in?", "options": ["Supply", "Price", "Taste", "Output"], "answer": 1 },
+    { "id": 218, "text": "The most important factor of production in an agrarian economy is?", "options": ["Capital", "Labour", "Land", "Entrepreneur"], "answer": 2 },
+    { "id": 226, "text": "A situation where no one can be made better off without making someone else worse off is?", "options": ["Economic growth", "Pareto efficiency", "Market failure", "Inflation"], "answer": 1 },
+    { "id": 228, "text": "Which type of bank is known as the 'Lender of Last Resort'?", "options": ["Commercial Bank", "Merchant Bank", "Central Bank", "Microfinance Bank"], "answer": 2 },
+    { "id": 230, "text": "Indirect taxes are taxes levied on?", "options": ["Income", "Wealth", "Goods and Services", "Profit"], "answer": 2 }
+  ],
+  "English": [
+    { "id": 251, "text": "Complete: 'I have been waiting here ___ two hours.'", "options": ["since", "for", "from", "at"], "answer": 1 }
+  ],
+
+  "English_and_Literature": [
+    { "id": 252, "text": "Choose the correctly punctuated sentence:", "options": ["Where is he going", "Where is he going?", "Where is he going.", "where is he going"], "answer": 1 },
+    { "id": 253, "text": "A person who hates women is a?", "options": ["Misanthrope", "Misogynist", "Philanthropist", "Optimist"], "answer": 1 },
+    { "id": 254, "text": "The synonym of 'Benevolent' is?", "options": ["Cruel", "Kind", "Selfish", "Lazy"], "answer": 1 },
+    { "id": 255, "text": "Identify the verb: 'She sang beautifully.'", "options": ["She", "Sang", "Beautifully", "Her"], "answer": 1 },
+    { "id": 286, "text": "In literature, the 'protagonist' is the?", "options": ["Villain", "Main hero", "Narrator", "Supporter"], "answer": 1 },
+    { "id": 287, "text": "A comparison using 'as' or 'like' is a?", "options": ["Metaphor", "Simile", "Oxymoron", "Personification"], "answer": 1 },
+    { "id": 289, "text": "A poem written to mourn the dead is an?", "options": ["Epic", "Elegy", "Ode", "Ballad"], "answer": 1 },
+    { "id": 290, "text": "The point of highest tension in a plot is the?", "options": ["Exposition", "Climax", "Resolution", "Prologue"], "answer": 1 }
+  ],
+  "Mathematics": [
+    { "id": 256, "text": "Calculate the area of a circle with radius 7cm (Take pi = 22/7).", "options": ["44 sq cm", "154 sq cm", "49 sq cm", "14 sq cm"], "answer": 1 },
+    { "id": 258, "text": "What is the cube root of 27?", "options": ["3", "9", "81", "2"], "answer": 0 },
+    { "id": 259, "text": "The value of 10 to the power of 0 is?", "options": ["0", "1", "10", "100"], "answer": 1 },
+    { "id": 260, "text": "Find the average of 10, 20, and 30.", "options": ["10", "20", "30", "60"], "answer": 1 }
+  ],
+  "Chemistry": [
+    { "id": 261, "text": "The center of an atom contains?", "options": ["Electrons and Protons", "Protons and Neutrons", "Electrons only", "Neutrons only"], "answer": 1 },
+    { "id": 262, "text": "An atom with the same number of protons but different number of neutrons is an?", "options": ["Ion", "Isotope", "Isomer", "Allotrope"], "answer": 1 },
+    { "id": 263, "text": "The reaction between an acid and a base is?", "options": ["Oxidation", "Reduction", "Neutralization", "Polymerization"], "answer": 2 },
+    { "id": 264, "text": "The most reactive metal in the activity series is?", "options": ["Gold", "Silver", "Potassium", "Iron"], "answer": 2 },
+    { "id": 265, "text": "The atomic number of Carbon is?", "options": ["6", "12", "14", "8"], "answer": 0 }
+  ],
+  "Biology": [
+    { "id": 266, "text": "Which organelle is the site of photosynthesis?", "options": ["Mitochondria", "Chloroplast", "Ribosome", "Vacuole"], "answer": 1 },
+    { "id": 267, "text": "The process by which organisms produce offspring is?", "options": ["Respiration", "Reproduction", "Excretion", "Nutrition"], "answer": 1 },
+    { "id": 268, "text": "An example of a unicellular organism is?", "options": ["Man", "Amoeba", "Fish", "Tree"], "answer": 1 },
+    { "id": 269, "text": "The bones of a bird are often?", "options": ["Solid", "Hollow", "Heavy", "Soft"], "answer": 1 },
+    { "id": 270, "text": "The simplest level of organization in living things is?", "options": ["Cell", "Tissue", "Organ", "System"], "answer": 0 }
+  ],
+  "Economics_and_Commerce": [
+    { "id": 271, "text": "Which sector provides the highest employment in Nigeria?", "options": ["Oil", "Agriculture", "Banking", "Telecommunications"], "answer": 1 },
+    { "id": 272, "text": "A market with few large sellers is an?", "options": ["Monopoly", "Oligopoly", "Monopsony", "Duopoly"], "answer": 1 },
+    { "id": 273, "text": "The study of small individual units of the economy is?", "options": ["Macroeconomics", "Microeconomics", "Fiscal policy", "Trade"], "answer": 1 },
+    { "id": 274, "text": "Utility is at its maximum when marginal utility is?", "options": ["Maximum", "Zero", "Negative", "Positive"], "answer": 1 },
+    { "id": 275, "text": "The legal document that allows a company to start business is?", "options": ["Prospectus", "Certificate of Incorporation", "Memorandum of Association", "Articles of Association"], "answer": 1 },
+    { "id": 291, "text": "Who is the 'Father of Economics'?", "options": ["John Keynes", "Adam Smith", "Karl Marx", "David Ricardo"], "answer": 1 }
+  ],
+  "Government_and_History": [
+    { "id": 276, "text": "The first political party in Nigeria (NNDP) was founded by?", "options": ["Herbert Macaulay", "Obafemi Awolowo", "Nnamdi Azikiwe", "Ahmadu Bello"], "answer": 0 },
+    { "id": 277, "text": "The Lyttelton Constitution of 1954 is significant for?", "options": ["Unitary system", "Federalism", "Monarchy", "Independence"], "answer": 1 },
+    { "id": 278, "text": "The 'veto power' in the UN is held by how many countries?", "options": ["5", "10", "15", "50"], "answer": 0 },
+    { "id": 279, "text": "Pressure groups use which of the following to achieve their goals?", "options": ["Elections", "Lobbying", "Legislative power", "Military force"], "answer": 1 },
+    { "id": 280, "text": "The judicial arm of government is headed by the?", "options": ["President", "Chief Justice", "Attorney General", "Speaker"], "answer": 1 },
+    { "id": 292, "text": "The 'Naira' was introduced in Nigeria in?", "options": ["1960", "1963", "1973", "1999"], "answer": 2 },
+    { "id": 293, "text": "Which city is the current capital of Nigeria?", "options": ["Lagos", "Kano", "Abuja", "Ibadan"], "answer": 2 }
+  ],
+  "Physics": [
+    { "id": 257, "text": "If a car travels 100km in 2 hours, what is its speed?", "options": ["20 km/h", "50 km/h", "100 km/h", "200 km/h"], "answer": 1 },
+    { "id": 281, "text": "What is the SI unit of Force?", "options": ["Joule", "Newton", "Pascal", "Watt"], "answer": 1 },
+    { "id": 282, "text": "The ability to do work is?", "options": ["Power", "Energy", "Force", "Speed"], "answer": 1 },
+    { "id": 284, "text": "The boiling point of water on the Fahrenheit scale is?", "options": ["100", "212", "32", "180"], "answer": 1 },
+    { "id": 285, "text": "Which mirror is used as a driving mirror in cars?", "options": ["Plane mirror", "Concave mirror", "Convex mirror", "Parabolic mirror"], "answer": 2 }
+  ],
+  "ICT_and_Computer": [
+    { "id": 296, "text": "A computer keyboard is an?", "options": ["Input device", "Output device", "Storage device", "Processing device"], "answer": 0 },
+    { "id": 297, "text": "The software that manages the computer hardware is the?", "options": ["Application", "Operating System", "Browser", "Antivirus"], "answer": 1 },
+    { "id": 298, "text": "To 'save' a document on a computer, you use the shortcut?", "options": ["Ctrl + C", "Ctrl + V", "Ctrl + S", "Ctrl + P"], "answer": 2 },
+    { "id": 300, "text": "RAM stands for?", "options": ["Read Access Memory", "Random Access Memory", "Run Active Memory", "Real Access Memory"], "answer": 1 }
+  ],
+
+  "JAMB_English": [
+    { "id": 301, "text": "Choose the word most nearly opposite in meaning to 'Frugal':", "options": ["Extravagant", "Miserly", "Careful", "Economical"], "answer": 0 },
+    { "id": 302, "text": "He was 'on tenterhooks' until the results were released. This means he was:", "options": ["Happy", "Anxious", "Sleeping", "Indifferent"], "answer": 1 },
+    { "id": 303, "text": "Select the correct spelling:", "options": ["Maintainance", "Maintenance", "Maintenanse", "Maintennance"], "answer": 1 },
+    { "id": 304, "text": "The students were told to 'give a wide berth' to the construction site. This means:", "options": ["To visit", "To avoid", "To clean", "To inspect"], "answer": 1 },
+    { "id": 305, "text": "Which of these is a synonym for 'Abundant'?", "options": ["Scarce", "Plentiful", "Rare", "Meager"], "answer": 1 }
+  ],
+  "JAMB_Mathematics": [
+    { "id": 311, "text": "Evaluate (log 8 / log 2):", "options": ["2", "3", "4", "8"], "answer": 1 },
+    { "id": 312, "text": "Find the simple interest on N10,000 for 2 years at 5% per annum:", "options": ["N500", "N1,000", "N2,000", "N100"], "answer": 1 },
+    { "id": 313, "text": "A student scored 60, 70, and 80 in three tests. What is the mean score?", "options": ["65", "70", "75", "80"], "answer": 1 },
+    { "id": 314, "text": "Solve for x: 3(x + 2) = 15:", "options": ["2", "3", "4", "5"], "answer": 1 },
+    { "id": 315, "text": "What is the sum of interior angles of a pentagon?", "options": ["180°", "360°", "540°", "720°"], "answer": 2 }
+  ],
+  "JAMB_Government": [
+    { "id": 321, "text": "The first Secretary-General of the Commonwealth from Nigeria was:", "options": ["Emeka Anyaoku", "Joseph Garba", "Ibrahim Gambari", "Nnamdi Azikiwe"], "answer": 0 },
+    { "id": 322, "text": "The 1988 Civil Service Reform in Nigeria was aimed at:", "options": ["Politicizing the service", "Professionalizing the service", "Abolishing the service", "Reducing staff"], "answer": 1 },
+    { "id": 323, "text": "A major merit of a federal system is that it:", "options": ["is cheap to run", "encourages local autonomy", "prevents diverse development", "promotes unitary rule"], "answer": 1 },
+    { "id": 324, "text": "The 'Power of the Purse' is exercised by the:", "options": ["Executive", "Judiciary", "Legislature", "Police"], "answer": 2 },
+    { "id": 325, "text": "A formal set of rules for a political party is its:", "options": ["Constitution", "Manifesto", "Mandate", "Agenda"], "answer": 1 }
+  ],
+  "JAMB_Biology": [
+    { "id": 331, "text": "Which of the following is a function of the liver?", "options": ["Bile production", "Insulin production", "Urine storage", "Digestion of starch"], "answer": 0 },
+    { "id": 332, "text": "The maintenance of a constant internal environment is:", "options": ["Osmosis", "Homeostasis", "Excretion", "Transpiration"], "answer": 1 },
+    { "id": 333, "text": "The vitamin essential for night vision is:", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"], "answer": 0 },
+    { "id": 334, "text": "Which part of the brain controls balance?", "options": ["Cerebrum", "Cerebellum", "Medulla", "Hypothalamus"], "answer": 1 },
+    { "id": 335, "text": "The vector for Malaria is the:", "options": ["Housefly", "Female Anopheles mosquito", "Tsetse fly", "Male mosquito"], "answer": 1 }
+  ],
+  "JAMB_Physics": [
+    { "id": 341, "text": "Which of these is a fundamental quantity?", "options": ["Force", "Velocity", "Mass", "Acceleration"], "answer": 2 },
+    { "id": 342, "text": "The SI unit of Work is the:", "options": ["Watt", "Newton", "Joule", "Pascal"], "answer": 2 },
+    { "id": 343, "text": "The mirror used by dentists to see enlarged images is:", "options": ["Convex", "Plane", "Concave", "Cylindrical"], "answer": 2 },
+    { "id": 344, "text": "Acceleration due to gravity on earth is approximately:", "options": ["5 m/s²", "9.8 m/s²", "12 m/s²", "15 m/s²"], "answer": 1 },
+    { "id": 345, "text": "The instrument used to measure electric current is an:", "options": ["Ammeter", "Voltmeter", "Ohmmeter", "Wattmeter"], "answer": 0 }
+  ],
+
+  "JAMB_English": [
+    { "id": 351, "text": "Fill the gap: 'The principal, as well as the teachers, ___ coming.'", "options": ["are", "is", "were", "have"], "answer": 1 },
+    { "id": 352, "text": "Choose the word most nearly opposite in meaning to 'Arrogant':", "options": ["Humble", "Proud", "Wealthy", "Smart"], "answer": 0 },
+    { "id": 353, "text": "What is the synonym of 'Abolish'?", "options": ["Create", "Cancel", "Continue", "Construct"], "answer": 1 },
+    { "id": 354, "text": "Select the correct spelling:", "options": ["Occurred", "Ocured", "Ocurred", "Occured"], "answer": 0 },
+    { "id": 355, "text": "Complete the idiom: 'To rain cats and ____'", "options": ["birds", "dogs", "frogs", "mice"], "answer": 1 }
+  ],
+  "JAMB_Mathematics": [
+    { "id": 361, "text": "Simplify: 1/2 + 1/4 + 1/8", "options": ["3/8", "5/8", "7/8", "1/14"], "answer": 2 },
+    { "id": 362, "text": "Find the range of the set: {10, 2, 5, 20, 15}", "options": ["10", "15", "18", "20"], "answer": 2 },
+    { "id": 363, "text": "A car travels 120km in 3 hours. What is its average speed?", "options": ["30km/h", "40km/h", "50km/h", "60km/h"], "answer": 1 },
+    { "id": 364, "text": "What is the square root of 0.04?", "options": ["0.2", "0.02", "0.4", "2.0"], "answer": 0 },
+    { "id": 365, "text": "Solve for x: 5x - 10 = 0", "options": ["0", "1", "2", "5"], "answer": 2 }
+  ],
+  "JAMB_Chemistry": [
+    { "id": 371, "text": "Which of these is an alkali metal?", "options": ["Sodium", "Iron", "Gold", "Copper"], "answer": 0 },
+    { "id": 372, "text": "The process of a gas turning into a liquid is called?", "options": ["Evaporation", "Sublimation", "Condensation", "Freezing"], "answer": 2 },
+    { "id": 373, "text": "Which gas is used in advertising neon signs?", "options": ["Argon", "Helium", "Neon", "Krypton"], "answer": 2 },
+    { "id": 374, "text": "The pH of a strong acid is usually around?", "options": ["1-2", "7", "10", "13-14"], "answer": 0 },
+    { "id": 375, "text": "What is the chemical formula for water?", "options": ["HO2", "H2O", "H2O2", "OH"], "answer": 1 }
+  ],
+  "JAMB_Biology": [
+    { "id": 381, "text": "The process of getting rid of waste products from the body is?", "options": ["Digestion", "Excretion", "Ingestion", "Circulation"], "answer": 1 },
+    { "id": 382, "text": "Which organ in the body produces insulin?", "options": ["Liver", "Stomach", "Pancreas", "Kidney"], "answer": 2 },
+    { "id": 383, "text": "A plant that grows on another plant for support but not food is an?", "options": ["Epiphyte", "Parasite", "Saprophyte", "Xerophyte"], "answer": 0 },
+    { "id": 384, "text": "The hereditary units passed from parents to offspring are?", "options": ["Cells", "Tissues", "Genes", "Organs"], "answer": 2 },
+    { "id": 385, "text": "Which of these is a warm-blooded animal?", "options": ["Lizard", "Frog", "Fish", "Goat"], "answer": 3 }
+  ],
+  "JAMB_Physics": [
+    { "id": 391, "text": "The device used to store electric charge is a?", "options": ["Resistor", "Capacitor", "Transistor", "Inductor"], "answer": 1 },
+    { "id": 392, "text": "Which color of light has the longest wavelength?", "options": ["Violet", "Blue", "Green", "Red"], "answer": 3 },
+    { "id": 393, "text": "The bending of light around the edges of an obstacle is?", "options": ["Refraction", "Reflection", "Diffraction", "Polarization"], "answer": 2 },
+    { "id": 394, "text": "The SI unit of Pressure is?", "options": ["Joule", "Pascal", "Newton", "Watt"], "answer": 1 },
+    { "id": 395, "text": "A body at rest stays at rest due to?", "options": ["Friction", "Gravity", "Inertia", "Velocity"], "answer": 2 }
+  ],
+
+  "JAMB_English": [
+    { "id": 401, "text": "Identify the word that is correctly spelt:", "options": ["Embarrass", "Embaras", "Embarass", "Embarros"], "answer": 0 },
+    { "id": 402, "text": "Choose the option that is opposite in meaning to 'Vague':", "options": ["Clear", "Blurry", "Doubtful", "Uncertain"], "answer": 0 },
+    { "id": 403, "text": "The phrase 'to see eye to eye' means to:", "options": ["Stare at someone", "Agree with someone", "Fight with someone", "Be blind"], "answer": 1 },
+    { "id": 404, "text": "Fill the gap: 'Neither the Principal nor the teachers ___ at the meeting yesterday.'", "options": ["is", "was", "were", "has been"], "answer": 2 },
+    { "id": 405, "text": "Choose the best synonym for 'Loquacious':", "options": ["Silent", "Talkative", "Wealthy", "Angry"], "answer": 1 }
+  ],
+  "JAMB_Mathematics": [
+    { "id": 411, "text": "If y is inversely proportional to x, and y=4 when x=2, find y when x=8:", "options": ["1", "4", "16", "0.5"], "answer": 0 },
+    { "id": 412, "text": "Find the sum of the first five terms of the A.P: 2, 4, 6...:", "options": ["20", "30", "12", "10"], "answer": 1 },
+    { "id": 413, "text": "Solve for x: log10(x) = 2:", "options": ["10", "20", "100", "200"], "answer": 2 },
+    { "id": 414, "text": "A box contains 3 red balls and 2 blue balls. What is the probability of picking a blue ball?", "options": ["1/2", "2/3", "2/5", "3/5"], "answer": 2 },
+    { "id": 415, "text": "Calculate the volume of a cylinder with radius 7cm and height 10cm (Use π = 22/7):", "options": ["1540 cm³", "770 cm³", "440 cm³", "154 cm³"], "answer": 0 }
+  ],
+  "JAMB_Physics": [
+    { "id": 421, "text": "The heat required to change the state of a substance without a change in temperature is:", "options": ["Specific heat", "Sensible heat", "Latent heat", "Radiation"], "answer": 2 },
+    { "id": 422, "text": "Which of these is a longitudinal wave?", "options": ["Light wave", "Sound wave", "Radio wave", "Water wave"], "answer": 1 },
+    { "id": 423, "text": "The property of a material to return to its original shape after being stretched is:", "options": ["Plasticity", "Elasticity", "Ductility", "Malleability"], "answer": 1 },
+    { "id": 424, "text": "The instrument used to compare the relative densities of two liquids is a:", "options": ["Hygrometer", "Hydrometer", "Manometer", "U-tube"], "answer": 3 },
+    { "id": 425, "text": "According to Ohm's Law, V is equal to:", "options": ["I / R", "R / I", "I * R", "I + R"], "answer": 2 }
+  ],
+  "JAMB_Chemistry": [
+    { "id": 431, "text": "The process by which large hydrocarbon molecules are broken down into smaller ones is:", "options": ["Polymerization", "Cracking", "Distillation", "Fermentation"], "answer": 1 },
+    { "id": 432, "text": "The simplest member of the Alkyne series is:", "options": ["Methane", "Ethene", "Ethyne", "Propane"], "answer": 2 },
+    { "id": 433, "text": "Which of the following is a neutral oxide?", "options": ["CO2", "SO2", "NO", "MgO"], "answer": 2 },
+    { "id": 434, "text": "The movement of particles from a region of higher concentration to lower concentration is:", "options": ["Osmosis", "Diffusion", "Active transport", "Evaporation"], "answer": 1 },
+    { "id": 435, "text": "The most electronegative element in the periodic table is:", "options": ["Oxygen", "Chlorine", "Fluorine", "Nitrogen"], "answer": 2 }
+  ],
+  "JAMB_Biology": [
+    { "id": 441, "text": "The part of the flower that receives pollen grains is the:", "options": ["Anther", "Stigma", "Filament", "Style"], "answer": 1 },
+    { "id": 442, "text": "An example of a flightless bird is the:", "options": ["Eagle", "Kiwi", "Hawk", "Parrot"], "answer": 1 },
+    { "id": 443, "text": "The deficiency of Iodine in the diet leads to:", "options": ["Scurvy", "Rickets", "Goitre", "Anaemia"], "answer": 2 },
+    { "id": 444, "text": "In a food chain, plants are usually referred to as:", "options": ["Consumers", "Decomposers", "Producers", "Scavengers"], "answer": 2 },
+    { "id": 445, "text": "Which of these is NOT a function of the skeleton?", "options": ["Protection", "Support", "Digestion", "Movement"], "answer": 2 }
+  ],
+
+  "Government": [
+    { "id": 451, "text": "The prefix 'pan' in Pan-Africanism means:", "options": ["Small", "All", "Against", "Power"], "answer": 1 },
+    { "id": 452, "text": "Who was the first Nigerian to preside over the UN General Assembly?", "options": ["Joseph Garba", "Ibrahim Gambari", "Emeka Anyaoku", "Nnamdi Azikiwe"], "answer": 0 },
+    { "id": 453, "text": "A state with more than one level of government is a:", "options": ["Unitary state", "Federal state", "Confederal state", "Monarchy"], "answer": 1 },
+    { "id": 454, "text": "The main function of the Civil Service is to:", "options": ["Make laws", "Implement government policies", "Judge criminals", "Arrest offenders"], "answer": 1 },
+    { "id": 455, "text": "The first political party in Nigeria was formed in:", "options": ["1920", "1923", "1944", "1951"], "answer": 1 }
+  ],
+  "Economics": [
+    { "id": 461, "text": "The 'Real Cost' of a commodity is also known as:", "options": ["Money cost", "Opportunity cost", "Fixed cost", "Variable cost"], "answer": 1 },
+    { "id": 462, "text": "A market with only two sellers is a:", "options": ["Monopoly", "Duopoly", "Oligopoly", "Monopsony"], "answer": 1 },
+    { "id": 463, "text": "Which of these is a direct tax?", "options": ["VAT", "Excise duty", "Income tax", "Import duty"], "answer": 2 },
+    { "id": 464, "text": "Economic growth is measured by the increase in:", "options": ["Population", "GDP", "Inflation", "Unemployment"], "answer": 1 },
+    { "id": 465, "text": "The central bank uses 'Open Market Operations' to control:", "options": ["Birth rates", "Money supply", "Foreign trips", "Food prices"], "answer": 1 }
+  ],
+  
+  "Literature": [
+    { "id": 471, "text": "A figure of speech that attributes human qualities to inanimate objects is:", "options": ["Metaphor", "Personification", "Simile", "Irony"], "answer": 1 },
+    { "id": 472, "text": "The person telling a story in a novel is the:", "options": ["Author", "Narrator", "Antagonist", "Protagonist"], "answer": 1 },
+    { "id": 473, "text": "A poem that expresses grief over the death of someone is an:", "options": ["Ode", "Elegy", "Sonnet", "Epic"], "answer": 1 },
+    { "id": 474, "text": "The physical background or time in which a story takes place is the:", "options": ["Plot", "Setting", "Theme", "Climax"], "answer": 1 },
+    { "id": 475, "text": "In a play, a speech delivered by a character alone on stage is a:", "options": ["Monologue", "Soliloquy", "Dialogue", "Prologue"], "answer": 1 }
+  ],
+  "CRS": [
+    { "id": 481, "text": "Who was the father of the faithful according to the Bible?", "options": ["Moses", "Abraham", "Isaac", "Jacob"], "answer": 1 },
+    { "id": 482, "text": "The ten commandments were given to Israel through:", "options": ["Joshua", "Moses", "Aaron", "Samuel"], "answer": 1 },
+    { "id": 483, "text": "Who was the first king of Israel?", "options": ["David", "Saul", "Solomon", "Samuel"], "answer": 1 },
+    { "id": 484, "text": "The first miracle of Jesus was at:", "options": ["Capernaum", "Cana in Galilee", "Bethsaida", "Nazareth"], "answer": 1 },
+    { "id": 485, "text": "Paul the Apostle was originally known as:", "options": ["Peter", "Saul", "Silas", "Stephen"], "answer": 1 }
+  ],
+  "IRS": [
+    { "id": 491, "text": "The first pillar of Islam is:", "options": ["Salat", "Shahadah", "Zakat", "Sawm"], "answer": 1 },
+    { "id": 492, "text": "In what city was Prophet Muhammad (SAW) born?", "options": ["Medina", "Mecca", "Taif", "Jerusalem"], "answer": 1 },
+    { "id": 493, "text": "The holy book revealed to Prophet Isa (AS) is:", "options": ["Taurah", "Injil", "Zabur", "Quran"], "answer": 1 },
+    { "id": 494, "text": "The migration of the Prophet from Mecca to Medina is called:", "options": ["Jihad", "Hijrah", "Hajj", "Umrah"], "answer": 1 },
+    { "id": 495, "text": "The fast of Ramadan is which pillar of Islam?", "options": ["Second", "Third", "Fourth", "Fifth"], "answer": 2 }
+  ],
+  "Commerce": [
+    { "id": 496, "text": "The process of buying and selling across national borders is:", "options": ["Home trade", "International trade", "Retail trade", "Wholesale trade"], "answer": 1 },
+    { "id": 497, "text": "A place where government keeps goods until duties are paid is a:", "options": ["Public warehouse", "Bonded warehouse", "State warehouse", "Private warehouse"], "answer": 1 },
+    { "id": 498, "text": "The person who helps a buyer or seller to negotiate a contract for a commission is a:", "options": ["Broker", "Factor", "Jobber", "Auctioneer"], "answer": 0 },
+    { "id": 499, "text": "Which of these is a function of a commercial bank?", "options": ["Issuing currency", "Lending to customers", "Managing national debt", "Implementing fiscal policy"], "answer": 1 },
+    { "id": 500, "text": "The insurance principle that states that an insured should be returned to his original financial position is:", "options": ["Subrogation", "Indemnity", "Contribution", "Proximate cause"], "answer": 1 }
+  ]
+}

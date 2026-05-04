@@ -1,0 +1,637 @@
+{
+  "English_Language": [
+    { "id": 1, "text": "The man was honored for fighting ____ in the war.", "options": ["furiously", "gallantly", "properly", "practically"], "answer": 1 },
+    { "id": 2, "text": "Solitude is not good for the aged; it makes them lonely. Find the synonym of 'Solitude':", "options": ["independence", "privacy", "grief", "seclusion"], "answer": 3 },
+    { "id": 3, "text": "The professor's explanation was incisive. Find the synonym of 'Incisive':", "options": ["dull", "clear", "brief", "apt"], "answer": 1 },
+    { "id": 4, "text": "People often describe his father as jocular. Find the synonym of 'Jocular':", "options": ["caring", "hilarious", "kind", "happy"], "answer": 1 },
+    { "id": 5, "text": "The headmaster advised his pupils to exhibit some amount of decorum. Find the synonym of 'Decorum':", "options": ["decency", "gentility", "intellect", "smartness"], "answer": 0 },
+    { "id": 6, "text": "Choose the most appropriate option: 'The story was so ___ that I couldn't stop laughing.'", "options": ["hilarious", "serious", "vague", "incisive"], "answer": 0 },
+    { "id": 7, "text": "Identify the part of speech of the underlined word: 'She sings **sweetly**.'", "options": ["Noun", "Verb", "Adjective", "Adverb"], "answer": 3 },
+    { "id": 8, "text": "Choose the correct spelling:", "options": ["Maintenance", "Maintainance", "Maintennance", "Maintenanse"], "answer": 0 },
+    { "id": 9, "text": "Choose the antonym of 'Generous':", "options": ["Kind", "Selfish", "Happy", "Wealthy"], "answer": 1 },
+    { "id": 10, "text": "Fill the gap: 'Neither the teacher nor the students ___ present.'", "options": ["is", "was", "were", "has been"], "answer": 2 }
+  ],
+  "Mathematics": [
+    { "id": 11, "text": "If the 2nd and 5th terms of a G.P are 6 and 48 respectively, find the sum of the first four terms.", "options": ["-45", "-15", "15", "45"], "answer": 3 },
+    { "id": 12, "text": "Express the product of 0.06 and 0.09 in standard form.", "options": ["5.4 * 10^-1", "5.4 * 10^-2", "5.4 * 10^-3", "5.4 * 10^2"], "answer": 2 },
+    { "id": 13, "text": "A ladder 9m long leans against a vertical wall, making an angle of 64° with the ground. How far is the foot of the ladder from the wall?", "options": ["3.9m", "4.0m", "4.5m", "7.8m"], "answer": 0 },
+    { "id": 14, "text": "If sin θ = K, find tan θ, where 0° ≤ θ ≤ 90°.", "options": ["1-K", "K / (K-1)", "K / √(1-K²)", "K / (1-K)"], "answer": 2 },
+    { "id": 15, "text": "Calculate the volume of a right pyramid with rectangular base 9cm by 5cm and height 7cm.", "options": ["105 cm³", "315 cm³", "45 cm³", "94.5 cm³"], "answer": 0 },
+    { "id": 16, "text": "Find the simple interest on N20,000 for 3 years at 5% per annum.", "options": ["N1,000", "N2,000", "N3,000", "N4,000"], "answer": 2 },
+    { "id": 17, "text": "If x + 5 = 12, what is the value of 2x?", "options": ["7", "14", "10", "12"], "answer": 1 },
+    { "id": 18, "text": "Calculate the mean of 5, 10, 15, and 20.", "options": ["10", "12.5", "15", "50"], "answer": 1 },
+    { "id": 19, "text": "A fair die is tossed once. What is the probability of getting an even number?", "options": ["1/6", "1/3", "1/2", "2/3"], "answer": 2 },
+    { "id": 20, "text": "Find the square root of 0.81.", "options": ["0.09", "0.9", "9.0", "0.009"], "answer": 1 }
+  ],
+  "Biology": [
+    { "id": 21, "text": "In evolution, analogous structures are significant because they show:", "options": ["physiological diversity", "functional diversity", "genetic diversity", "structural diversity"], "answer": 0 },
+    { "id": 22, "text": "If an Amoeba is placed in a salt solution, the contractile vacuoles would:", "options": ["burst more frequently", "be more numerous", "be formed less frequently", "grow bigger before they burst"], "answer": 2 },
+    { "id": 23, "text": "Which of the following processes does not occur during photosynthesis?", "options": ["Carbon (IV) oxide is evolved", "Water is split", "Oxygen is evolved", "Energy from sunlight is absorbed"], "answer": 0 },
+    { "id": 24, "text": "Stunted growth and small yellow leaves in plants are symptoms of the deficiency of:", "options": ["Sulphur", "Iron", "Magnesium", "Nitrogen"], "answer": 3 },
+    { "id": 25, "text": "The structure whose action could result in choking when talking and eating simultaneously is the:", "options": ["Epiglottis", "Oesophagus", "Liver", "Stomach"], "answer": 0 },
+    { "id": 26, "text": "The process by which green plants manufacture food is:", "options": ["Respiration", "Photosynthesis", "Transpiration", "Excretion"], "answer": 1 },
+    { "id": 27, "text": "Which of these is the 'master gland' of the endocrine system?", "options": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"], "answer": 2 },
+    { "id": 28, "text": "The hereditary material in the cell is:", "options": ["RNA", "DNA", "Protein", "Cytoplasm"], "answer": 1 },
+    { "id": 29, "text": "Insects breathe through their:", "options": ["Lungs", "Gills", "Spiracles", "Skin"], "answer": 2 },
+    { "id": 30, "text": "The movement of water through a semi-permeable membrane is:", "options": ["Diffusion", "Osmosis", "Active transport", "Plasmolysis"], "answer": 1 }
+  ],
+  "Economics": [
+    { "id": 31, "text": "The price of a commodity is determined by the interaction of:", "options": ["Supply and Cost", "Demand and Supply", "Demand and Utility", "Utility and Scarcity"], "answer": 1 },
+    { "id": 32, "text": "A major disadvantage of a sole proprietorship is:", "options": ["Quick decision making", "Unlimited liability", "Small capital base", "Privacy of business"], "answer": 1 },
+    { "id": 33, "text": "The value of money varies inversely with the:", "options": ["Interest rate", "General price level", "Volume of trade", "Supply of gold"], "answer": 1 },
+    { "id": 34, "text": "Which of the following is a characteristic of a perfect market?", "options": ["Few buyers", "Homogeneous products", "High transport costs", "Price discrimination"], "answer": 1 },
+    { "id": 35, "text": "The demand for a commodity which has several uses is called:", "options": ["Derived demand", "Joint demand", "Composite demand", "Competitive demand"], "answer": 2 },
+    { "id": 36, "text": "In a capitalist economy, the allocation of resources is determined by:", "options": ["The government", "Price mechanism", "Tradition", "Central planning"], "answer": 1 },
+    { "id": 37, "text": "A situation where the quantity demanded exceeds the quantity supplied is:", "options": ["Market equilibrium", "Excess supply", "Shortage", "Surplus"], "answer": 2 },
+    { "id": 38, "text": "The long-run is a period in which:", "options": ["all factors are fixed", "all factors are variable", "some factors are fixed", "production stops"], "answer": 1 },
+    { "id": 39, "text": "Money serves as a 'store of value' because it:", "options": ["is easily divisible", "is generally acceptable", "can be kept for future use", "is difficult to forge"], "answer": 2 },
+    { "id": 40, "text": "The main objective of a minimum wage policy is to:", "options": ["increase unemployment", "protect low-income earners", "reduce government spending", "encourage migration"], "answer": 1 }
+  ],
+  "Government": [
+    { "id": 41, "text": "The first indigenous Governor-General of Nigeria was:", "options": ["Nnamdi Azikiwe", "Tafawa Balewa", "Obafemi Awolowo", "Ahmadu Bello"], "answer": 0 },
+    { "id": 42, "text": "The main function of the Judiciary is to:", "options": ["Make laws", "Execute laws", "Interpret laws", "Enforce laws"], "answer": 2 },
+    { "id": 43, "text": "A state with a single central government is known as a:", "options": ["Federal state", "Confederal state", "Unitary state", "Republic"], "answer": 2 }
+  ],
+  "English_Language": [
+    { "id": 44, "text": "The primary aim of a political party is to:", "options": ["educate people", "provide jobs", "win elections", "organize rallies"], "answer": 2 },
+    { "id": 45, "text": "The rule of law ensures that:", "options": ["leaders are supreme", "laws are unwritten", "everyone is equal before the law", "lawyers are rich"], "answer": 2 },
+    { "id": 46, "text": "A bicameral legislature has:", "options": ["one house", "two houses", "three houses", "no houses"], "answer": 1 },
+    { "id": 47, "text": "Which of the following is a function of the executive?", "options": ["Interpreting law", "Making law", "Implementing law", "Judging cases"], "answer": 2 },
+    { "id": 48, "text": "Nationalism in Nigeria was aimed at:", "options": ["supporting colonialism", "gaining independence", "promoting tribalism", "starting a war"], "answer": 1 },
+    { "id": 49, "text": "A formal set of rules for a country is a:", "options": ["Manifesto", "Mandate", "Constitution", "Decree"], "answer": 2 },
+    { "id": 50, "text": "The highest court in Nigeria is the:", "options": ["Federal High Court", "Court of Appeal", "Supreme Court", "Magistrate Court"], "answer": 2 },
+    { "id": 51, "text": "Choose the most appropriate option: 'The jury's verdict was that the accused was ____.'", "options": ["guilt", "guilty", "guiltily", "guiltless"], "answer": 1 },
+    { "id": 52, "text": "Choose the word most nearly opposite in meaning to 'Archaic':", "options": ["Ancient", "Modern", "Old", "Primitive"], "answer": 1 },
+    { "id": 53, "text": "Select the correct spelling:", "options": ["Accomodation", "Acommodation", "Accommodation", "Acomodation"], "answer": 2 },
+    { "id": 54, "text": "Identify the adjective in the sentence: 'The courageous boy saved the child.'", "options": ["Courageous", "Boy", "Saved", "Child"], "answer": 0 },
+    { "id": 55, "text": "Choose the correct phrase: 'I look forward to ____ you soon.'", "options": ["see", "seeing", "saw", "be seen"], "answer": 1 },
+    { "id": 56, "text": "Choose the most appropriate option: 'The boy is ___ young to drive a car.'", "options": ["too", "to", "two", "so"], "answer": 0 },
+    { "id": 57, "text": "What is the synonym of 'Courageous'?", "options": ["Weak", "Brave", "Lazy", "Smart"], "answer": 1 },
+    { "id": 58, "text": "Identify the noun in: 'The beauty of the sunset was amazing.'", "options": ["Sunset", "Amazing", "Was", "The"], "answer": 0 },
+    { "id": 59, "text": "Choose the correct spelling:", "options": ["Acurence", "Occurrence", "Ocurence", "Occurence"], "answer": 1 },
+    { "id": 60, "text": "Fill the gap: 'The bag belongs to ___.'", "options": ["I", "me", "my", "mine"], "answer": 1 }
+  ],
+  "Mathematics": [
+    { "id": 61, "text": "A cone has a volume of 8,316 cm³ and a height of 18 cm. Calculate its base radius. (Take π = 22/7)", "options": ["14 cm", "21 cm", "28 cm", "35 cm"], "answer": 1 },
+    { "id": 62, "text": "Evaluate: (0.0028 × 0.0084) / 0.042, leaving your answer in standard form.", "options": ["5.6 × 10^-4", "5.6 × 10^-3", "5.6 × 10^-5", "5.6 × 10^-2"], "answer": 0 },
+    { "id": 63, "text": "Find the sum of the interior angles of a regular pentagon.", "options": ["180°", "360°", "540°", "720°"], "answer": 2 },
+    { "id": 64, "text": "Simplify: log₂ 8 + log₂ 4 - log₂ 2", "options": ["2", "3", "4", "5"], "answer": 2 },
+    { "id": 65, "text": "If y is inversely proportional to x and y = 4 when x = 3, find y when x = 6.", "options": ["1", "2", "6", "12"], "answer": 1 },
+    { "id": 66, "text": "Solve for x: 3x - 5 = 10.", "options": ["3", "5", "15", "2"], "answer": 1 },
+    { "id": 67, "text": "What is the median of 2, 8, 4, 10, 6?", "options": ["4", "6", "8", "10"], "answer": 1 },
+    { "id": 68, "text": "Find 20% of 500.", "options": ["50", "100", "150", "200"], "answer": 1 },
+    { "id": 69, "text": "How many degrees are in a straight line?", "options": ["90", "180", "270", "360"], "answer": 1 },
+    { "id": 70, "text": "Find the area of a square with side 5cm.", "options": ["10cm²", "20cm²", "25cm²", "50cm²"], "answer": 2 }
+  ],
+  "Biology": [
+    { "id": 71, "text": "Which of the following blood vessels carries oxygenated blood to the heart?", "options": ["Pulmonary artery", "Pulmonary vein", "Vena cava", "Aorta"], "answer": 1 },
+    { "id": 72, "text": "The causative organism of Cholera is:", "options": ["Vibrio cholerae", "Plasmodium species", "Morbillivirus", "Bacterium coli"], "answer": 0 },
+    { "id": 73, "text": "The function of root hairs in plants is to:", "options": ["protect the root", "anchor the plant", "absorb water and mineral salts", "store food"], "answer": 2 },
+    { "id": 74, "text": "A plant with a short, vertical underground stem is a:", "options": ["Corm", "Rhizome", "Tuber", "Bulb"], "answer": 0 },
+    { "id": 75, "text": "The bursting of a red blood cell when placed in a hypotonic solution is called:", "options": ["Plasmolysis", "Hemolysis", "Diffusion", "Osmosis"], "answer": 1 },
+    { "id": 76, "text": "The structural unit of life is the:", "options": ["Organ", "Tissue", "Cell", "System"], "answer": 2 },
+    { "id": 77, "text": "Which blood group is the universal recipient?", "options": ["Group A", "Group B", "Group AB", "Group O"], "answer": 2 },
+    { "id": 78, "text": "The process of maintaining a constant body temperature is:", "options": ["Homeostasis", "Excretion", "Respiration", "Osmoregulation"], "answer": 0 },
+    { "id": 79, "text": "Plants that live in desert conditions are called:", "options": ["Hydrophytes", "Mesophytes", "Xerophytes", "Epiphytes"], "answer": 2 },
+    { "id": 80, "text": "The male reproductive part of a flower is the:", "options": ["Stigma", "Style", "Stamen", "Ovary"], "answer": 2 }
+  ],
+  "Chemistry": [
+    { "id": 81, "text": "The atomic number of an element is determined by the number of ____ in its atom.", "options": ["Neutrons", "Electrons", "Protons", "Protons and Neutrons"], "answer": 2 },
+    { "id": 82, "text": "Which of the following is a noble gas?", "options": ["Hydrogen", "Nitrogen", "Neon", "Chlorine"], "answer": 2 },
+    { "id": 83, "text": "The pH of a neutral solution at room temperature is:", "options": ["0", "1", "7", "14"], "answer": 2 },
+    { "id": 84, "text": "A covalent bond is formed by the ____ of electrons between atoms.", "options": ["transfer", "sharing", "loss", "gain"], "answer": 1 },
+    { "id": 85, "text": "The percentage of water of crystallization in CuSO₄·5H₂O is approximately:", "options": ["10%", "25%", "36%", "50%"], "answer": 2 }
+  ],
+  "Physics": [
+    { "id": 86, "text": "The property of a body to remain at rest or continue in a straight line is:", "options": ["Force", "Inertia", "Velocity", "Momentum"], "answer": 1 },
+    { "id": 87, "text": "Which of the following is a derived unit?", "options": ["Kilogram", "Ampere", "Pascal", "Metre"], "answer": 2 },
+    { "id": 88, "text": "The heat required to raise the temperature of 1kg of a substance by 1K is:", "options": ["Latent heat", "Specific heat capacity", "Heat capacity", "Melting point"], "answer": 1 },
+    { "id": 89, "text": "A clinical thermometer differs from a laboratory thermometer because it has a:", "options": ["longer tube", "wider bore", "constriction", "plastic cover"], "answer": 2 },
+    { "id": 90, "text": "The force that keeps an object moving in a circular path is:", "options": ["Centrifugal force", "Centripetal force", "Friction", "Gravity"], "answer": 1 },
+    { "id": 91, "text": "The heat required to change a solid to liquid at a constant temperature is:", "options": ["Specific heat", "Sensible heat", "Latent heat of fusion", "Latent heat of vaporization"], "answer": 2 },
+    { "id": 92, "text": "Which of these instruments is used to measure atmospheric pressure?", "options": ["Hygrometer", "Manometer", "Barometer", "Hydrometer"], "answer": 2 },
+    { "id": 93, "text": "According to Ohm's Law, the potential difference (V) across a conductor is equal to:", "options": ["I/R", "R/I", "I × R", "I + R"], "answer": 2 }
+  ],
+  "physics": [
+    { "id": 94, "text": "The speed of light in a vacuum is approximately:", "options": ["3 x 10^8 m/s", "3 x 10^6 m/s", "3 x 10^5 m/s", "3 x 10^10 m/s"], "answer": 0 },
+    { "id": 95, "text": "Which mirror is used as a driving mirror in vehicles?", "options": ["Concave", "Convex", "Plane", "Parabolic"], "answer": 1 },
+    { "id": 96, "text": "The unit of electric charge is the:", "options": ["Volt", "Ampere", "Coulomb", "Ohm"], "answer": 2 },
+    { "id": 97, "text": "A device that converts mechanical energy into electrical energy is a:", "options": ["Motor", "Generator", "Transformer", "Capacitor"], "answer": 1 },
+    { "id": 98, "text": "The process of splitting a heavy nucleus into lighter ones is:", "options": ["Fusion", "Fission", "Decay", "Ionization"], "answer": 1 },
+    { "id": 99, "text": "The boiling point of water on the Kelvin scale is:", "options": ["100K", "212K", "273K", "373K"], "answer": 3 },
+    { "id": 100, "text": "Which of these is a magnetic material?", "options": ["Aluminium", "Copper", "Steel", "Gold"], "answer": 2 },
+    { "id": 101, "text": "The movement of molecules from a region of higher concentration to lower is:", "options": ["Osmosis", "Diffusion", "Active transport", "Translocation"], "answer": 1 },
+    { "id": 102, "text": "The simplest member of the Alkanes is:", "options": ["Methane", "Ethane", "Propane", "Butane"], "answer": 0 },
+    { "id": 103, "text": "An example of a polysaccharide is:", "options": ["Glucose", "Sucrose", "Starch", "Fructose"], "answer": 2 },
+    { "id": 104, "text": "The most abundant gas in the atmosphere is:", "options": ["Oxygen", "Carbon dioxide", "Nitrogen", "Argon"], "answer": 2 },
+    { "id": 105, "text": "Which acid is found in an ant sting?", "options": ["Citric acid", "Methanoic acid", "Ethanoic acid", "Hydrochloric acid"], "answer": 1 },
+    { "id": 106, "text": "The hardening of oils to margarine involves:", "options": ["Hydration", "Hydrogenation", "Oxidation", "Substitution"], "answer": 1 },
+    { "id": 107, "text": "The process of a solid changing to a gas without melting is:", "options": ["Evaporation", "Sublimation", "Condensation", "Freezing"], "answer": 1 },
+    { "id": 108, "text": "What is the oxidation number of Hydrogen in metal hydrides?", "options": ["+1", "0", "-1", "-2"], "answer": 2 },
+    { "id": 109, "text": "The enzyme in human saliva that digests starch is:", "options": ["Pepsin", "Lipase", "Ptyalin", "Renin"], "answer": 2 },
+    { "id": 110, "text": "The removal of metabolic waste from the body is:", "options": ["Egestion", "Excretion", "Digestion", "Secretions"], "answer": 1 },
+    { "id": 111, "text": "The chamber of the heart that pumps blood to the body is:", "options": ["Left Atrium", "Right Atrium", "Left Ventricle", "Right Ventricle"], "answer": 2 },
+    { "id": 112, "text": "Plants that grow in water are known as:", "options": ["Xerophytes", "Hydrophytes", "Mesophytes", "Epiphytes"], "answer": 1 },
+    { "id": 113, "text": "Which part of the brain controls balance and posture?", "options": ["Cerebrum", "Cerebellum", "Medulla", "Thalamus"], "answer": 1 },
+    { "id": 114, "text": "The genetic cross between an offspring and one of its parents is:", "options": ["Monohybrid", "Dihybrid", "Backcross", "Mutation"], "answer": 2 }
+  ], 
+    "Mathematics": [
+    { "id": 115, "text": "A triangle with no two sides equal is a/an:", "options": ["Isosceles", "Equilateral", "Scalene", "Right-angled"], "answer": 2 },
+    { "id": 116, "text": "Evaluate (0.01)^2", "options": ["0.01", "0.001", "0.0001", "0.00001"], "answer": 2 },
+    { "id": 117, "text": "The sum of angles in a quadrilateral is:", "options": ["180°", "360°", "540°", "720°"], "answer": 1 },
+    { "id": 118, "text": "Find the median of the set {5, 2, 8, 4, 10}:", "options": ["2", "4", "5", "8"], "answer": 2 },
+    { "id": 119, "text": "What is the value of 5! (5 factorial)?", "options": ["15", "25", "60", "120"], "answer": 3 },
+    { "id": 120, "text": "The gradient of a horizontal line is:", "options": ["0", "1", "Infinity", "Undefined"], "answer": 0 }
+  ],
+    "Biology": [
+    { "id": 121, "text": "The study of the age of fossils is called:", "options": ["Archaeology", "Paleontology", "Geology", "Evolution"], "answer": 1 },
+    { "id": 122, "text": "A group of atoms that move together as a unit in a reaction is:", "options": ["Molecule", "Ion", "Radical", "Isotope"], "answer": 2 },
+    { "id": 123, "text": "Which element has the atomic number 1?", "options": ["Helium", "Oxygen", "Hydrogen", "Carbon"], "answer": 2 },
+    { "id": 124, "text": "The reaction of an acid and a base to form salt and water is:", "options": ["Oxidation", "Neutralization", "Esterification", "Saponification"], "answer": 1 },
+    { "id": 125, "text": "The common name for Sodium Chloride is:", "options": ["Baking soda", "Table salt", "Caustic soda", "Epsom salt"], "answer": 1 },
+    { "id": 126, "text": "The SI unit of Work is:", "options": ["Watt", "Newton", "Joule", "Pascal"], "answer": 2 },
+    { "id": 127, "text": "A material that does not allow light to pass through it is:", "options": ["Transparent", "Translucent", "Opaque", "Reflective"], "answer": 2 },
+    { "id": 128, "text": "The freezing point of water on the Celsius scale is:", "options": ["-32°C", "0°C", "32°C", "100°C"], "answer": 1 },
+    { "id": 129, "text": "Work done per unit time is called:", "options": ["Energy", "Force", "Power", "Pressure"], "answer": 2 },
+    { "id": 130, "text": "The instrument used to measure wind direction is a:", "options": ["Anemometer", "Barometer", "Wind Vane", "Hygrometer"], "answer": 2 },
+    { "id": 131, "text": "Nigeria became a Republic in what year?", "options": ["1960", "1963", "1966", "1970"], "answer": 1 },
+    { "id": 132, "text": "Who was the first Nigerian Premier of the Western Region?", "options": ["Nnamdi Azikiwe", "Ahmadu Bello", "Obafemi Awolowo", "Tafawa Balewa"], "answer": 2 },
+    { "id": 133, "text": "The highest organ of the United Nations is the:", "options": ["General Assembly", "Security Council", "Secretariat", "Trusteeship Council"], "answer": 1 },
+    { "id": 134, "text": "The first military coup in Nigeria occurred in:", "options": ["January 1966", "July 1966", "August 1975", "December 1983"], "answer": 0 },
+    { "id": 135, "text": "Rule of law means equality before the:", "options": ["King", "President", "Law", "Judges"], "answer": 2 }
+    ], 
+
+    "Literature": [
+    { "id": 136, "text": "The author of 'Things Fall Apart' is:", "options": ["Wole Soyinka", "Chinua Achebe", "Ben Okri", "Cyprian Ekwensi"], "answer": 1 },
+    { "id": 137, "text": "A poem of mournful nature written for the dead is an:", "options": ["Epic", "Elegy", "Ode", "Sonnet"], "answer": 1 },
+    { "id": 138, "text": "The main hero in a literary work is the:", "options": ["Antagonist", "Protagonist", "Villain", "Foil"], "answer": 1 },
+    { "id": 139, "text": "The point of highest tension in a plot is the:", "options": ["Resolution", "Exposition", "Climax", "Rising action"], "answer": 2 },
+    { "id": 140, "text": "A comparison using 'like' or 'as' is a:", "options": ["Metaphor", "Simile", "Oxymoron", "Personification"], "answer": 1 }
+  ],
+  "Geography": [
+    { "id": 141, "text": "Production is said to be complete when goods reach the:", "options": ["Wholesaler", "Retailer", "Consumer", "Factory"], "answer": 2 },
+    { "id": 142, "text": "The reward for Labour as a factor of production is:", "options": ["Profit", "Rent", "Wages", "Interest"], "answer": 2 },
+    { "id": 143, "text": "A market with only one seller is a:", "options": ["Monopoly", "Oligopoly", "Duopoly", "Perfect market"], "answer": 0 },
+    { "id": 144, "text": "The 'Naira' was introduced in Nigeria in:", "options": ["1960", "1963", "1973", "1975"], "answer": 2 },
+    { "id": 145, "text": "Economic growth is measured by an increase in:", "options": ["Inflation", "Population", "GDP", "Unemployment"], "answer": 2 },
+    { "id": 146, "text": "The simplest form of carbohydrate is:", "options": ["Sugar", "Starch", "Monosaccharide", "Polypeptide"], "answer": 2 },
+    { "id": 147, "text": "The process of wearing away of the earth's surface by wind or water is:", "options": ["Weathering", "Erosion", "Deposition", "Vulcanicity"], "answer": 1 },
+    { "id": 148, "text": "The currency of Ghana is:", "options": ["Naira", "Cedi", "Dollar", "Pound"], "answer": 1 },
+    { "id": 149, "text": "How many states are in Nigeria?", "options": ["12", "19", "30", "36"], "answer": 3 },
+    { "id": 150, "text": "The largest ocean in the world is the:", "options": ["Atlantic", "Pacific", "Indian", "Arctic"], "answer": 1 }
+  ],
+
+  "Government_and_Civics": [
+    { "id": 151, "text": "The 1976 Local Government Reforms in Nigeria were aimed at:", "options": ["abolishing local councils", "centralizing power", "standardizing local government", "reducing revenue"], "answer": 2 },
+    { "id": 152, "text": "Universal Adult Suffrage refers to the right to vote by:", "options": ["only taxpayers", "qualified adults", "educated citizens", "property owners"], "answer": 1 },
+    { "id": 153, "text": "The head of the Commonwealth of Nations is the:", "options": ["British Prime Minister", "British Monarch", "UN Secretary General", "President of Nigeria"], "answer": 1 },
+    { "id": 154, "text": "A major advantage of a multi-party system is that it:", "options": ["is very cheap", "prevents tribalism", "provides wider choices", "ensures absolute stability"], "answer": 2 },
+    { "id": 155, "text": "In a presidential system, the President is responsible to the:", "options": ["Parliament", "Judiciary", "Constitution and Electorate", "Military"], "answer": 2 },
+    { "id": 156, "text": "The primary duty of the police is to:", "options": ["make laws", "enforce laws", "judge criminals", "defend borders"], "answer": 1 },
+    { "id": 157, "text": "A situation where a person is above the law is a violation of:", "options": ["Sovereignty", "The Constitution", "The Rule of Law", "Democracy"], "answer": 2 },
+    { "id": 158, "text": "The right to vote is also known as:", "options": ["Franchise", "Mandate", "Manifesto", "Decree"], "answer": 0 },
+    { "id": 159, "text": "The headquarters of the UN is in:", "options": ["London", "Paris", "New York", "Geneva"], "answer": 2 },
+    { "id": 160, "text": "The process of assigning seats in a legislature is:", "options": ["Gerrymandering", "Delimitation", "Apportionment", "Electorate"], "answer": 2 }
+  ],
+  "Geography": [
+    { "id": 161, "text": "The line that divides the Earth into the Northern and Southern Hemispheres is the:", "options": ["Tropic of Cancer", "Prime Meridian", "Equator", "Arctic Circle"], "answer": 2 },
+    { "id": 162, "text": "The most common gas in the Earth's atmosphere is:", "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"], "answer": 2 },
+    { "id": 163, "text": "Igneous rocks are formed from the:", "options": ["cooling of magma", "compression of sand", "decay of plants", "erosion of mountains"], "answer": 0 },
+    { "id": 164, "text": "Which instrument is used to measure wind speed?", "options": ["Wind vane", "Hygrometer", "Anemometer", "Barometer"], "answer": 2 },
+    { "id": 165, "text": "A scale of 1:50,000 on a map is known as a:", "options": ["Statement scale", "Representative fraction", "Linear scale", "Grid scale"], "answer": 1 }
+  ],
+  
+  "English_Language": [
+    { "id": 166, "text": "Choose the most appropriate option: 'The children were playing ___ the garden.'", "options": ["on", "at", "in", "by"], "answer": 2 },
+    { "id": 167, "text": "Identify the synonym of 'Industrious':", "options": ["Lazy", "Hardworking", "Rich", "Happy"], "answer": 1 },
+    { "id": 168, "text": "Choose the correctly spelled word:", "options": ["Acomodation", "Accommodation", "Accomodation", "Acommodation"], "answer": 1 },
+    { "id": 169, "text": "The plural of 'Child' is:", "options": ["Childs", "Children", "Childrens", "Childes"], "answer": 1 },
+    { "id": 170, "text": "Choose the antonym of 'Transparent':", "options": ["Clear", "Opaque", "Vague", "Bright"], "answer": 1 }
+  ],
+  "Mathematics": [
+    { "id": 171, "text": "Find the area of a circle whose diameter is 14 cm (Take pi = 22/7):", "options": ["44 cm²", "154 cm²", "616 cm²", "11 cm²"], "answer": 1 },
+    { "id": 172, "text": "Find the simple interest on N5,000 for 2 years at 4% per annum:", "options": ["N200", "N400", "N800", "N100"], "answer": 1 },
+    { "id": 173, "text": "Evaluate √144 + √25:", "options": ["13", "17", "169", "60"], "answer": 1 },
+    { "id": 174, "text": "Express 0.000045 in standard form:", "options": ["4.5 x 10^-5", "4.5 x 10^-4", "4.5 x 10^5", "0.45 x 10^-4"], "answer": 0 },
+    { "id": 175, "text": "If 2x - 3 = 7, find the value of x:", "options": ["2", "5", "10", "12"], "answer": 1 },
+    { "id": 176, "text": "A student's marks are 40, 50, 60, 70, and 80. Find the mean mark:", "options": ["50", "60", "70", "80"], "answer": 1 },
+    { "id": 177, "text": "What is the probability of picking a queen from a standard pack of 52 cards?", "options": ["1/52", "1/13", "4/13", "1/4"], "answer": 1 },
+    { "id": 178, "text": "Find the value of x in the equation 10^x = 1000:", "options": ["1", "2", "3", "4"], "answer": 2 },
+    { "id": 179, "text": "Convert 1011 (base 2) to base 10:", "options": ["9", "10", "11", "12"], "answer": 2 },
+    { "id": 180, "text": "A rectangle has a length of 8cm and a width of 5cm. What is its perimeter?", "options": ["13cm", "26cm", "40cm", "18cm"], "answer": 1 }
+  ],
+  "Chemistry": [
+    { "id": 181, "text": "The major constituent of natural gas is:", "options": ["Ethane", "Methane", "Propane", "Butane"], "answer": 1 },
+    { "id": 182, "text": "The most reactive halogen is:", "options": ["Chlorine", "Bromine", "Iodine", "Fluorine"], "answer": 3 },
+    { "id": 183, "text": "The pH of a basic solution is:", "options": ["Less than 7", "Exactly 7", "Greater than 7", "0"], "answer": 2 },
+    { "id": 184, "text": "The chemical symbol for Silver is:", "options": ["Si", "Ag", "Au", "Sn"], "answer": 1 },
+    { "id": 185, "text": "Isotopes are atoms of the same element with different:", "options": ["Protons", "Electrons", "Neutrons", "Valency"], "answer": 2 },
+    { "id": 186, "text": "The process of a liquid turning into a gas at its boiling point is:", "options": ["Evaporation", "Vaporization", "Condensation", "Sublimation"], "answer": 1 },
+    { "id": 187, "text": "Which of these is a physical change?", "options": ["Burning wood", "Rusting iron", "Melting ice", "Digesting food"], "answer": 2 },
+    { "id": 188, "text": "The law of conservation of mass was proposed by:", "options": ["Dalton", "Lavoisier", "Proust", "Boyle"], "answer": 1 },
+    { "id": 189, "text": "The oxidation number of Oxygen in H2O2 is:", "options": ["-2", "-1", "+1", "+2"], "answer": 1 },
+    { "id": 190, "text": "Which gas is used to inflate balloons because it is very light?", "options": ["Oxygen", "Nitrogen", "Helium", "Argon"], "answer": 2 }
+  ],
+  "Agricultural_Science": [
+    { "id": 191, "text": "The most common method of land tenure in Nigeria is:", "options": ["Leasehold", "Inheritance", "Gifting", "State ownership"], "answer": 1 },
+    { "id": 192, "text": "Which of these is a source of irrigation water?", "options": ["Rainfall", "Borehole", "Humidity", "Frost"], "answer": 1 },
+    { "id": 193, "text": "The tool used for transplanting seedlings is a:", "options": ["Hoe", "Hand trowel", "Rake", "Spade"], "answer": 1 },
+    { "id": 194, "text": "The branch of agriculture that deals with the study of crops is:", "options": ["Agronomy", "Animal Science", "Entomology", "Pedology"], "answer": 0 },
+    { "id": 195, "text": "Which soil type has the smallest particle size?", "options": ["Sandy soil", "Silty soil", "Clay soil", "Loamy soil"], "answer": 2 },
+    { "id": 196, "text": "The removal of the top layer of soil by water or wind is:", "options": ["Mulching", "Erosion", "Leaching", "Manuring"], "answer": 1 },
+    { "id": 197, "text": "A crop that completes its life cycle in one year is a/an:", "options": ["Annual", "Biennial", "Perennial", "Ephemeral"], "answer": 0 },
+    { "id": 198, "text": "The process of placing seeds in the soil is:", "options": ["Harvesting", "Pruning", "Sowing", "Thinning"], "answer": 2 },
+    { "id": 199, "text": "Which of these is a farm animal?", "options": ["Lion", "Elephant", "Cattle", "Wolf"], "answer": 2 },
+    { "id": 200, "text": "The primary aim of poultry farming is the production of:", "options": ["Wool", "Milk", "Eggs and Meat", "Timber"], "answer": 2 }
+  ],
+  "ICT_and_General": [
+    { "id": 201, "text": "A computer keyboard is an example of an:", "options": ["Output device", "Input device", "Storage device", "Processing device"], "answer": 1 },
+    { "id": 202, "text": "The 'brain' of the computer is the:", "options": ["Monitor", "RAM", "CPU", "Hard Drive"], "answer": 2 },
+    { "id": 203, "text": "HTTP stands for:", "options": ["HyperText Transfer Protocol", "HighText Transfer Protocol", "HyperText Type Protocol", "None"], "answer": 0 },
+    { "id": 204, "text": "A collection of 8 bits is called a:", "options": ["Nibble", "Byte", "Kilobyte", "Gigabyte"], "answer": 1 },
+    { "id": 205, "text": "Which of these is an operating system?", "options": ["Microsoft Word", "Windows", "Google Chrome", "Adobe Photoshop"], "answer": 1 },
+    { "id": 206, "text": "In Nigeria, a person is eligible to vote at the age of:", "options": ["16", "18", "21", "25"], "answer": 1 },
+    { "id": 207, "text": "The currency of the United Kingdom is the:", "options": ["Dollar", "Euro", "Pound Sterling", "Yen"], "answer": 2 },
+    { "id": 208, "text": "Who was the first female governor in Nigeria (acting capacity)?", "options": ["Virginia Etiaba", "Stella Oduah", "Ngozi Okonjo-Iweala", "Aisha Alhassan"], "answer": 0 },
+    { "id": 209, "text": "Which city is the administrative capital of South Africa?", "options": ["Cape Town", "Johannesburg", "Pretoria", "Durban"], "answer": 2 },
+    { "id": 210, "text": "The first World War ended in what year?", "options": ["1914", "1918", "1939", "1945"], "answer": 1 },
+    { "id": 211, "text": "The largest desert in the world is the:", "options": ["Sahara", "Gobi", "Antarctic", "Kalahari"], "answer": 2 },
+    { "id": 212, "text": "How many colors are in a rainbow?", "options": ["5", "6", "7", "8"], "answer": 2 },
+    { "id": 213, "text": "The gas used by plants for photosynthesis is:", "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Hydrogen"], "answer": 2 },
+    { "id": 214, "text": "Which planet is closest to the Sun?", "options": ["Venus", "Mars", "Mercury", "Earth"], "answer": 2 },
+    { "id": 215, "text": "The statue of Liberty was a gift to the USA from:", "options": ["Germany", "United Kingdom", "France", "Spain"], "answer": 2 }
+  ],
+  "English_Language": [
+    { "id": 216, "text": "Choose the most appropriate option: 'If I ___ you, I would accept the offer.'", "options": ["am", "was", "were", "be"], "answer": 2 },
+    { "id": 217, "text": "What is the antonym of 'Optimistic'?", "options": ["Hopeful", "Pessimistic", "Careless", "Happy"], "answer": 1 },
+    { "id": 218, "text": "Choose the correctly spelled word:", "options": ["Priviledge", "Privilege", "Prividlege", "Priveledge"], "answer": 1 },
+    { "id": 219, "text": "Identify the figure of speech: 'The wind whispered through the trees.'", "options": ["Metaphor", "Simile", "Personification", "Hyperbole"], "answer": 2 },
+    { "id": 220, "text": "Choose the synonym of 'Meticulous':", "options": ["Careless", "Thorough", "Lazy", "Quick"], "answer": 1 }
+  ],
+  "Mathematics": [
+    { "id": 221, "text": "If 3x + 4 = 19, find the value of x.", "options": ["3", "5", "6", "15"], "answer": 1 },
+    { "id": 222, "text": "What is the value of (2^3) x (2^2)?", "options": ["10", "12", "32", "64"], "answer": 2 },
+    { "id": 223, "text": "Find the simple interest on N10,000 at 2% per annum for 5 years.", "options": ["N100", "N500", "N1,000", "N2,000"], "answer": 2 },
+    { "id": 224, "text": "Calculate the area of a triangle with base 10cm and height 8cm.", "options": ["80cm²", "40cm²", "20cm²", "18cm²"], "answer": 1 },
+    { "id": 225, "text": "Express 12.5% as a fraction in its simplest form.", "options": ["1/4", "1/5", "1/8", "1/10"], "answer": 2 },
+    { "id": 226, "text": "Solve for x: x/2 - 3 = 5.", "options": ["4", "10", "16", "8"], "answer": 2 },
+    { "id": 227, "text": "What is the sum of angles at a point?", "options": ["90°", "180°", "270°", "360°"], "answer": 3 },
+    { "id": 228, "text": "Find the square root of 225.", "options": ["13", "14", "15", "25"], "answer": 2 },
+    { "id": 229, "text": "A student spends 1/3 of his money on books and 1/4 on food. What fraction remains?", "options": ["7/12", "5/12", "1/2", "1/12"], "answer": 1 },
+    { "id": 230, "text": "Find the mode of the data: 2, 3, 3, 4, 5, 5, 5, 6.", "options": ["3", "4", "5", "6"], "answer": 2 }
+  ],
+  "Physics": [
+    { "id": 231, "text": "The instrument used to measure the depth of the sea is:", "options": ["Barometer", "Hygrometer", "Fathometer", "Hydrometer"], "answer": 2 },
+    { "id": 232, "text": "Which of these is a non-renewable source of energy?", "options": ["Solar", "Wind", "Coal", "Tidal"], "answer": 2 },
+    { "id": 233, "text": "The unit of frequency is:", "options": ["Hertz", "Joule", "Watt", "Ohm"], "answer": 0 },
+    { "id": 234, "text": "A liquid that evaporates easily is said to be:", "options": ["Viscous", "Volatile", "Dense", "Transparent"], "answer": 1 },
+    { "id": 235, "text": "The mirror used as a magnifying glass in a microscope is:", "options": ["Convex", "Concave", "Plane", "Cylindrical"], "answer": 1 },
+    { "id": 236, "text": "Which color of the spectrum is deviated most by a prism?", "options": ["Red", "Green", "Yellow", "Violet"], "answer": 3 },
+    { "id": 237, "text": "The rate of change of momentum is equal to:", "options": ["Velocity", "Acceleration", "Force", "Power"], "answer": 2 },
+    { "id": 238, "text": "What is the temperature of absolute zero in Celsius?", "options": ["0°C", "100°C", "-273°C", "273°C"], "answer": 2 },
+    { "id": 239, "text": "Energy can neither be created nor destroyed is the law of:", "options": ["Inertia", "Conservation of Energy", "Thermodynamics", "Gravity"], "answer": 1 },
+    { "id": 240, "text": "Which device converts solar energy to electrical energy?", "options": ["Photovoltaic cell", "Generator", "Battery", "Turbine"], "answer": 0 }
+  ],
+  "Chemistry": [
+    { "id": 241, "text": "The chemical symbol for Potassium is:", "options": ["P", "Po", "K", "Pt"], "answer": 2 },
+    { "id": 242, "text": "A substance that changes the color of litmus paper from blue to red is a/an:", "options": ["Base", "Acid", "Salt", "Oxide"], "answer": 1 },
+    { "id": 243, "text": "The process of a gas turning into a solid is called:", "options": ["Sublimation", "Deposition", "Condensation", "Freezing"], "answer": 1 },
+    { "id": 244, "text": "Which gas is used in extinguishing fires?", "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"], "answer": 2 },
+    { "id": 245, "text": "The most abundant metal in the earth's crust is:", "options": ["Iron", "Aluminium", "Copper", "Gold"], "answer": 1 },
+    { "id": 246, "text": "The bond between metals and non-metals is usually:", "options": ["Covalent", "Ionic", "Metallic", "Hydrogen"], "answer": 1 },
+    { "id": 247, "text": "Hard water contains the salts of:", "options": ["Sodium and Potassium", "Calcium and Magnesium", "Iron and Lead", "Zinc and Copper"], "answer": 1 },
+    { "id": 248, "text": "The process by which seeds are extracted from cotton is:", "options": ["Ginning", "Spinning", "Weaving", "Carding"], "answer": 0 },
+    { "id": 249, "text": "What is the pH of a neutral solution?", "options": ["0", "5", "7", "14"], "answer": 2 },
+    { "id": 250, "text": "A mixture of two or more metals is called a/an:", "options": ["Compound", "Alloy", "Isotope", "Monomer"], "answer": 1 }
+  ],
+  "Biology": [
+    { "id": 251, "text": "The site for cellular respiration is:", "options": ["Nucleus", "Ribosome", "Mitochondria", "Vacuole"], "answer": 2 },
+    { "id": 252, "text": "Which part of the plant is responsible for water transport?", "options": ["Phloem", "Xylem", "Stomata", "Cortex"], "answer": 1 },
+    { "id": 253, "text": "Deficiency of Vitamin D in children causes:", "options": ["Scurvy", "Rickets", "Night blindness", "Beriberi"], "answer": 1 },
+    { "id": 254, "text": "Which of these is a flightless bird?", "options": ["Eagle", "Hawk", "Penguin", "Parrot"], "answer": 2 },
+    { "id": 255, "text": "The process by which organisms maintain a stable internal environment is:", "options": ["Homeostasis", "Excretion", "Nutrition", "Irritability"], "answer": 0 },
+    { "id": 256, "text": "Which organ in the body filters blood to produce urine?", "options": ["Liver", "Heart", "Kidney", "Bladder"], "answer": 2 },
+    { "id": 257, "text": "An example of a biotic factor in an ecosystem is:", "options": ["Sunlight", "Water", "Plants", "Soil"], "answer": 2 },
+    { "id": 258, "text": "The female gamete in humans is called:", "options": ["Sperm", "Ovum", "Zygote", "Embryo"], "answer": 1 },
+    { "id": 259, "text": "Which hormone is known as the 'fight or flight' hormone?", "options": ["Insulin", "Thyroxine", "Adrenaline", "Estrogen"], "answer": 2 },
+    { "id": 260, "text": "The green pigment in plants is:", "options": ["Hemoglobin", "Chlorophyll", "Melanin", "Xanthophyll"], "answer": 1 }
+  ],
+  "Civics_and_Current_Affairs": [
+    { "id": 261, "text": "The current Secretary-General of the United Nations is:", "options": ["Ban Ki-moon", "Kofi Annan", "António Guterres", "Boutros Boutros-Ghali"], "answer": 2 },
+    { "id": 262, "text": "The first capital city of Nigeria was:", "options": ["Lagos", "Abuja", "Calabar", "Lokoja"], "answer": 2 },
+    { "id": 263, "text": "How many geographical zones are in Nigeria?", "options": ["4", "5", "6", "8"], "answer": 2 },
+    { "id": 264, "text": "The currency of the European Union is:", "options": ["Pound", "Dollar", "Euro", "Franc"], "answer": 2 },
+    { "id": 265, "text": "Which Nigerian state is known as the 'Home of Peace'?", "options": ["Borno", "Plateau", "Kano", "Lagos"], "answer": 1 }
+  ],
+
+  "English_Language": [
+    { "id": 266, "text": "Choose the correctly spelled word:", "options": ["Occurrence", "Ocurence", "Occurence", "Ocurrence"], "answer": 0 },
+    { "id": 267, "text": "Choose the antonym of 'Plentiful':", "options": ["Abundant", "Scarce", "Many", "Sufficient"], "answer": 1 },
+    { "id": 268, "text": "Fill the gap: 'The boy decided to ___ the invitation.'", "options": ["accept", "except", "excess", "expect"], "answer": 0 },
+    { "id": 269, "text": "Choose the synonym of 'Fragile':", "options": ["Strong", "Tough", "Delicate", "Heavy"], "answer": 2 },
+    { "id": 270, "text": "Complete the idiom: 'To cry over spilled ____.'", "options": ["water", "milk", "tea", "soup"], "answer": 1 }
+  ],
+  "Mathematics": [
+    { "id": 271, "text": "Find the median of the set: 12, 7, 9, 15, 10.", "options": ["7", "9", "10", "12"], "answer": 2 },
+    { "id": 272, "text": "Find the value of x if 2x - 10 = 30.", "options": ["10", "15", "20", "40"], "answer": 2 },
+    { "id": 273, "text": "What is the area of a square whose perimeter is 20cm?", "options": ["20cm²", "25cm²", "100cm²", "16cm²"], "answer": 1 },
+    { "id": 274, "text": "Express 0.0056 in standard form.", "options": ["5.6 x 10^-2", "5.6 x 10^-3", "5.6 x 10^3", "0.56 x 10^-2"], "answer": 1 },
+    { "id": 275, "text": "A student scored 8 out of 20 in a test. What is the percentage score?", "options": ["20%", "40%", "60%", "80%"], "answer": 1 },
+    { "id": 276, "text": "Calculate the volume of a cube with side 3cm.", "options": ["9cm³", "12cm³", "18cm³", "27cm³"], "answer": 3 },
+    { "id": 277, "text": "Find the mean of 2, 4, 6, 8.", "options": ["4", "5", "6", "10"], "answer": 1 },
+    { "id": 278, "text": "If a fair coin is tossed, what is the probability of getting a tail?", "options": ["0", "1/4", "1/2", "1"], "answer": 2 },
+    { "id": 279, "text": "Convert 15 in base 10 to base 2.", "options": ["1010", "1111", "1101", "1011"], "answer": 1 },
+    { "id": 280, "text": "Find the value of 5² + 2³.", "options": ["31", "33", "29", "17"], "answer": 1 }
+  ],
+  "Physics": [
+    { "id": 281, "text": "The primary source of solar energy is:", "options": ["Nuclear fission", "Nuclear fusion", "Chemical reaction", "Burning of gases"], "answer": 1 },
+    { "id": 282, "text": "Which instrument is used to measure current in a circuit?", "options": ["Voltmeter", "Ammeter", "Galvanometer", "Ohmmeter"], "answer": 1 },
+    { "id": 283, "text": "The boiling point of water in Fahrenheit is:", "options": ["100°F", "212°F", "32°F", "180°F"], "answer": 1 },
+    { "id": 284, "text": "Which mirror is used in a searchlight?", "options": ["Convex", "Concave", "Plane", "Parabolic"], "answer": 1 },
+    { "id": 285, "text": "The SI unit of Power is:", "options": ["Joule", "Newton", "Watt", "Pascal"], "answer": 2 },
+    { "id": 286, "text": "Which color of light has the shortest wavelength?", "options": ["Red", "Green", "Blue", "Violet"], "answer": 3 },
+    { "id": 287, "text": "The resistance of a wire depends on its:", "options": ["Length", "Area", "Temperature", "All of the above"], "answer": 3 },
+    { "id": 288, "text": "Sound travels fastest in:", "options": ["Air", "Water", "Steel", "Vacuum"], "answer": 2 },
+    { "id": 289, "text": "Work done is zero when the angle between force and displacement is:", "options": ["0°", "45°", "90°", "180°"], "answer": 2 },
+    { "id": 290, "text": "The image formed by a plane mirror is always:", "options": ["Real", "Virtual", "Inverted", "Magnified"], "answer": 1 }
+  ],
+  "Chemistry": [
+    { "id": 291, "text": "The oxidation state of an uncombined element is:", "options": ["+1", "-1", "0", "+2"], "answer": 2 },
+    { "id": 292, "text": "Which of these is a liquid at room temperature?", "options": ["Iron", "Mercury", "Copper", "Zinc"], "answer": 1 },
+    { "id": 293, "text": "The formula for Ethanoic acid is:", "options": ["CH4", "CH3COOH", "C2H5OH", "HCl"], "answer": 1 },
+    { "id": 294, "text": "Which gas is known as 'laughing gas'?", "options": ["Nitrous oxide", "Nitric oxide", "Nitrogen", "Ammonia"], "answer": 0 },
+    { "id": 295, "text": "The process of a gas changing to a liquid is:", "options": ["Evaporation", "Condensation", "Sublimation", "Freezing"], "answer": 1 },
+    { "id": 296, "text": "The lightest element in the periodic table is:", "options": ["Helium", "Hydrogen", "Lithium", "Oxygen"], "answer": 1 },
+    { "id": 297, "text": "Which of these is a covalent compound?", "options": ["NaCl", "KCl", "H2O", "MgO"], "answer": 2 },
+    { "id": 298, "text": "The color of phenolphthalein in an acidic solution is:", "options": ["Pink", "Blue", "Colorless", "Yellow"], "answer": 2 },
+    { "id": 299, "text": "Saponification is the process of making:", "options": ["Salt", "Soap", "Sugar", "Acid"], "answer": 1 },
+    { "id": 300, "text": "The atomic number of Carbon is:", "options": ["6", "12", "14", "8"], "answer": 0 }
+  ],
+  "Biology": [
+    { "id": 301, "text": "The structural and functional unit of the kidney is the:", "options": ["Nephron", "Neuron", "Alveoli", "Villi"], "answer": 0 },
+    { "id": 302, "text": "Which of these is a warm-blooded animal?", "options": ["Fish", "Lizard", "Bird", "Snake"], "answer": 2 },
+    { "id": 303, "text": "The process of getting rid of metabolic waste is:", "options": ["Nutrition", "Excretion", "Respiration", "Digestion"], "answer": 1 },
+    { "id": 304, "text": "Which part of the brain controls voluntary actions?", "options": ["Cerebrum", "Cerebellum", "Medulla", "Thalamus"], "answer": 0 },
+    { "id": 305, "text": "The male gamete of a flowering plant is found in the:", "options": ["Ovary", "Stigma", "Anther", "Style"], "answer": 2 },
+    { "id": 306, "text": "A group of similar cells performing a specific function is a/an:", "options": ["Organ", "Tissue", "System", "Organism"], "answer": 1 },
+    { "id": 307, "text": "Which vitamin is responsible for blood clotting?", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin K"], "answer": 3 },
+    { "id": 308, "text": "The relationship where both organisms benefit is:", "options": ["Parasitism", "Commensalism", "Mutualism", "Competition"], "answer": 2 },
+    { "id": 309, "text": "The movement of a plant part toward water is:", "options": ["Phototropism", "Hydrotropism", "Geotropism", "Thigmotropism"], "answer": 1 },
+    { "id": 310, "text": "Which organ in humans is responsible for detoxifying the blood?", "options": ["Heart", "Lungs", "Liver", "Spleen"], "answer": 2 }
+  ],
+  "Civics_and_Geography": [
+    { "id": 311, "text": "The highest peak in Nigeria is:", "options": ["Chappal Waddi", "Zuma Rock", "Olumo Rock", "Idanre Hills"], "answer": 0 },
+    { "id": 312, "text": "Which river is the longest in Africa?", "options": ["River Niger", "River Nile", "River Congo", "River Zambezi"], "answer": 1 },
+    { "id": 313, "text": "The official motto of Nigeria is:", "options": ["Unity and Faith", "Unity and Progress", "Unity and Faith, Peace and Progress", "Peace and Unity"], "answer": 2 },
+    { "id": 314, "text": "How many local government areas are in Nigeria?", "options": ["360", "774", "450", "1000"], "answer": 1 },
+    { "id": 315, "text": "Which country borders Nigeria to the West?", "options": ["Cameroon", "Chad", "Niger", "Benin Republic"], "answer": 3 }
+  ],
+  
+  "English_Language": [
+    { "id": 316, "text": "Choose the most appropriate option: 'The man was acquitted ___ the charge of theft.'", "options": ["from", "of", "with", "by"], "answer": 1 },
+    { "id": 317, "text": "What is the synonym of 'Candid'?", "options": ["Dishonest", "Frank", "Secretive", "Vague"], "answer": 1 },
+    { "id": 318, "text": "Choose the correctly spelled word:", "options": ["Questionaire", "Questionnaire", "Questionairee", "Quetionnaire"], "answer": 1 },
+    { "id": 319, "text": "Identify the figure of speech: 'The classroom was a zoo.'", "options": ["Simile", "Metaphor", "Oxymoron", "Hyperbole"], "answer": 1 },
+    { "id": 320, "text": "Choose the antonym of 'Enormous':", "options": ["Huge", "Tiny", "Large", "Broad"], "answer": 1 }
+  ],
+  "Mathematics": [
+    { "id": 321, "text": "If 5x + 3 = 2x + 12, find the value of x.", "options": ["3", "5", "9", "15"], "answer": 0 },
+    { "id": 322, "text": "What is the sum of the interior angles of a hexagon?", "options": ["360°", "540°", "720°", "900°"], "answer": 2 },
+    { "id": 323, "text": "Find the circumference of a circle with radius 7cm (Take pi = 22/7).", "options": ["22cm", "44cm", "154cm", "88cm"], "answer": 1 },
+    { "id": 324, "text": "Solve for y: 2y/3 = 8.", "options": ["4", "6", "12", "16"], "answer": 2 },
+    { "id": 325, "text": "What is the square of 1.2?", "options": ["1.44", "14.4", "0.144", "12.4"], "answer": 0 },
+    { "id": 326, "text": "A student bought a pen for N150 and sold it for N180. Find the percentage profit.", "options": ["10%", "20%", "25%", "30%"], "answer": 1 },
+    { "id": 327, "text": "Find the LCM of 12 and 15.", "options": ["3", "30", "60", "90"], "answer": 2 },
+    { "id": 328, "text": "Evaluate 10 - 2 x 3 + 4.", "options": ["28", "8", "12", "18"], "answer": 1 },
+    { "id": 329, "text": "Convert 25% to a decimal.", "options": ["0.25", "2.5", "0.025", "25.0"], "answer": 0 },
+    { "id": 330, "text": "What is the value of 10^0 + 10^1?", "options": ["0", "1", "10", "11"], "answer": 3 }
+  ],
+  "Physics": [
+    { "id": 331, "text": "The instrument used to measure the rate of flow of a liquid is:", "options": ["Venturimeter", "Hygrometer", "Barometer", "Thermometer"], "answer": 0 },
+    { "id": 332, "text": "Which of these is a vector quantity?", "options": ["Mass", "Distance", "Displacement", "Speed"], "answer": 2 },
+    { "id": 333, "text": "The speed of sound in air is approximately:", "options": ["30 m/s", "330 m/s", "330,000 m/s", "3 x 10^8 m/s"], "answer": 1 },
+    { "id": 334, "text": "The force of attraction between any two masses is:", "options": ["Magnetic force", "Gravitational force", "Nuclear force", "Electric force"], "answer": 1 },
+    { "id": 335, "text": "The SI unit of magnetic flux density is:", "options": ["Weber", "Tesla", "Henry", "Farad"], "answer": 1 },
+    { "id": 336, "text": "Which mirror is used by dentists to see teeth clearly?", "options": ["Convex", "Concave", "Plane", "Bifocal"], "answer": 1 },
+    { "id": 337, "text": "A body that emits light on its own is called:", "options": ["Non-luminous", "Opaque", "Luminous", "Transparent"], "answer": 2 },
+    { "id": 338, "text": "The boiling point of water is lowered by:", "options": ["Increasing pressure", "Decreasing pressure", "Adding salt", "Purification"], "answer": 1 },
+    { "id": 339, "text": "What is the SI unit of heat energy?", "options": ["Kelvin", "Celsius", "Joule", "Watt"], "answer": 2 },
+    { "id": 340, "text": "Atmospheric pressure is measured using a:", "options": ["Thermometer", "Barometer", "Hygrometer", "Manometer"], "answer": 1 }
+  ],
+  "Chemistry": [
+    { "id": 341, "text": "The process of using electricity to decompose a chemical compound is:", "options": ["Electrolysis", "Hydrolysis", "Pyrolysis", "Catalysis"], "answer": 0 },
+    { "id": 342, "text": "Which of these is the most abundant gas in the sun?", "options": ["Oxygen", "Helium", "Hydrogen", "Nitrogen"], "answer": 2 },
+    { "id": 343, "text": "The general formula for Alkanes is:", "options": ["CnH2n", "CnH2n+2", "CnH2n-2", "CnHn"], "answer": 1 },
+    { "id": 344, "text": "Which metal is used in galvanizing iron to prevent rusting?", "options": ["Copper", "Zinc", "Tin", "Lead"], "answer": 1 },
+    { "id": 345, "text": "The removal of oxygen from a substance is:", "options": ["Oxidation", "Reduction", "Hydration", "Chlorination"], "answer": 1 },
+    { "id": 346, "text": "The chemical symbol for Lead is:", "options": ["Ld", "Le", "Pb", "Sn"], "answer": 2 },
+    { "id": 347, "text": "Which of these is a greenhouse gas?", "options": ["Oxygen", "Nitrogen", "Methane", "Argon"], "answer": 2 },
+    { "id": 348, "text": "The main component of brass is copper and:", "options": ["Tin", "Zinc", "Lead", "Iron"], "answer": 1 },
+    { "id": 349, "text": "Which acid is present in a car battery?", "options": ["HCl", "HNO3", "H2SO4", "CH3COOH"], "answer": 2 },
+    { "id": 350, "text": "The atomic mass of Oxygen is approximately:", "options": ["8", "12", "16", "32"], "answer": 2 }
+  ],
+  "Biology": [
+    { "id": 351, "text": "The green plants in an ecosystem are called:", "options": ["Consumers", "Producers", "Decomposers", "Saprophytes"], "answer": 1 },
+    { "id": 352, "text": "The respiratory organ in a fish is the:", "options": ["Lungs", "Trachea", "Gills", "Skin"], "answer": 2 },
+    { "id": 353, "text": "Which part of the cell contains the genetic information?", "options": ["Cytoplasm", "Cell membrane", "Nucleus", "Vacuole"], "answer": 2 },
+    { "id": 354, "text": "The process of maintaining a constant internal state is:", "options": ["Nutrition", "Excretion", "Homeostasis", "Growth"], "answer": 2 },
+    { "id": 355, "text": "The male reproductive cell in humans is the:", "options": ["Egg", "Sperm", "Zygote", "Ovum"], "answer": 1 },
+    { "id": 356, "text": "Which vitamin is necessary for healthy gums and skin?", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"], "answer": 2 },
+    { "id": 357, "text": "A relationship where one organism benefits and the other is harmed is:", "options": ["Commensalism", "Mutualism", "Parasitism", "Symbiosis"], "answer": 2 },
+    { "id": 358, "text": "The smallest unit of a living organism is the:", "options": ["Tissue", "Organ", "Cell", "System"], "answer": 2 },
+    { "id": 359, "text": "Which organ secretes bile?", "options": ["Stomach", "Pancreas", "Liver", "Gallbladder"], "answer": 2 },
+    { "id": 360, "text": "The backbone is made up of small bones called:", "options": ["Ribs", "Femurs", "Vertebrae", "Skull"], "answer": 2 }
+  ],
+  "Civics_and_Geography": [
+    { "id": 361, "text": "Which of these is a non-renewable resource?", "options": ["Solar energy", "Water", "Petroleum", "Wind"], "answer": 2 },
+    { "id": 362, "text": "The largest continent in the world is:", "options": ["Africa", "Europe", "Asia", "North America"], "answer": 2 },
+    { "id": 363, "text": "In Nigeria, the 'Center of Excellence' refers to:", "options": ["Kano", "Abuja", "Lagos", "Enugu"], "answer": 2 },
+    { "id": 364, "text": "Who is the 'Father of the Nation' in Nigeria?", "options": ["Obafemi Awolowo", "Nnamdi Azikiwe", "Ahmadu Bello", "Herbert Macaulay"], "answer": 1 },
+    { "id": 365, "text": "The imaginary line that runs through the center of the earth from East to West is:", "options": ["Equator", "Prime Meridian", "Latitude", "Longitude"], "answer": 0 }
+  ],
+  
+  "English_Language": [
+    { "id": 366, "text": "Choose the most appropriate option: 'The students were advised to keep ___ the rules.'", "options": ["to", "by", "at", "on"], "answer": 0 },
+    { "id": 367, "text": "What is the synonym of 'Diligent'?", "options": ["Lazy", "Hardworking", "Rich", "Careless"], "answer": 1 },
+    { "id": 368, "text": "Choose the correctly spelled word:", "options": ["Mischievous", "Mischeivous", "Mischievious", "Mischevious"], "answer": 0 },
+    { "id": 369, "text": "Identify the figure of speech: 'The waves danced along the shore.'", "options": ["Metaphor", "Simile", "Personification", "Irony"], "answer": 2 },
+    { "id": 370, "text": "Choose the antonym of 'Victory':", "options": ["Success", "Triumph", "Defeat", "Win"], "answer": 2 }
+  ],
+  "Mathematics": [
+    { "id": 371, "text": "Find the area of a rectangle with length 12cm and width 7cm.", "options": ["19cm²", "42cm²", "84cm²", "94cm²"], "answer": 2 },
+    { "id": 372, "text": "Solve for x: 4x - 8 = 12.", "options": ["2", "3", "5", "8"], "answer": 2 },
+    { "id": 373, "text": "What is the value of √169?", "options": ["11", "12", "13", "14"], "answer": 2 },
+    { "id": 374, "text": "If a student gets 15 out of 25 in a test, what is the percentage?", "options": ["50%", "60%", "70%", "75%"], "answer": 1 },
+    { "id": 375, "text": "Express 0.0034 in standard form.", "options": ["3.4 x 10^-2", "3.4 x 10^-3", "3.4 x 10^3", "0.34 x 10^-2"], "answer": 1 },
+    { "id": 376, "text": "A circle has a diameter of 10cm. Find its radius.", "options": ["5cm", "10cm", "20cm", "2.5cm"], "answer": 0 },
+    { "id": 377, "text": "Find the mean of 5, 8, 12, 15.", "options": ["10", "11", "12", "40"], "answer": 0 },
+    { "id": 378, "text": "A triangle with all sides equal is called:", "options": ["Isosceles", "Equilateral", "Scalene", "Right-angled"], "answer": 1 },
+    { "id": 379, "text": "What is 20% of N2,000?", "options": ["N200", "N400", "N600", "N800"], "answer": 1 },
+    { "id": 380, "text": "How many seconds are in 5 minutes?", "options": ["150", "200", "300", "360"], "answer": 2 }
+  ],
+  "Physics": [
+    { "id": 381, "text": "The SI unit of electric potential difference is:", "options": ["Ampere", "Ohm", "Volt", "Coulomb"], "answer": 2 },
+    { "id": 382, "text": "Which of these materials is an insulator?", "options": ["Copper", "Iron", "Rubber", "Aluminium"], "answer": 2 },
+    { "id": 383, "text": "The transfer of heat by the actual movement of fluid particles is:", "options": ["Conduction", "Convection", "Radiation", "Evaporation"], "answer": 1 },
+    { "id": 384, "text": "Which lens is used to correct short-sightedness?", "options": ["Concave", "Convex", "Bifocal", "Cylindrical"], "answer": 0 },
+    { "id": 385, "text": "The rate of change of distance in a specified direction is:", "options": ["Speed", "Velocity", "Acceleration", "Momentum"], "answer": 1 },
+    { "id": 386, "text": "The instrument used to measure the density of a liquid is:", "options": ["Barometer", "Hydrometer", "Manometer", "Hygrometer"], "answer": 1 },
+    { "id": 387, "text": "Sound is a form of energy produced by:", "options": ["Light", "Vibrations", "Electricity", "Heat"], "answer": 1 },
+    { "id": 388, "text": "The force that resists the relative motion of two surfaces is:", "options": ["Gravity", "Inertia", "Friction", "Magnetism"], "answer": 2 },
+    { "id": 389, "text": "What is the velocity of light in a vacuum?", "options": ["330 m/s", "3 x 10^8 m/s", "3 x 10^6 m/s", "150,000 m/s"], "answer": 1 },
+    { "id": 390, "text": "Atmospheric pressure is measured using a:", "options": ["Hygrometer", "Thermometer", "Barometer", "Anemometer"], "answer": 2 }
+  ],
+  "Chemistry": [
+    { "id": 391, "text": "The simplest member of the Alkenes is:", "options": ["Methane", "Ethane", "Ethene", "Ethyne"], "answer": 2 },
+    { "id": 392, "text": "Which of these is a liquid metal at room temperature?", "options": ["Iron", "Sodium", "Mercury", "Copper"], "answer": 2 },
+    { "id": 393, "text": "The chemical formula for Sulfuric Acid is:", "options": ["HCl", "H2SO4", "HNO3", "CH3COOH"], "answer": 1 },
+    { "id": 394, "text": "A substance that turns blue litmus paper red is:", "options": ["An Acid", "A Base", "A Salt", "Water"], "answer": 0 },
+    { "id": 395, "text": "The atomic number of an element represents its number of:", "options": ["Neutrons", "Electrons", "Protons", "Protons and Neutrons"], "answer": 2 },
+    { "id": 396, "text": "Which gas is needed for combustion?", "options": ["Hydrogen", "Nitrogen", "Oxygen", "Carbon dioxide"], "answer": 2 },
+    { "id": 397, "text": "The process of a solid turning directly to a gas is:", "options": ["Sublimation", "Evaporation", "Condensation", "Fusion"], "answer": 0 },
+    { "id": 398, "text": "The mass number of an atom is the sum of:", "options": ["Protons and Electrons", "Protons and Neutrons", "Neutrons and Electrons", "Electrons and Valency"], "answer": 1 },
+    { "id": 399, "text": "Which of these is a noble gas?", "options": ["Oxygen", "Chlorine", "Argon", "Fluorine"], "answer": 2 },
+    { "id": 400, "text": "The chemical symbol for Sodium is:", "options": ["S", "So", "Na", "Sd"], "answer": 2 }
+  ],
+  "Biology": [
+    { "id": 401, "text": "The site of photosynthesis in a plant cell is the:", "options": ["Mitochondria", "Nucleus", "Chloroplast", "Vacuole"], "answer": 2 },
+    { "id": 402, "text": "Which organ in humans is responsible for gas exchange?", "options": ["Heart", "Lungs", "Stomach", "Kidney"], "answer": 1 },
+    { "id": 403, "text": "Deficiency of Vitamin C causes:", "options": ["Rickets", "Night blindness", "Scurvy", "Beriberi"], "answer": 2 },
+    { "id": 404, "text": "The movement of water across a semi-permeable membrane is:", "options": ["Diffusion", "Osmosis", "Active transport", "Capillarity"], "answer": 1 },
+    { "id": 405, "text": "Which of these is a cold-blooded animal?", "options": ["Bird", "Lizard", "Goat", "Human"], "answer": 1 },
+    { "id": 406, "text": "The master gland of the body is the:", "options": ["Thyroid", "Adrenal", "Pituitary", "Pancreas"], "answer": 2 },
+    { "id": 407, "text": "Insects breathe through:", "options": ["Lungs", "Gills", "Spiracles", "Skin"], "answer": 2 },
+    { "id": 408, "text": "The red pigment in blood is called:", "options": ["Chlorophyll", "Hemoglobin", "Melanin", "Plasma"], "answer": 1 },
+    { "id": 409, "text": "The study of heredity is:", "options": ["Ecology", "Physiology", "Genetics", "Anatomy"], "answer": 2 },
+    { "id": 410, "text": "Plants that live in very dry environments are:", "options": ["Hydrophytes", "Mesophytes", "Xerophytes", "Epiphytes"], "answer": 2 }
+  ],
+  "Civics_and_Geography": [
+    { "id": 411, "text": "How many geopolitical zones are in Nigeria?", "options": ["4", "5", "6", "8"], "answer": 2 },
+    { "id": 412, "text": "The line that divides the earth into Eastern and Western hemispheres is:", "options": ["Equator", "Prime Meridian", "Tropic of Cancer", "Arctic Circle"], "answer": 1 },
+    { "id": 413, "text": "The highest peak in Africa is Mount:", "options": ["Kenya", "Kilimanjaro", "Everest", "Sinai"], "answer": 1 },
+    { "id": 414, "text": "Which Nigerian state is the 'Confluence State'?", "options": ["Lagos", "Kogi", "Kwara", "Benue"], "answer": 1 },
+    { "id": 415, "text": "The capital of France is:", "options": ["London", "Berlin", "Paris", "Madrid"], "answer": 2 }
+  ],
+
+  "English_Language": [
+    { "id": 416, "text": "Choose the most appropriate option: 'The man was so ___ that he believed everything he was told.'", "options": ["gullible", "reliable", "sensible", "credible"], "answer": 0 },
+    { "id": 417, "text": "What is the antonym of 'Permanent'?", "options": ["Lasting", "Transient", "Durable", "Stable"], "answer": 1 },
+    { "id": 418, "text": "Choose the correctly spelled word:", "options": ["Millennium", "Millenium", "Milenium", "Milennium"], "answer": 0 },
+    { "id": 419, "text": "Identify the figure of speech: 'The city was a melting pot of cultures.'", "options": ["Simile", "Metaphor", "Oxymoron", "Hyperbole"], "answer": 1 },
+    { "id": 420, "text": "Choose the synonym of 'Abolish'?", "options": ["Create", "Annull", "Build", "Continue"], "answer": 1 }
+  ],
+  "Mathematics": [
+    { "id": 421, "text": "Find the simple interest on N20,000 for 3 years at 10% per annum.", "options": ["N2,000", "N4,000", "N6,000", "N8,000"], "answer": 2 },
+    { "id": 422, "text": "What is the value of 5! (5 factorial)?", "options": ["15", "60", "120", "240"], "answer": 2 },
+    { "id": 423, "text": "Calculate the median of the set: 10, 4, 8, 2, 6.", "options": ["2", "4", "6", "8"], "answer": 2 },
+    { "id": 424, "text": "A student's marks are 50, 60, 70, 80. Find the average mark.", "options": ["60", "65", "70", "75"], "answer": 1 },
+    { "id": 425, "text": "Simplify: (3/4) + (1/2) - (1/4).", "options": ["1/2", "1", "3/4", "1/4"], "answer": 1 },
+    { "id": 426, "text": "Find the value of x if 5x = 125.", "options": ["3", "5", "25", "10"], "answer": 1 },
+    { "id": 427, "text": "Express 450 in standard form.", "options": ["4.5 x 10^1", "4.5 x 10^2", "45 x 10^1", "0.45 x 10^3"], "answer": 1 },
+    { "id": 428, "text": "What is the square root of 0.49?", "options": ["0.07", "0.7", "7.0", "0.007"], "answer": 1 },
+    { "id": 429, "text": "Find the circumference of a circle with diameter 14cm. (Take pi = 22/7)", "options": ["22cm", "44cm", "154cm", "88cm"], "answer": 1 },
+    { "id": 430, "text": "Solve for x: x - 15 = 20.", "options": ["5", "15", "35", "40"], "answer": 2 }
+  ],
+  "Physics": [
+    { "id": 431, "text": "Which of these is a non-contact force?", "options": ["Friction", "Tension", "Gravitational force", "Upthrust"], "answer": 2 },
+    { "id": 432, "text": "The energy possessed by a stretched spring is:", "options": ["Kinetic", "Elastic Potential", "Chemical", "Solar"], "answer": 1 },
+    { "id": 433, "text": "Which instrument is used to measure humidity?", "options": ["Barometer", "Hydrometer", "Hygrometer", "Manometer"], "answer": 2 },
+    { "id": 434, "text": "The property of light that causes a rainbow is:", "options": ["Refraction", "Reflection", "Dispersion", "Diffraction"], "answer": 2 },
+    { "id": 435, "text": "The resistance of a conductor is measured in:", "options": ["Volts", "Amps", "Ohms", "Watts"], "answer": 2 },
+    { "id": 436, "text": "Which mirror produces an upright, virtual, and same-size image?", "options": ["Convex", "Concave", "Plane", "Parabolic"], "answer": 2 },
+    { "id": 437, "text": "Sound cannot travel through a:", "options": ["Solid", "Liquid", "Gas", "Vacuum"], "answer": 3 },
+    { "id": 438, "text": "The SI unit of Temperature is:", "options": ["Celsius", "Fahrenheit", "Kelvin", "Rankine"], "answer": 2 },
+    { "id": 439, "text": "A clinical thermometer has a constriction to:", "options": ["increase sensitivity", "prevent mercury from falling back", "make it easier to read", "protect the bulb"], "answer": 1 },
+    { "id": 440, "text": "What is the speed of sound in air?", "options": ["3 x 10^8 m/s", "330 m/s", "1500 m/s", "5000 m/s"], "answer": 1 }
+  ],
+  "Chemistry": [
+    { "id": 441, "text": "Which of these is a heterogeneous mixture?", "options": ["Salt solution", "Sugar solution", "Oil and water", "Air"], "answer": 2 },
+    { "id": 442, "text": "The hardest known natural form of carbon is:", "options": ["Graphite", "Diamond", "Coke", "Coal"], "answer": 1 },
+    { "id": 443, "text": "The pH of an acidic solution is always:", "options": ["Exactly 7", "Greater than 7", "Less than 7", "0"], "answer": 2 },
+    { "id": 444, "text": "The major gas responsible for global warming is:", "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"], "answer": 2 },
+    { "id": 445, "text": "Which metal is stored in kerosene to prevent reaction with air?", "options": ["Iron", "Copper", "Sodium", "Gold"], "answer": 2 },
+    { "id": 446, "text": "The process of a gas turning into a liquid is:", "options": ["Evaporation", "Condensation", "Sublimation", "Melting"], "answer": 1 },
+    { "id": 447, "text": "Which indicator is pink in alkaline solutions?", "options": ["Methyl orange", "Litmus", "Phenolphthalein", "Bromothymol blue"], "answer": 2 },
+    { "id": 448, "text": "The chemical symbol for Tin is:", "options": ["Ti", "Tn", "Sn", "Pb"], "answer": 2 },
+    { "id": 449, "text": "Saponification is the alkaline hydrolysis of:", "options": ["Esters", "Ethers", "Alkanes", "Alcohols"], "answer": 0 },
+    { "id": 450, "text": "Which element has atomic number 8?", "options": ["Carbon", "Nitrogen", "Oxygen", "Neon"], "answer": 2 }
+  ],
+  "Biology": [
+    { "id": 451, "text": "The basic unit of life is the:", "options": ["Organ", "Tissue", "Cell", "System"], "answer": 2 },
+    { "id": 452, "text": "The movement of molecules from region of high to low concentration is:", "options": ["Osmosis", "Diffusion", "Active transport", "Plasmolysis"], "answer": 1 },
+    { "id": 453, "text": "The green pigment required for photosynthesis is:", "options": ["Hemoglobin", "Chlorophyll", "Melanin", "Plasma"], "answer": 1 },
+    { "id": 454, "text": "Which part of the cell is the powerhouse?", "options": ["Nucleus", "Ribosome", "Mitochondria", "Vacuole"], "answer": 2 },
+    { "id": 455, "text": "The study of the environment and living things is:", "options": ["Physiology", "Ecology", "Genetics", "Anatomy"], "answer": 1 },
+    { "id": 456, "text": "Which organ in the human body pumps blood?", "options": ["Lungs", "Brain", "Heart", "Liver"], "answer": 2 },
+    { "id": 457, "text": "The female gamete in plants is produced in the:", "options": ["Stigma", "Anther", "Ovary", "Style"], "answer": 2 },
+    { "id": 458, "text": "Which vitamin is necessary for healthy bones?", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"], "answer": 3 },
+    { "id": 459, "text": "The excretory organ in insects is the:", "options": ["Flame cell", "Malpighian tubule", "Kidney", "Nephridium"], "answer": 1 },
+    { "id": 460, "text": "In evolution, the theory of natural selection was by:", "options": ["Mendel", "Darwin", "Pasteur", "Linnaeus"], "answer": 1 }
+  ],
+  "Civics_and_Geography": [
+    { "id": 461, "text": "The line of 0 degrees longitude is the:", "options": ["Equator", "Prime Meridian", "Arctic Circle", "Tropic of Cancer"], "answer": 1 },
+    { "id": 462, "text": "Which state in Nigeria is known as 'The Gateway State'?", "options": ["Lagos", "Ogun", "Oyo", "Ondo"], "answer": 1 },
+    { "id": 463, "text": "The largest ocean in the world is:", "options": ["Atlantic", "Indian", "Pacific", "Arctic"], "answer": 2 },
+    { "id": 464, "text": "How many states are in the Northern part of Nigeria?", "options": ["12", "19", "24", "36"], "answer": 1 },
+    { "id": 465, "text": "The official language of Brazil is:", "options": ["Spanish", "English", "Portuguese", "French"], "answer": 2 }
+  ],
+  
+  "English_Language": [
+    { "id": 466, "text": "Choose the most appropriate option: 'The girl is too ___ to speak in public.'", "options": ["shy", "shyer", "shyest", "shily"], "answer": 0 },
+    { "id": 467, "text": "Identify the synonym of 'Enormous':", "options": ["Tiny", "Huge", "Weak", "Broad"], "answer": 1 },
+    { "id": 468, "text": "Choose the correctly spelled word:", "options": ["Occurrence", "Ocurence", "Occurence", "Ocurrence"], "answer": 0 },
+    { "id": 469, "text": "A person who writes a book is an:", "options": ["Editor", "Author", "Publisher", "Printer"], "answer": 1 },
+    { "id": 470, "text": "The plural of 'Sheep' is:", "options": ["Sheeps", "Sheep", "Sheepes", "Ship"], "answer": 1 }
+  ],
+  "Mathematics": [
+    { "id": 471, "text": "Calculate the area of a circle with radius 7cm (Take pi = 22/7).", "options": ["44cm²", "154cm²", "49cm²", "14cm²"], "answer": 1 },
+    { "id": 472, "text": "Solve for x: 3x - 9 = 0.", "options": ["1", "2", "3", "9"], "answer": 2 },
+    { "id": 473, "text": "What is the median of 2, 4, 6, 8, 10?", "options": ["4", "6", "8", "10"], "answer": 1 },
+    { "id": 474, "text": "If 25% of a number is 50, what is the number?", "options": ["100", "150", "200", "250"], "answer": 2 },
+    { "id": 475, "text": "Find the square of 15.", "options": ["125", "225", "250", "625"], "answer": 1 }
+  ],
+  "Physics": [
+    { "id": 476, "text": "The speed of sound is fastest in:", "options": ["Air", "Water", "Steel", "Vacuum"], "answer": 2 },
+    { "id": 477, "text": "The SI unit of Force is:", "options": ["Joule", "Newton", "Watt", "Pascal"], "answer": 1 },
+    { "id": 478, "text": "The point in a lens where light rays converge is the:", "options": ["Focus", "Center", "Pole", "Apex"], "answer": 0 },
+    { "id": 479, "text": "Work done is defined as Force multiplied by:", "options": ["Time", "Distance", "Mass", "Velocity"], "answer": 1 },
+    { "id": 480, "text": "Which mirror is used in car headlamps?", "options": ["Convex", "Concave", "Plane", "Cylindrical"], "answer": 1 }
+  ],
+  "Chemistry": [
+    { "id": 481, "text": "The chemical symbol for Gold is:", "options": ["Go", "Gd", "Au", "Ag"], "answer": 2 },
+    { "id": 482, "text": "The pH of a neutral solution is:", "options": ["0", "5", "7", "14"], "answer": 2 },
+    { "id": 483, "text": "Which gas is used to extinguish fires?", "options": ["Oxygen", "Hydrogen", "Carbon Dioxide", "Nitrogen"], "answer": 2 },
+    { "id": 484, "text": "The most abundant gas in the atmosphere is:", "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Argon"], "answer": 2 },
+    { "id": 485, "text": "The process of a gas turning into a liquid is:", "options": ["Evaporation", "Condensation", "Sublimation", "Melting"], "answer": 1 }
+  ],
+  "Biology": [
+    { "id": 486, "text": "The structural unit of life is the:", "options": ["Organ", "Tissue", "Cell", "System"], "answer": 2 },
+    { "id": 487, "text": "Bile is stored in the:", "options": ["Liver", "Gallbladder", "Stomach", "Pancreas"], "answer": 1 },
+    { "id": 488, "text": "Which vitamin is synthesized by the skin in sunlight?", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"], "answer": 3 },
+    { "id": 489, "text": "Which blood cell carries oxygen?", "options": ["White blood cell", "Red blood cell", "Platelets", "Plasma"], "answer": 1 },
+    { "id": 490, "text": "The process of plants losing water through leaves is:", "options": ["Evaporation", "Osmosis", "Transpiration", "Respiration"], "answer": 2 }
+  ],
+  "Government_and_Civics": [
+    { "id": 491, "text": "How many states are in Nigeria?", "options": ["12", "19", "30", "36"], "answer": 3 },
+    { "id": 492, "text": "When did Nigeria gain independence?", "options": ["1957", "1960", "1963", "1970"], "answer": 1 },
+    { "id": 493, "text": "The highest court in Nigeria is the:", "options": ["Federal High Court", "Court of Appeal", "Supreme Court", "Magistrate Court"], "answer": 2 },
+    { "id": 494, "text": "Who is the head of the executive arm of a state in Nigeria?", "options": ["President", "Governor", "Chairman", "Speaker"], "answer": 1 },
+    { "id": 495, "text": "The capital of Nigeria is:", "options": ["Lagos", "Kano", "Abuja", "Ibadan"], "answer": 2 }
+  ],
+  "ICT_and_General": [
+    { "id": 496, "text": "The software that manages computer hardware is the:", "options": ["Application", "Operating System", "Browser", "Antivirus"], "answer": 1 },
+    { "id": 497, "text": "Which of these is a storage device?", "options": ["Monitor", "Keyboard", "Hard Drive", "Printer"], "answer": 2 },
+    { "id": 498, "text": "RAM stands for:", "options": ["Read Access Memory", "Random Access Memory", "Run Active Memory", "Real Access Memory"], "answer": 1 },
+    { "id": 499, "text": "The keyboard shortcut to copy text is:", "options": ["Ctrl + V", "Ctrl + C", "Ctrl + X", "Ctrl + S"], "answer": 1 },
+    { "id": 500, "text": "Which planet is known as the Red Planet?", "options": ["Venus", "Mars", "Jupiter", "Saturn"], "answer": 1 }
+  ]
+}
+
+
+
+
+
+
+
+
+

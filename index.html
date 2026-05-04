@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Exam Hub Nigeria | Super Hub</title>
+    <style>
+        :root { --bg: #f0f2f5; --text: #1c1e21; --primary: #1877f2; --card: #ffffff; --correct: #27ae60; --wrong: #e74c3c; --gold: #ff9800; }
+        .dark-theme { --bg: #18191a; --text: #e4e6eb; --primary: #2d88ff; --card: #242526; }
+        body { background: var(--bg); color: var(--text); font-family: 'Segoe UI', sans-serif; margin: 0; transition: 0.3s; }
+
+        /* HERO & STATS */
+        #home-page { padding: 40px 20px; display: flex; flex-direction: column; align-items: center; min-height: 100vh; text-align: center; }
+        .stats-container { display: flex; gap: 15px; width: 100%; max-width: 800px; margin: 20px 0; }
+        .stat-card { background: var(--card); flex: 1; padding: 15px; border-radius: 12px; box-shadow: 0 4px 10px rgba(0,0,0,0.05); }
+        .bar-chart { display: flex; align-items: flex-end; gap: 5px; height: 80px; border-bottom: 2px solid #ccc; }
+        .bar { background: var(--primary); width: 15px; transition: height 0.5s; }
+
+        /* EXAM GRID */
+        .exam-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(140px, 1fr)); gap: 15px; width: 100%; max-width: 800px; }
+        .exam-card { background: var(--card); padding: 25px; border-radius: 15px; cursor: pointer; box-shadow: 0 4px 12px rgba(0,0,0,0.08); transition: 0.3s; border: 2px solid transparent; }
+        .exam-card:hover { transform: translateY(-5px); border-color: var(--primary); }
+
+        /* SELECTION & TABS */
+        .subject-list { display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin: 20px 0; }
+        .sub-btn { background: var(--card); border: 1px solid var(--primary); padding: 12px 20px; border-radius: 8px; cursor: pointer; color: var(--text); font-weight: bold; }
+        .sub-btn.selected { background: var(--primary); color: white; }
+        .tab-container { display: flex; overflow-x: auto; gap: 5px; background: #ddd; padding: 10px; border-radius: 8px; margin-bottom: 15px; }
+        .tab { padding: 8px 15px; background: white; border-radius: 5px; cursor: pointer; white-space: nowrap; font-size: 0.9rem; }
+        .tab.active { background: var(--primary); color: white; }
+
+        /* CBT INTERFACE */
+        #quiz-container { display: none; padding: 20px; max-width: 800px; margin: auto; }
+        .nav-grid { display: grid; grid-template-columns: repeat(10, 1fr); gap: 5px; margin-top: 20px; }
+        .nav-num { padding: 8px; border: 1px solid #ccc; border-radius: 4px; cursor: pointer; text-align: center; font-size: 0.7rem; background: var(--card); }
+        .nav-num.active { border: 2px solid var(--primary); font-weight: bold; }
+        .nav-num.answered { background: #e8f0fe; }
+        .nav-num.flagged { background: #fff3cd; border-color: #ffc107; }
+        
+        .btn-opt { display: block; width: 100%; text-align: left; padding: 15px; margin: 8px 0; border: 1px solid #ddd; border-radius: 8px; background: var(--card); cursor: pointer; }
+        
+        /* SETTINGS & CALC */
+        .settings-btn { position: fixed; top: 15px; right: 15px; font-size: 24px; cursor: pointer; z-index: 1000; }
+        #calc-widget { position: fixed; bottom: 20px; left: 20px; background: #333; color: white; padding: 10px; border-radius: 10px; display: none; z-index: 2000; }
+    </style>
+</head>
+<body>
+
+    <div class="settings-btn" onclick="document.body.classList.toggle('dark-theme')">🌓</div>
+
+    <!-- 1. HOME SCREEN -->
+    <div id="home-page">
+        <div class="streak-badge" id="streak-display" style="background:var(--gold); color:white; padding:8px 20px; border-radius:20px; margin-bottom:10px;">🔥 0 Day Streak</div>
+        <h1 style="color:var(--primary); margin:0;">Nigerian Exam Hub</h1>
+        
+        <div class="stats-container">
+            <div class="stat-card">
+                <h4>📈 Performance</h4>
+                <div class="bar-chart" id="score-chart"></div>
+            </div>
+            <div class="stat-card">
+                <h4>🏆 Top Subjects</h4>
+                <div id="subject-leaderboard" style="font-size: 0.8rem; text-align: left;"></div>
+            </div>
+        </div>
+
+        <div class="exam-grid">
+            <div class="exam-card" onclick="openSubjects('jamb')">🎓<br>JAMB Mock</div>
+            <div class="exam-card" onclick="openSubjects('waec')">📜<br>WAEC Prep</div>
+            <div class="exam-card" onclick="openSubjects('neco')">✍️<br>NECO Hub</div>
+            <div class="exam-card" onclick="openSubjects('post_utme')">🏛️<br>P-UTME</div>
+        </div>
+    </div>
+
+    <!-- 2. MULTI-SUBJECT SELECTION -->
+    <div id="subject-page" style="display:none; padding:40px 20px; text-align:center;">
+        <button onclick="location.reload()" style="background:none; border:none; color:var(--primary); cursor:pointer;">← EXIT</button>
+        <h2 id="sub-title">Select 4 Subjects</h2>
+        <div id="selection-status" style="margin-bottom:10px; font-weight:bold; color:var(--primary);">Selected: 0 / 4</div>
+        <div class="subject-list" id="sub-list"></div>
+        <button id="start-mock-btn" class="sub-btn" style="display:none; width:100%; background:var(--correct); color:white;" onclick="startMultiMock()">START FULL MOCK</button>
+    </div>
+
+    <!-- 3. CBT INTERFACE -->
+    <div id="quiz-container">
+        <div style="display:flex; justify-content:space-between; align-items:center;">
+            <div id="timer" style="font-size:1.5rem; font-weight:bold; color:var(--wrong);">02:00:00</div>
+            <div>
+                <button onclick="toggleCalc()" style="padding:5px 10px; cursor:pointer;">🧮 Calc</button>
+                <button id="flag-btn" style="padding:5px 10px; cursor:pointer;" onclick="toggleFlag()">🚩 Flag</button>
+            </div>
+        </div>
+        <div class="tab-container" id="subject-tabs"></div>
+        
+        <div id="q-text" style="font-size:1.2rem; margin:20px 0;"></div>
+        <div id="o-area"></div>
+        
+        <div class="nav-grid" id="question-nav"></div>
+
+        <div style="display:flex; justify-content:space-between; margin-top:30px;">
+            <button class="sub-btn" onclick="changeQ(-1)">Previous</button>
+            <button class="sub-btn" onclick="changeQ(1)">Next</button>
+        </div>
+        <button onclick="confirmSubmit()" style="width:100%; background:#2c3e50; color:white; margin-top:20px; padding:15px; border-radius:8px; border:none; cursor:pointer; font-weight:bold;">SUBMIT FULL EXAM</button>
+    </div>
+
+    <!-- 4. RESULT PAGE -->
+    <div id="result-page" style="display:none; padding:40px 20px; text-align:center;">
+        <h1 id="total-score" style="font-size:3.5rem; color:var(--primary); margin:0;">0/400</h1>
+        <div id="breakdown-list" style="margin:20px 0; text-align:left; max-width:600px; margin:auto;"></div>
+        <button class="sub-btn" onclick="location.reload()" style="background:var(--primary); color:white; width:100%;">Back to Hub</button>
+    </div>
+
+    <script>
+        let questions = [], currentIdx = 0, userAnswers = {}, flagged = [], timerId, timeLeft, activeExam, selectedSubs = [];
+
+        // 1. NAVIGATION & SELECTION
+        function openSubjects(type) {
+            activeExam = type;
+            selectedSubs = [];
+            document.getElementById('home-page').style.display = 'none';
+            document.getElementById('subject-page').style.display = 'block';
+            const subs = ["English", "Mathematics", "Physics", "Chemistry", "Biology", "Government", "Economics", "CRS"];
+            document.getElementById('sub-list').innerHTML = subs.map(s => `
+                <button class="sub-btn" id="btn-${s}" onclick="toggleSub('${s}')">${s}</button>
+            `).join('');
+        }
+
+        function toggleSub(s) {
+            const idx = selectedSubs.indexOf(s);
+            if(idx > -1) selectedSubs.splice(idx, 1);
+            else if(selectedSubs.length < 4) selectedSubs.push(s);
+            
+            document.querySelectorAll('.sub-btn').forEach(b => b.classList.remove('selected'));
+            selectedSubs.forEach(sub => {
+                const b = document.getElementById(`btn-${sub}`);
+                if(b) b.classList.add('selected');
+            });
+            document.getElementById('selection-status').innerText = `Selected: ${selectedSubs.length} / 4`;
+            document.getElementById('start-mock-btn').style.display = selectedSubs.length === 4 ? 'block' : 'none';
+        }
+
+        async function startMultiMock() {
+            questions = [];
+            for(let sub of selectedSubs) {
+                const res = await fetch(`/get-questions?type=${activeExam}&subject=${sub.toLowerCase()}`);
+                const data = await res.json();
+                data.forEach(q => q.subLabel = sub);
+                questions = questions.concat(data.slice(0, 15));
+            }
+            flagged = new Array(questions.length).fill(false);
+            timeLeft = 120 * 60;
+            document.getElementById('subject-page').style.display = 'none';
+            document.getElementById('quiz-container').style.display = 'block';
+            startTimer(); showQ(); renderTabs();
+        }
+
+        // 2. CBT LOGIC
+        function showQ() {
+            const q = questions[currentIdx];
+            document.getElementById('q-text').innerText = `[${q.subLabel}] Q${currentIdx+1}: ${q.text}`;
+            document.getElementById('o-area').innerHTML = q.options.map((o, i) => `
+                <button class="btn-opt" onclick="ans(${i})" style="${userAnswers[currentIdx] === i ? 'background:var(--primary); color:white;' : ''}">${o}</button>
+            `).join('');
+            document.getElementById('flag-btn').style.background = flagged[currentIdx] ? 'var(--wrong)' : '#ffc107';
+            renderNav(); renderTabs();
+        }
+
+        function ans(i) { userAnswers[currentIdx] = i; showQ(); }
+        function toggleFlag() { flagged[currentIdx] = !flagged[currentIdx]; showQ(); }
+        function changeQ(d) { currentIdx += d; if(currentIdx >=0 && currentIdx < questions.length) showQ(); }
+        function jumpTo(i) { currentIdx = i; showQ(); }
+        
+        function renderTabs() {
+            const tabs = document.getElementById('subject-tabs');
+            tabs.innerHTML = selectedSubs.map(s => `
+                <div class="tab ${questions[currentIdx].subLabel === s ? 'active' : ''}" onclick="jumpToSub('${s}')">${s}</div>
+            `).join('');
+        }
+        function jumpToSub(s) { currentIdx = questions.findIndex(q => q.subLabel === s); showQ(); }
+
+        function renderNav() {
+            const nav = document.getElementById('question-nav');
+            nav.innerHTML = questions.map((_, i) => `
+                <div class="nav-num ${currentIdx === i ? 'active' : ''} ${userAnswers[i] !== undefined ? 'answered' : ''} ${flagged[i] ? 'flagged' : ''}" onclick="jumpTo(${i})">${i+1}</div>
+            `).join('');
+        }
+
+        // 3. SUBMISSION & STATS
+        function confirmSubmit() { if(confirm("Submit all 4 subjects now?")) submitExam(); }
+
+        function submitExam() {
+            clearInterval(timerId);
+            let subScores = {};
+            selectedSubs.forEach(s => subScores[s] = {correct: 0, total: 0});
+
+            questions.forEach((q, i) => {
+                subScores[q.subLabel].total++;
+                if(userAnswers[i] === q.answer) subScores[q.subLabel].correct++;
+            });
+
+            let totalWeighted = 0;
+            let breakdownHTML = "<h3>Subject Breakdown</h3>";
+            for(let s in subScores) {
+                let p = Math.round((subScores[s].correct / subScores[s].total) * 100);
+                totalWeighted += p;
+                breakdownHTML += `<div style="margin-bottom:10px;"><b>${s}:</b> ${p}% (${subScores[s].correct}/${subScores[s].total})</div>`;
+            }
+
+            document.getElementById('quiz-container').style.display = 'none';
+            document.getElementById('result-page').style.display = 'block';
+            document.getElementById('total-score').innerText = totalWeighted + "/400";
+            document.getElementById('breakdown-list').innerHTML = breakdownHTML;
+
+            // Save to logs
+            let logs = JSON.parse(localStorage.getItem('logs') || "[]");
+            logs.unshift({ title: "MOCK", score: Math.round(totalWeighted/4), date: new Date().toLocaleDateString() });
+            localStorage.setItem('logs', JSON.stringify(logs.slice(0, 7)));
+        }
+
+        function startTimer() {
+            timerId = setInterval(() => {
+                timeLeft--;
+                let h = Math.floor(timeLeft/3600), m = Math.floor((timeLeft%3600)/60), s = timeLeft%60;
+                document.getElementById('timer').innerText = `${h}:${m < 10 ? '0' : ''}${m}:${s < 10 ? '0' : ''}${s}`;
+                if(timeLeft <= 0) submitExam();
+            }, 1000);
+        }
+
+        window.onload = () => {
+            const logs = JSON.parse(localStorage.getItem('logs') || "[]");
+            document.getElementById('score-chart').innerHTML = logs.slice(0,7).reverse().map(l => `<div class="bar" style="height:${l.score}%"></div>`).join('');
+            // Streak logic
+            let s = parseInt(localStorage.getItem('streak') || "1");
+            document.getElementById('streak-display').innerText = `🔥 ${s} Day Streak`;
+        };
+    </script>
+</body>
+</html>
