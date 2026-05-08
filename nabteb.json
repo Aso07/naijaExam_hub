@@ -1,0 +1,626 @@
+{
+  "General_Mathematics": [
+    { "id": 1, "text": "Simplify: 2/3 of 15/2 + 3/4 + 9/4.", "options": ["5", "8", "12", "15"], "answer": 1 },
+    { "id": 2, "text": "Solve for x: 3x - 5 = 7x + 3.", "options": ["-2", "2", "-1", "4"], "answer": 0 },
+    { "id": 3, "text": "Find the simple interest on ₦10,000 for 4 years at 5% per annum.", "options": ["₦2,000", "₦1,500", "₦1,000", "₦500"], "answer": 0 },
+    { "id": 4, "text": "Calculate the area of a circle with a diameter of 14cm (π = 22/7).", "options": ["44cm²", "154cm²", "88cm²", "616cm²"], "answer": 1 },
+    { "id": 5, "text": "Express 0.00078 in standard form.", "options": ["7.8 x 10^-3", "7.8 x 10^-4", "78 x 10^-5", "0.78 x 10^-3"], "answer": 1 }
+  ],
+  "English_Language": [
+    { "id": 6, "text": "Choose the correct replacement for 'abundance' as used in technical text:", "options": ["Scarcity", "Plenty", "Lack", "Few"], "answer": 1 },
+    { "id": 7, "text": "What is the grammatical name for 'in order to create food shortages'?", "options": ["Adverbial clause", "Noun phrase", "Adjectival phrase", "Prepositional phrase"], "answer": 0 },
+    { "id": 8, "text": "Choose the correct spelling:", "options": ["Maintenance", "Maintainance", "Maintenace", "Maintainence"], "answer": 0 },
+    { "id": 9, "text": "The plural of 'Equipment' is:", "options": ["Equipments", "Equipment", "Equipmentes", "Equipmentz"], "answer": 1 },
+    { "id": 10, "text": "Identify the verb in: 'The technician fixed the faulty machine.'", "options": ["Technician", "Fixed", "Faulty", "Machine"], "answer": 1 }
+  ],
+  "Basic_Electricity": [
+    { "id": 11, "text": "The SI unit of electrical resistance is the:", "options": ["Volt", "Ampere", "Ohm", "Watt"], "answer": 2 },
+    { "id": 12, "text": "Which device is designed to store electric charges?", "options": ["Resistor", "Capacitor", "Inductor", "Transformer"], "answer": 1 },
+    { "id": 13, "text": "The opposition offered to an alternating current due to an inductor is called:", "options": ["Resistance", "Reactance", "Impedance", "Conductance"], "answer": 1 },
+    { "id": 14, "text": "Calculate total resistance for 10Ω and 15Ω resistors connected in parallel.", "options": ["25Ω", "15Ω", "6Ω", "5Ω"], "answer": 2 },
+    { "id": 15, "text": "The power factor of a circuit is the ratio of:", "options": ["Real power to Apparent power", "Voltage to Current", "Resistance to Reactance", "Current to Time"], "answer": 0 },
+    { "id": 16, "text": "In a d.c. motor, 'Copper loss' is also known as:", "options": ["Iron loss", "I²R loss", "Mechanical loss", "Eddy current loss"], "answer": 1 },
+    { "id": 17, "text": "The instrument used to measure electric current is a/an:", "options": ["Voltmeter", "Ammeter", "Ohmmeter", "Wattmeter"], "answer": 1 },
+    { "id": 18, "text": "What is the purpose of flux in soldering?", "options": ["To melt the solder", "To cool the joint", "To prevent oxidation", "To add color"], "answer": 2 },
+    { "id": 19, "text": "The unit of Capacitance is the:", "options": ["Henry", "Farad", "Tesla", "Ohm"], "answer": 1 },
+    { "id": 20, "text": "Which law states that I = V/R?", "options": ["Faraday's Law", "Ohm's Law", "Lenz's Law", "Newton's Law"], "answer": 1 }
+  ],
+  "Commerce_and_Business": [
+    { "id": 21, "text": "Which partner contributes capital but takes no active part in management?", "options": ["Active partner", "Sleeping partner", "Nominal partner", "General partner"], "answer": 1 },
+    { "id": 22, "text": "Production is said to be complete when goods reach the:", "options": ["Wholesaler", "Retailer", "Final Consumer", "Manufacturer"], "answer": 2 },
+    { "id": 23, "text": "A market situation where there are few large sellers is an:", "options": ["Monopoly", "Oligopoly", "Duopoly", "Perfect Competition"], "answer": 1 },
+    { "id": 24, "text": "The document used to withdraw money from a current account is a:", "options": ["Check", "Invoice", "Debit Note", "Credit Note"], "answer": 0 },
+    { "id": 25, "text": "Which sector provides the highest employment in Nigeria?", "options": ["Oil", "Agriculture", "Banking", "Construction"], "answer": 1 },
+    { "id": 26, "text": "The study of individual units of the economy is:", "options": ["Macroeconomics", "Microeconomics", "National Income", "Trade"], "answer": 1 },
+    { "id": 27, "text": "What is the primary function of a warehouse?", "options": ["Manufacturing", "Storage", "Advertising", "Transporting"], "answer": 1 },
+    { "id": 28, "text": "A public limited company must have a minimum of ____ members.", "options": ["Two", "Seven", "Fifty", "Unlimited"], "answer": 1 },
+    { "id": 29, "text": "Which agency is responsible for port security in Nigeria?", "options": ["NPA", "NIMASA", "NSCDC", "Customs"], "answer": 1 },
+    { "id": 30, "text": "Trade between two countries is known as:", "options": ["Home Trade", "International Trade", "Internal Trade", "Retail Trade"], "answer": 1 }
+  ],
+  "Biology_Technical": [
+    { "id": 31, "text": "The movement of plants in response to unilateral light is:", "options": ["Hydrotropism", "Phototropism", "Geotropism", "Thigmotropism"], "answer": 1 },
+    { "id": 32, "text": "Which organelle is responsible for respiration in a cell?", "options": ["Ribosome", "Nucleus", "Mitochondria", "Vacuole"], "answer": 2 },
+    { "id": 33, "text": "The basic unit of life is the:", "options": ["Organ", "Tissue", "Cell", "System"], "answer": 2 },
+    { "id": 34, "text": "Which of these is a biotic factor?", "options": ["Rainfall", "Pests", "Temperature", "Wind"], "answer": 1 },
+    { "id": 35, "text": "The transport tissue that carries food in plants is the:", "options": ["Xylem", "Phloem", "Cortex", "Stomata"], "answer": 1 }
+  ],
+  "Chemistry_Technical": [
+    { "id": 36, "text": "The process of forming an ionic bond through electron transfer is:", "options": ["Covalency", "Electrovalency", "Isomerism", "Allotropy"], "answer": 1 },
+    { "id": 37, "text": "Which metal can be extracted through electrolysis?", "options": ["Iron", "Aluminium", "Gold", "Silver"], "answer": 1 },
+    { "id": 38, "text": "The chemical formula for Sulfuric Acid is:", "options": ["HCl", "NaOH", "H2SO4", "HNO3"], "answer": 2 },
+    { "id": 39, "text": "The atomic number of Oxygen is:", "options": ["6", "8", "12", "16"], "answer": 1 },
+    { "id": 40, "text": "Which gas is used in fire extinguishers?", "options": ["Oxygen", "Carbon Dioxide", "Nitrogen", "Hydrogen"], "answer": 1 }
+  ],
+  "Civic_Education": [
+    { "id": 41, "text": "The supreme law of Nigeria is the:", "options": ["Police Act", "Criminal Code", "Constitution", "Bye-laws"], "answer": 2 },
+    { "id": 42, "text": "Integrity means being:", "options": ["Wealthy", "Strong", "Honest and upright", "Famous"], "answer": 2 },
+    { "id": 43, "text": "Which agency fights drug abuse in Nigeria?", "options": ["EFCC", "NDLEA", "ICPC", "NAFDAC"], "answer": 1 },
+    { "id": 44, "text": "Orderliness in society helps to prevent:", "options": ["Peace", "Chaos", "Development", "Education"], "answer": 1 },
+    { "id": 45, "text": "A major way to prevent cultism is:", "options": ["Expulsion", "Public enlightenment", "Secrecy", "Violence"], "answer": 1 }
+  ],
+  "Economics": [
+    { "id": 46, "text": "The reward for capital is:", "options": ["Rent", "Wages", "Interest", "Profit"], "answer": 2 },
+    { "id": 47, "text": "The basic economic problem is:", "options": ["Money", "Inflation", "Scarcity", "Trade"], "answer": 2 },
+    { "id": 48, "text": "Inflation means a persistent ____ in the general price level.", "options": ["Fall", "Rise", "Stability", "Double"], "answer": 1 },
+    { "id": 49, "text": "Human wants are said to be:", "options": ["Limited", "Insatiable", "Few", "Satiable"], "answer": 1 },
+    { "id": 50, "text": "Which bank is the 'banker to the government'?", "options": ["Commercial Bank", "Central Bank", "Microfinance Bank", "Mortgage Bank"], "answer": 1 }
+  ],
+
+  "Automobile_&_Mechanical_Trades": [
+    { "id": 51, "text": "The part of an internal combustion engine that converts reciprocating motion into rotary motion is the?", "options": ["Piston", "Connecting rod", "Crankshaft", "Camshaft"], "answer": 2 },
+    { "id": 52, "text": "Which component in a vehicle's cooling system helps to dissipate heat from the coolant?", "options": ["Water pump", "Thermostat", "Radiator", "Fan belt"], "answer": 2 },
+    { "id": 53, "text": "The stroke in a four-stroke engine where the air-fuel mixture is ignited is called the?", "options": ["Intake stroke", "Compression stroke", "Power stroke", "Exhaust stroke"], "answer": 2 },
+    { "id": 54, "text": "A tool used to measure the diameter of a cylinder bore is a?", "options": ["Micrometer", "Feeler gauge", "Dial gauge", "Vernier caliper"], "answer": 0 },
+    { "id": 55, "text": "Which part of the car battery is responsible for storing electrical energy?", "options": ["Electrolyte", "Lead plates", "Terminals", "Plastic casing"], "answer": 1 },
+    { "id": 56, "text": "The firing order of a standard four-cylinder engine is usually?", "options": ["1-2-3-4", "1-4-3-2", "1-3-4-2", "4-3-2-1"], "answer": 2 },
+    { "id": 57, "text": "In a diesel engine, fuel is ignited by?", "options": ["Spark plug", "Compression heat", "Battery", "Carburetor"], "answer": 1 },
+    { "id": 58, "text": "The primary function of a clutch in a manual vehicle is to?", "options": ["Stop the car", "Disengage the engine from the gearbox", "Cool the engine", "Increase speed"], "answer": 1 }
+  ],
+  "Electronics_&_Computer_Craft": [
+    { "id": 59, "text": "Which electronic component allows current to flow in only one direction?", "options": ["Resistor", "Capacitor", "Diode", "Transistor"], "answer": 2 },
+    { "id": 60, "text": "The 'Brain' of a computer system is the?", "options": ["Monitor", "Hard Drive", "CPU", "RAM"], "answer": 2 },
+    { "id": 61, "text": "In digital electronics, the binary digit 1 usually represents?", "options": ["Low voltage", "High voltage", "No current", "Reverse bias"], "answer": 1 },
+    { "id": 62, "text": "A soldering iron is used to join electronic components using a filler metal called?", "options": ["Lead", "Copper", "Solder", "Aluminium"], "answer": 2 },
+    { "id": 63, "text": "Which of these is an input device?", "options": ["Printer", "Speaker", "Keyboard", "Monitor"], "answer": 2 },
+    { "id": 64, "text": "The process of removing errors from a computer program is?", "options": ["Coding", "Debugging", "Scanning", "Formatting"], "answer": 1 },
+    { "id": 65, "text": "A resistor with color bands Brown, Black, Red, Gold has a value of?", "options": ["100 Ohms", "1000 Ohms", "10,000 Ohms", "10 Ohms"], "answer": 1 }
+  ],
+  "Office_Practice_&_Commerce": [
+    { "id": 66, "text": "The practice of keeping a record of all money received and paid by an office is?", "options": ["Filing", "Book-keeping", "Correspondence", "Invoicing"], "answer": 1 },
+    { "id": 67, "text": "Which document is used to correct an overcharge in an invoice?", "options": ["Debit Note", "Credit Note", "Receipt", "Delivery Note"], "answer": 1 },
+    { "id": 68, "text": "A machine used to destroy sensitive documents is a?", "options": ["Photocopying machine", "Shredding machine", "Typewriter", "Scanner"], "answer": 1 },
+    { "id": 69, "text": "The 'Petty Cash Book' is used for?", "options": ["Large payments", "Small daily expenses", "Buying land", "Staff salaries"], "answer": 1 },
+    { "id": 70, "text": "A major advantage of using a computer in an office is?", "options": ["It is expensive", "It increases speed and accuracy", "It requires electricity", "It takes up space"], "answer": 1 },
+    { "id": 71, "text": "Which type of communication involves the use of facial expressions and gestures?", "options": ["Oral", "Written", "Non-verbal", "Visual"], "answer": 2 },
+    { "id": 72, "text": "A person who buys goods in bulk from the manufacturer and sells to retailers is a?", "options": ["Consumer", "Wholesaler", "Agent", "Broker"], "answer": 1 },
+    { "id": 73, "text": "In insurance, the amount paid periodically to the insurance company is the?", "options": ["Premium", "Policy", "Claims", "Indemnity"], "answer": 0 }
+  ],
+  "Maths_&_Applied_Science": [
+    { "id": 74, "text": "Find the area of a trapezoid with parallel sides 10cm and 14cm, and height 5cm.", "options": ["40cm²", "60cm²", "70cm²", "120cm²"], "answer": 1 },
+    { "id": 75, "text": "What is the sine of 30 degrees?", "options": ["0.5", "0.866", "1.0", "0.707"], "answer": 0 },
+    { "id": 76, "text": "Convert 100 degrees Celsius to Kelvin.", "options": ["173K", "273K", "373K", "0K"], "answer": 2 },
+    { "id": 77, "text": "The mechanical advantage of a machine is the ratio of?", "options": ["Effort to Load", "Load to Effort", "Work to Time", "Power to Energy"], "answer": 1 },
+    { "id": 78, "text": "A force of 10N acts over a distance of 5m. Calculate the work done.", "options": ["2J", "15J", "50J", "500J"], "answer": 2 },
+    { "id": 79, "text": "Find the value of Log₁₀ 1.", "options": ["0", "1", "10", "Infinity"], "answer": 0 },
+    { "id": 80, "text": "Which of these is a vector quantity?", "options": ["Speed", "Distance", "Displacement", "Time"], "answer": 2 },
+    { "id": 81, "text": "Simplify: sqrt(144) + 12.", "options": ["12", "24", "144", "0"], "answer": 1 }
+  ],
+  "General_Technical_Knowledge": [
+    { "id": 82, "text": "The instrument used to test for 'live' wires in a circuit is a?", "options": ["Screw driver", "Pliers", "Neon tester", "Hammer"], "answer": 2 },
+    { "id": 83, "text": "A 'Feeler gauge' is used to measure?", "options": ["Engine speed", "Gap between two surfaces", "Oil pressure", "Tyre diameter"], "answer": 1 },
+    { "id": 84, "text": "Which of these is a permanent joining method in metalwork?", "options": ["Bolting", "Welding", "Screwing", "Pinning"], "answer": 1 },
+    { "id": 85, "text": "The color code for a neutral wire in a standard 3-core cable is?", "options": ["Brown", "Blue", "Green/Yellow", "Red"], "answer": 1 },
+    { "id": 86, "text": "A 'Lathe machine' is primarily used for?", "options": ["Cutting wood", "Turning and shaping metal", "Painting cars", "Washing tools"], "answer": 1 },
+    { "id": 87, "text": "Which fire extinguisher is best for electrical fires?", "options": ["Water", "Foam", "CO2 (Carbon Dioxide)", "Sand"], "answer": 2 },
+    { "id": 88, "text": "In engineering drawing, a hidden line is represented by?", "options": ["A thick solid line", "A thin solid line", "A dashed line", "A zig-zag line"], "answer": 2 },
+    { "id": 89, "text": "The main ingredient in glass making is?", "options": ["Clay", "Sand (Silica)", "Wood", "Metal"], "answer": 1 }
+  ],
+  "Civic_&_Entrepreneurship": [
+    { "id": 90, "text": "A small business owned and managed by one person is a?", "options": ["Partnership", "Sole proprietorship", "Cooperative", "Public company"], "answer": 1 },
+    { "id": 91, "text": "Which agency is responsible for standardizing products in Nigeria?", "options": ["EFCC", "SON (Standards Organisation of Nigeria)", "INEC", "NBS"], "answer": 1 },
+    { "id": 92, "text": "The ability to start and manage a new business is?", "options": ["Management", "Entrepreneurship", "Economics", "Book-keeping"], "answer": 1 },
+    { "id": 93, "text": "A written plan for a new business is called a?", "options": ["Invoice", "Receipt", "Business plan", "Menu"], "answer": 2 },
+    { "id": 94, "text": "The process of recycling helps to?", "options": ["Increase waste", "Reduce environmental pollution", "Waste money", "Speed up erosion"], "answer": 1 },
+    { "id": 95, "text": "Human rights that cannot be taken away are called?", "options": ["Legal rights", "Inalienable rights", "Political rights", "Social rights"], "answer": 1 },
+    { "id": 96, "text": "The capital of Nigeria was moved from Lagos to Abuja in?", "options": ["1960", "1975", "1991", "1999"], "answer": 2 },
+    { "id": 97, "text": "The white color on the Nigerian coat of arms represents?", "options": ["Peace", "Dignity", "Agriculture", "Strength"], "answer": 1 },
+    { "id": 98, "text": "An example of a social vice in Nigeria is?", "options": ["Hard work", "Drug abuse", "Punctuality", "Honesty"], "answer": 1 },
+    { "id": 99, "text": "The currency used in Nigeria is the?", "options": ["Dollar", "Cedi", "Naira", "Pound"], "answer": 2 },
+    { "id": 100, "text": "What is the official language of Nigeria?", "options": ["Hausa", "Igbo", "Yoruba", "English"], "answer": 3 }
+  ],
+
+  "Building_Construction_Trades": [
+    { "id": 101, "text": "Which type of foundation is most suitable for a waterlogged area?", "options": ["Strip foundation", "Stepped foundation", "Raft foundation", "Pad foundation"], "answer": 2 },
+    { "id": 102, "text": "The vertical member that supports a door frame is called a?", "options": ["Sill", "Lintel", "Jamb", "Transom"], "answer": 2 },
+    { "id": 103, "text": "A mixture of cement, sand, and water used for joining bricks is called?", "options": ["Concrete", "Mortar", "Plaster", "Screed"], "answer": 1 },
+    { "id": 104, "text": "The standard size of a common sandcrete block used in Nigeria is?", "options": ["450mm x 225mm x 225mm", "450mm x 150mm x 225mm", "300mm x 150mm x 150mm", "225mm x 225mm x 225mm"], "answer": 0 },
+    { "id": 105, "text": "Which tool is used for spreading mortar during bricklaying?", "options": ["Plumb bob", "Spirit level", "Trowel", "Gauge rod"], "answer": 2 },
+    { "id": 106, "text": "The process of maintaining the moisture of concrete to ensure it gains strength is?", "options": ["Mixing", "Curing", "Batching", "Compacting"], "answer": 1 },
+    { "id": 107, "text": "A horizontal structural member over an opening (like a window) is a?", "options": ["Column", "Lintel", "Joist", "Rafter"], "answer": 1 },
+    { "id": 108, "text": "Which of these is a non-ferrous metal used in plumbing?", "options": ["Iron", "Steel", "Copper", "Cast iron"], "answer": 2 }
+  ],
+  "Electrical_Installation_&_Maintenance": [
+    { "id": 109, "text": "A 'Megger' is an instrument used specifically to measure?", "options": ["Voltage", "Current", "Insulation resistance", "Frequency"], "answer": 2 },
+    { "id": 110, "text": "The international color code for an Earth wire is?", "options": ["Red", "Black", "Green and Yellow", "Blue"], "answer": 2 },
+    { "id": 111, "text": "Which electrical component is used to protect a circuit from overcurrent?", "options": ["Switch", "Fuse", "Capacitor", "Inductor"], "answer": 1 },
+    { "id": 112, "text": "In a 3-pin plug, the fuse is always connected to the?", "options": ["Neutral wire", "Earth wire", "Live wire", "Ground wire"], "answer": 2 },
+    { "id": 113, "text": "The process of connecting the metallic parts of an electrical installation to the ground is?", "options": ["Bonding", "Earthing", "Looping", "Shielding"], "answer": 1 },
+    { "id": 114, "text": "A 'Lux meter' is used to measure?", "options": ["Heat", "Sound", "Light intensity", "Pressure"], "answer": 2 },
+    { "id": 115, "text": "What is the standard frequency of the AC supply in Nigeria?", "options": ["50 Hz", "60 Hz", "100 Hz", "220 Hz"], "answer": 0 },
+    { "id": 116, "text": "Which type of conduit is best suited for underground wiring?", "options": ["PVC conduit", "Galvanized steel conduit", "Flexible conduit", "Wooden trunking"], "answer": 1 }
+  ],
+  "Carpentry_&_Woodwork": [
+    { "id": 117, "text": "A tool used for smoothing the surface of wood is a?", "options": ["Chisel", "Plane", "Saw", "Hammer"], "answer": 1 },
+    { "id": 118, "text": "Which of these is a hardwood found in Nigeria?", "options": ["Iroko", "Pine", "Cedar", "Softwood"], "answer": 0 },
+    { "id": 119, "text": "The process of reducing the moisture content of timber is called?", "options": ["Cutting", "Seasoning", "Planing", "Varnishing"], "answer": 1 },
+    { "id": 120, "text": "Which saw is best for cutting curves in thin wood?", "options": ["Rip saw", "Cross-cut saw", "Coping saw", "Tenon saw"], "answer": 2 },
+    { "id": 121, "text": "A joint used to join two pieces of wood at right angles is a?", "options": ["Scarf joint", "Mortise and tenon joint", "Butt joint", "Lap joint"], "answer": 1 },
+    { "id": 122, "text": "Which of these is a defect in timber caused by improper seasoning?", "options": ["Knots", "Warping", "Bark", "Decay"], "answer": 1 },
+    { "id": 123, "text": "The chemical applied to wood to protect it from termite attack is?", "options": ["Paint", "Varnish", "Wood preservative", "Glue"], "answer": 2 }
+  ],
+  "Technical_Drawing_&_Design": [
+    { "id": 124, "text": "In engineering drawing, a 'T-square' is used to draw?", "options": ["Vertical lines", "Horizontal lines", "Circles", "Freehand sketches"], "answer": 1 },
+    { "id": 125, "text": "The angle of a set-square can be?", "options": ["45 degrees", "70 degrees", "100 degrees", "180 degrees"], "answer": 0 },
+    { "id": 126, "text": "Which scale is used for an enlarged drawing?", "options": ["1:1", "1:2", "2:1", "1:100"], "answer": 2 },
+    { "id": 127, "text": "A circle is divided into ____ equal degrees?", "options": ["90", "180", "270", "360"], "answer": 3 },
+    { "id": 128, "text": "The thickness of a 'visible' object line in a drawing should be?", "options": ["Thin", "Thick", "Dashed", "Faint"], "answer": 1 }
+  ],
+  "Maths_&_English_Refresher": [
+    { "id": 129, "text": "What is the value of (0.5)^2?", "options": ["0.1", "0.25", "1.0", "2.5"], "answer": 1 },
+    { "id": 130, "text": "Change 3/5 to a decimal.", "options": ["0.3", "0.5", "0.6", "0.8"], "answer": 2 },
+    { "id": 131, "text": "If y = mx + c, find m when y=10, x=2, and c=4.", "options": ["2", "3", "5", "7"], "answer": 1 },
+    { "id": 132, "text": "The opposite of 'Inflation' in economics is?", "options": ["Deflation", "Stagnation", "Production", "Recession"], "answer": 0 },
+    { "id": 133, "text": "Identify the conjunction: 'He failed because he did not study.'", "options": ["He", "Failed", "Because", "Study"], "answer": 2 },
+    { "id": 134, "text": "Choose the correct spelling:", "options": ["Accomodation", "Accommodation", "Acomodation", "Accommodattion"], "answer": 1 },
+    { "id": 135, "text": "What is the plural of 'Index'?", "options": ["Indexes", "Indices", "Indexess", "Indicies"], "answer": 1 }
+  ],
+  "Business_&_Accounting_Trades": [
+    { "id": 136, "text": "The financial statement that shows the assets and liabilities of a business is?", "options": ["Trading Account", "Profit and Loss Account", "Balance Sheet", "Cash Book"], "answer": 2 },
+    { "id": 137, "text": "A person to whom money is owed by a business is a?", "options": ["Debtor", "Creditor", "Shareholder", "Manager"], "answer": 1 },
+    { "id": 138, "text": "Which of these is a fixed asset?", "options": ["Cash", "Stock", "Machinery", "Debtors"], "answer": 2 },
+    { "id": 139, "text": "Double-entry bookkeeping means every transaction has a?", "options": ["Single effect", "Double effect (Debit and Credit)", "Triple effect", "No effect"], "answer": 1 },
+    { "id": 140, "text": "The record of all credit sales is kept in the?", "options": ["Sales Journal", "Purchases Journal", "Cash Book", "Ledger"], "answer": 0 },
+    { "id": 141, "text": "A 'Trial Balance' is prepared to check?", "options": ["Profit", "The arithmetical accuracy of the books", "Total assets", "Stock level"], "answer": 1 },
+    { "id": 142, "text": "A check that is not honored by a bank is called a?", "options": ["Open check", "Crossed check", "Dishonored check", "Post-dated check"], "answer": 2 }
+  ],
+  "Health_Safety_&_Environment": [
+    { "id": 143, "text": "What does PPE stand for in a workshop?", "options": ["People Power Energy", "Personal Protective Equipment", "Private Property Exit", "Public Plant Entry"], "answer": 1 },
+    { "id": 144, "text": "Which color is used to represent 'Danger' or 'Stop' on safety signs?", "options": ["Green", "Blue", "Yellow", "Red"], "answer": 3 },
+    { "id": 145, "text": "A 'First Aid Box' should contain which of the following?", "options": ["Hammer", "Bandages and Antiseptics", "Solder", "Food"], "answer": 1 },
+    { "id": 146, "text": "When using a grinding machine, you must always wear?", "options": ["Earrings", "Safety goggles", "Gloves", "A watch"], "answer": 1 },
+    { "id": 147, "text": "The proper way to lift a heavy object is by?", "options": ["Bending your back", "Bending your knees", "Using one hand", "Jumping"], "answer": 1 },
+    { "id": 148, "text": "In case of a fire outbreak in a workshop, the first thing to do is?", "options": ["Call home", "Raise the alarm", "Hide", "Cry"], "answer": 1 },
+    { "id": 149, "text": "Waste oil from a mechanical workshop should be?", "options": ["Poured into the gutter", "Stored in a labeled container for disposal", "Burned on-site", "Spilled on the floor"], "answer": 1 },
+    { "id": 150, "text": "Which agency in Nigeria is responsible for environmental protection?", "options": ["NESREA", "INEC", "NBS", "EFCC"], "answer": 0 }
+  ],
+
+  "Secretarial_&_Office_Studies": [
+    { "id": 151, "text": "Which of the following is a primary function of an office manager?", "options": ["Manufacturing goods", "Planning and coordinating office activities", "Fixing electrical faults", "Marketing products"], "answer": 1 },
+    { "id": 152, "text": "A formal organizational structure that defines authority and communication channels is known as?", "options": ["Functional structure", "Social structure", "Informal structure", "Flexible structure"], "answer": 0 },
+    { "id": 153, "text": "In Maslow's hierarchy of needs, the most basic level of human needs is?", "options": ["Safety needs", "Self-actualization", "Physiological needs", "Social needs"], "answer": 2 },
+    { "id": 154, "text": "Which document is used to maintain a record of all incoming and outgoing mail?", "options": ["Stock ledger", "Correspondence register", "Cash book", "Petty cash voucher"], "answer": 1 },
+    { "id": 155, "text": "Effective communication requires which of the following?", "options": ["A loud voice", "A sender, a message, and a receiver", "Only written documents", "Complete silence"], "answer": 1 },
+    { "id": 156, "text": "The act of arranging documents in a systematic order for easy retrieval is?", "options": ["Recording", "Filing", "Shredding", "Printing"], "answer": 1 },
+    { "id": 157, "text": "A 'Stock Ledger' is primarily used to track?", "options": ["Staff salaries", "Quantity and value of items in store", "Customer complaints", "Daily electricity usage"], "answer": 1 },
+    { "id": 158, "text": "What is the primary purpose of a business meeting?", "options": ["To have lunch", "To make collective decisions and share information", "To avoid work", "To listen to music"], "answer": 1 }
+  ],
+  "ICT_&_Computer_Craft_Studies": [
+    { "id": 159, "text": "The acronym 'HTTP' in web browsing stands for?", "options": ["Hypertext Transfer Protocol", "High Tech Trading Point", "Hypermedia Technical Protocol", "Hard Task Tool Program"], "answer": 0 },
+    { "id": 160, "text": "A peripheral device that allows a computer to connect to a network over a telephone line is?", "options": ["Printer", "Scanner", "Modem", "Joystick"], "answer": 2 },
+    { "id": 161, "text": "In Microsoft Word, the shortcut key to copy selected text is?", "options": ["Ctrl + V", "Ctrl + X", "Ctrl + C", "Ctrl + S"], "answer": 2 },
+    { "id": 162, "text": "Which of these is a malicious software designed to disrupt or harm computer systems?", "options": ["Operating System", "Antivirus", "Computer Virus", "Spreadsheet"], "answer": 2 },
+    { "id": 163, "text": "A digital computer processes data in which form?", "options": ["Continuous physical quantities", "Binary form (0s and 1s)", "Handwritten text", "Sound waves"], "answer": 1 },
+    { "id": 164, "text": "The 'Arithmetic and Logic Unit' (ALU) in a CPU is responsible for?", "options": ["Storing data permanently", "Performing mathematical and logical operations", "Displaying images", "Managing the power supply"], "answer": 1 },
+    { "id": 165, "text": "Which technology is used for long-distance wireless communication using satellites?", "options": ["Bluetooth", "VSAT", "USB", "Infrared"], "answer": 1 },
+    { "id": 166, "text": "An example of a web browser is?", "options": ["Microsoft Excel", "Google Chrome", "Adobe Photoshop", "Windows Media Player"], "answer": 1 }
+  ],
+  "General_Metalwork_Craft_Practice": [
+    { "id": 167, "text": "The ability of a metal to be bent, rolled, or hammered without breaking is?", "options": ["Hardness", "Malleability", "Brittleness", "Conductivity"], "answer": 1 },
+    { "id": 168, "text": "Which tool is specifically used for marking lines on metal surfaces before cutting?", "options": ["Hammer", "Scriber", "Pliers", "Screwdriver"], "answer": 1 },
+    { "id": 169, "text": "The 'Hooke's Law' of elasticity states that for an elastic material, strain is proportional to?", "options": ["Weight", "Stress", "Length", "Density"], "answer": 1 },
+    { "id": 170, "text": "Which of the following is a common tool used in gas welding?", "options": ["Wire brush", "Spark lighter", "Colored goggles", "All of the above"], "answer": 3 },
+    { "id": 171, "text": "The property of metal that allows it to allow heat or electricity to pass through easily is?", "options": ["Ductility", "Malleability", "Conductivity", "Elasticity"], "answer": 2 },
+    { "id": 172, "text": "In arc welding, excessive spatter can often be caused by?", "options": ["Low current", "Excessive current", "Clean metal surface", "New electrodes"], "answer": 1 },
+    { "id": 173, "text": "A 'Center Punch' conical end typically has an angle of?", "options": ["30 degrees", "60 degrees", "90 degrees", "120 degrees"], "answer": 2 },
+    { "id": 174, "text": "Which forging operation increases the cross-sectional area of a workpiece at the expense of its length?", "options": ["Drawing down", "Upsetting", "Twisting", "Bending"], "answer": 1 },
+    { "id": 175, "text": "A 'V-block' is used in metalwork to support which type of workpiece?", "options": ["Flat plates", "Cylindrical or round bars", "Irregular shapes", "Wooden blocks"], "answer": 1 }
+  ],
+  "Maths_&_Trade_Calculations": [
+    { "id": 176, "text": "Calculate the circumference of a metal disk with a radius of 14cm (π = 22/7).", "options": ["44cm", "88cm", "154cm", "616cm"], "answer": 1 },
+    { "id": 177, "text": "If a technician earns ₦50,000 and pays 5% tax, how much is the tax amount?", "options": ["₦1,000", "₦2,500", "₦5,000", "₦10,000"], "answer": 1 },
+    { "id": 178, "text": "Convert 0.25 to a percentage.", "options": ["2.5%", "25%", "250%", "0.25%"], "answer": 1 },
+    { "id": 179, "text": "Find the volume of a rectangular metal block with dimensions 10cm x 5cm x 2cm.", "options": ["17cm³", "50cm³", "100cm³", "200cm³"], "answer": 2 },
+    { "id": 180, "text": "Solve for x: 5x + 10 = 30.", "options": ["2", "4", "6", "8"], "answer": 1 }
+  ],
+  "Engineering_Trades_Refresher": [
+    { "id": 181, "text": "The instrument used to check the flatness and squareness of a surface is a?", "options": ["Steel rule", "Try-square", "Caliper", "Micrometer"], "answer": 1 },
+    { "id": 182, "text": "Which of these is a ferrous metal?", "options": ["Aluminium", "Copper", "Mild Steel", "Lead"], "answer": 2 },
+    { "id": 183, "text": "The primary function of a flux in soldering is to?", "options": ["Heat the metal", "Prevent oxidation of the joint", "Change the color of the solder", "Act as an adhesive"], "answer": 1 },
+    { "id": 184, "text": "A 'Boring' operation in machining refers to?", "options": ["Creating a new hole", "Enlarging an existing hole", "Smoothing a surface", "Cutting a thread"], "answer": 1 },
+    { "id": 185, "text": "The process of joining two pieces of metal by melting a filler metal into the joint is?", "options": ["Riveting", "Bolting", "Soldering", "Pinning"], "answer": 2 }
+  ],
+  "Business_&_Entrepreneurship_Studies": [
+    { "id": 186, "text": "A business partnership is formed by a minimum of ____ persons.", "options": ["Two", "Seven", "Ten", "Fifty"], "answer": 0 },
+    { "id": 187, "text": "The document that summarizes a company's financial position at a given date is the?", "options": ["Cash book", "Invoice", "Balance Sheet", "Trial Balance"], "answer": 2 },
+    { "id": 188, "text": "A person who initiates, organizes, and manages a business venture is an?", "options": ["Employee", "Entrepreneur", "Investor", "Manager"], "answer": 1 },
+    { "id": 189, "text": "Which type of bank focuses on providing long-term loans for housing?", "options": ["Commercial Bank", "Microfinance Bank", "Mortgage Bank", "Central Bank"], "answer": 2 },
+    { "id": 190, "text": "The abbreviation 'VAT' stands for?", "options": ["Variable Amount Tax", "Value Added Tax", "Valid Asset Total", "Volume Account Trade"], "answer": 1 }
+  ],
+  "General_Technical_&_Civic_Knowledge": [
+    { "id": 191, "text": "Which color on the Nigerian Flag represents Agriculture?", "options": ["White", "Green", "Blue", "Red"], "answer": 1 },
+    { "id": 192, "text": "The official retirement age for civil servants in Nigeria is usually ____ years of service.", "options": ["25", "30", "35", "40"], "answer": 2 },
+    { "id": 193, "text": "Which agency is responsible for standardizing technical products in Nigeria?", "options": ["NBS", "SON", "INEC", "EFCC"], "answer": 1 },
+    { "id": 194, "text": "The headquarters of the United Nations is in?", "options": ["Geneva", "London", "New York", "Paris"], "answer": 2 },
+    { "id": 195, "text": "Which of these is a source of renewable energy?", "options": ["Coal", "Petroleum", "Solar power", "Natural gas"], "answer": 2 },
+    { "id": 196, "text": "What does 'PPE' stand for in a technical workshop?", "options": ["Personal Protective Equipment", "Plant Power Engine", "Public Private Enterprise", "Price Per Entry"], "answer": 0 },
+    { "id": 197, "text": "The main objective of 'Civic Education' is to?", "options": ["Teach business secrets", "Produce responsible citizens", "Learn new languages", "Improve sports skills"], "answer": 1 },
+    { "id": 198, "text": "Which arm of government is responsible for interpreting the law?", "options": ["Executive", "Legislature", "Judiciary", "Press"], "answer": 2 },
+    { "id": 199, "text": "The capital of Nigeria was moved from Lagos to Abuja in which year?", "options": ["1960", "1975", "1991", "1999"], "answer": 2 },
+    { "id": 200, "text": "Who is the 'Father of the Nation' in Nigeria?", "options": ["Obafemi Awolowo", "Ahmadu Bello", "Nnamdi Azikiwe", "Tafawa Balewa"], "answer": 2 }
+  ],
+
+  "Automobile_Electrical_Works": [
+    { "id": 201, "text": "The device used to increase the battery voltage to a high voltage for the spark plugs is the?", "options": ["Alternator", "Ignition coil", "Condenser", "Distributor"], "answer": 1 },
+    { "id": 202, "text": "A fully charged lead-acid battery should have a specific gravity of approximately?", "options": ["1.150", "1.210", "1.280", "1.350"], "answer": 2 },
+    { "id": 203, "text": "Which component protects the vehicle's electrical circuit from damage caused by a short circuit?", "options": ["Switch", "Fuse", "Relay", "Solenoid"], "answer": 1 },
+    { "id": 204, "text": "The firing order for most four-cylinder engines is?", "options": ["1-2-3-4", "1-4-3-2", "1-3-4-2", "4-3-2-1"], "answer": 2 },
+    { "id": 205, "text": "Which instrument is used to check the state of charge of a battery?", "options": ["Voltmeter", "Ammeter", "Hydrometer", "Multimeter"], "answer": 2 }
+  ],
+  "Mechanical_Engineering_Craft": [
+    { "id": 206, "text": "The process of making a hole in a metal piece on a lathe machine is called?", "options": ["Turning", "Facing", "Drilling", "Knurling"], "answer": 2 },
+    { "id": 207, "text": "A 'Feeler Gauge' is used to measure?", "options": ["Depth of a hole", "Diameter of a shaft", "Gap between two surfaces", "Pitch of a thread"], "answer": 2 },
+    { "id": 208, "text": "The property of a metal to resist wear, indentation, and scratching is?", "options": ["Toughness", "Hardness", "Ductility", "Elasticity"], "answer": 1 },
+    { "id": 209, "text": "Which tool is used for cutting external threads on a cylindrical bar?", "options": ["Tap", "Die", "Reamer", "Chisel"], "answer": 1 },
+    { "id": 210, "text": "Coolants are used in machining operations primarily to?", "options": ["Increase speed", "Lubricate and dissipate heat", "Prevent rust", "Clean the machine"], "answer": 1 }
+  ],
+  "Business_Trades_&_Accounting": [
+    { "id": 211, "text": "The book of original entry where credit purchases are recorded is the?", "options": ["Sales Journal", "Purchases Journal", "Cash Book", "General Ledger"], "answer": 1 },
+    { "id": 212, "text": "Which of these is a current asset?", "options": ["Land", "Building", "Cash in hand", "Machinery"], "answer": 2 },
+    { "id": 213, "text": "A 'Check' that is more than six months old is referred to as a?", "options": ["Post-dated check", "Stale check", "Open check", "Crossed check"], "answer": 1 },
+    { "id": 214, "text": "The reward for a shareholder in a Limited Liability Company is?", "options": ["Interest", "Wages", "Dividend", "Commission"], "answer": 2 },
+    { "id": 215, "text": "The double-entry system of bookkeeping was popularized by?", "options": ["Adam Smith", "Luca Pacioli", "John Keynes", "Karl Marx"], "answer": 1 }
+  ],
+  "Mathematics_Technical": [
+    { "id": 216, "text": "Find the area of a circle with a diameter of 28cm (Take π = 22/7).", "options": ["88cm²", "154cm²", "616cm²", "2464cm²"], "answer": 2 },
+    { "id": 217, "text": "Express 0.00567 in standard form.", "options": ["5.67 x 10^-3", "5.67 x 10^-2", "56.7 x 10^-4", "5.67 x 10^3"], "answer": 0 },
+    { "id": 218, "text": "Calculate the simple interest on ₦15,000 for 3 years at 6% per annum.", "options": ["₦900", "₦1,800", "₦2,700", "₦3,600"], "answer": 2 },
+    { "id": 219, "text": "Simplify: (3^4 x 3^2) / 3^3.", "options": ["3^2", "3^3", "3^4", "3^9"], "answer": 1 },
+    { "id": 220, "text": "If 5 workers can complete a task in 4 days, how many days will 2 workers take?", "options": ["8 days", "10 days", "12 days", "15 days"], "answer": 1 },
+    { "id": 221, "text": "Find the square root of 0.0064.", "options": ["0.08", "0.8", "0.008", "0.64"], "answer": 0 },
+    { "id": 222, "text": "Solve for x: 4x - 7 = 2x + 5.", "options": ["2", "3", "6", "12"], "answer": 2 },
+    { "id": 223, "text": "What is the value of Tan 45°?", "options": ["0", "0.5", "1", "Infinity"], "answer": 2 },
+    { "id": 224, "text": "A machine has a velocity ratio of 5 and an efficiency of 80%. Find its Mechanical Advantage.", "options": ["2", "4", "6", "8"], "answer": 1 },
+    { "id": 225, "text": "Convert 1101 (binary) to base 10.", "options": ["11", "12", "13", "14"], "answer": 2 }
+  ],
+  "English_Technical_&_Grammar": [
+    { "id": 226, "text": "Choose the most appropriate synonym for 'Precision' as used in engineering:", "options": ["Roughness", "Accuracy", "Speed", "Doubt"], "answer": 1 },
+    { "id": 227, "text": "Identify the conjunction in: 'The engine failed because it was not lubricated.'", "options": ["Engine", "Failed", "Because", "Lubricated"], "answer": 2 },
+    { "id": 228, "text": "Choose the correct spelling:", "options": ["Technishian", "Technician", "Teknician", "Technition"], "answer": 1 },
+    { "id": 229, "text": "The antonym of 'Durable' is?", "options": ["Strong", "Fragile", "Hard", "Lasting"], "answer": 1 },
+    { "id": 230, "text": "Complete the sentence: 'Neither the foreman nor the workers ____ present at the site.'", "options": ["is", "are", "was", "be"], "answer": 1 },
+    { "id": 231, "text": "What is the plural of 'Radius'?", "options": ["Radiuses", "Radii", "Radia", "Radi"], "answer": 1 },
+    { "id": 232, "text": "Identify the adverb in: 'The machine operated smoothly after the repair.'", "options": ["Machine", "Operated", "Smoothly", "Repair"], "answer": 2 },
+    { "id": 233, "text": "Choose the correctly punctuated sentence:", "options": ["Where is the tool-box?", "where is the tool box.", "Where is the toolbox!", "Whos there?"], "answer": 0 },
+    { "id": 234, "text": "The past tense of 'Draw' is?", "options": ["Drawn", "Drew", "Drawing", "Drawed"], "answer": 1 },
+    { "id": 235, "text": "Which of these is a proper noun?", "options": ["Workstation", "Lagos", "Wrench", "City"], "answer": 1 }
+  ],
+  "Mathematics_Continuation": [
+    { "id": 236, "text": "Find the average of 15, 20, 25, 30, and 35.", "options": ["20", "25", "30", "35"], "answer": 1 },
+    { "id": 237, "text": "Calculate the volume of a cylinder with radius 7cm and height 10cm.", "options": ["154cm³", "770cm³", "1540cm³", "2200cm³"], "answer": 2 },
+    { "id": 238, "text": "If 15% of a number is 60, find the number.", "options": ["300", "400", "500", "600"], "answer": 1 },
+    { "id": 239, "text": "What is the sum of angles on a straight line?", "options": ["90°", "180°", "270°", "360°"], "answer": 1 },
+    { "id": 240, "text": "Solve: 2/5 + 1/3.", "options": ["3/8", "3/15", "11/15", "1/2"], "answer": 2 },
+    { "id": 241, "text": "Express 4/25 as a decimal.", "options": ["0.16", "0.4", "0.04", "0.8"], "answer": 0 },
+    { "id": 242, "text": "How many seconds are in 1 hour and 15 minutes?", "options": ["3600s", "4500s", "5400s", "900s"], "answer": 1 },
+    { "id": 243, "text": "The interior angle of a regular pentagon is?", "options": ["72°", "90°", "108°", "120°"], "answer": 2 },
+    { "id": 244, "text": "Find the gradient of a line passing through (1, 2) and (3, 10).", "options": ["2", "4", "6", "8"], "answer": 1 },
+    { "id": 245, "text": "What is the HCF of 18, 24, and 36?", "options": ["2", "3", "6", "12"], "answer": 2 }
+  ],
+  "English_Grammar_Continuation": [
+    { "id": 246, "text": "Choose the word nearest in meaning to 'Fragile':", "options": ["Strong", "Breakable", "Hard", "Flexible"], "answer": 1 },
+    { "id": 247, "text": "Identify the preposition: 'The cat is under the table.'", "options": ["Cat", "Is", "Under", "Table"], "answer": 2 },
+    { "id": 248, "text": "The superlative form of 'Good' is?", "options": ["Gooder", "Better", "Best", "Goodest"], "answer": 2 },
+    { "id": 249, "text": "Pick the odd one out:", "options": ["Apple", "Orange", "Wrench", "Banana"], "answer": 2 },
+    { "id": 250, "text": "What type of sentence is 'Keep out of the workshop!'", "options": ["Statement", "Question", "Imperative", "Exclamatory"], "answer": 2 }
+  ],
+
+  "Mathematics_Phase_5": [
+    { "id": 251, "text": "Solve the inequality: 3x - 2 > 10.", "options": ["x > 4", "x < 4", "x > 8", "x < 8"], "answer": 0 },
+    { "id": 252, "text": "Find the median of the set of numbers: 5, 2, 9, 1, 7, 3, 8.", "options": ["3", "5", "7", "9"], "answer": 1 },
+    { "id": 253, "text": "What is the value of 25% of ₦4,000?", "options": ["₦500", "₦800", "₦1,000", "₦1,200"], "answer": 2 },
+    { "id": 254, "text": "Express 7/20 as a percentage.", "options": ["15%", "25%", "35%", "45%"], "answer": 2 },
+    { "id": 255, "text": "Find the volume of a sphere with radius 3cm (Take π = 3.14).", "options": ["28.26cm³", "113.04cm³", "150.72cm³", "339.12cm³"], "answer": 1 },
+    { "id": 256, "text": "If y = 3x² + 4, find y when x = 2.", "options": ["10", "12", "16", "20"], "answer": 2 },
+    { "id": 257, "text": "A man buys a shirt for ₦2,000 and sells it for ₦2,500. Calculate his percentage profit.", "options": ["20%", "25%", "30%", "50%"], "answer": 1 },
+    { "id": 258, "text": "Simplify: (2/5) ÷ (4/15).", "options": ["1/2", "3/2", "8/75", "1"], "answer": 1 },
+    { "id": 259, "text": "Find the length of a diagonal of a square with side 5cm.", "options": ["5cm", "7.07cm", "10cm", "25cm"], "answer": 1 },
+    { "id": 260, "text": "Calculate the simple interest on ₦12,000 at 2% for 5 years.", "options": ["₦1,200", "₦2,400", "₦120", "₦600"], "answer": 0 }
+  ],
+  "English_Language_Phase_5": [
+    { "id": 261, "text": "Choose the correct preposition: 'The student was scolded ____ coming late.'", "options": ["for", "at", "with", "on"], "answer": 0 },
+    { "id": 262, "text": "What is the synonym of 'Industrious'?", "options": ["Lazy", "Wealthy", "Hardworking", "Quiet"], "answer": 2 },
+    { "id": 263, "text": "Select the correct spelling:", "options": ["Occurred", "Ocured", "Ocurred", "Occured"], "answer": 0 },
+    { "id": 264, "text": "Choose the antonym of 'Transparent':", "options": ["Clear", "Cloudy", "Opaque", "Vivid"], "answer": 2 },
+    { "id": 265, "text": "Identify the conjunction: 'I would like to stay, but I must go.'", "options": ["Like", "Stay", "But", "Must"], "answer": 2 },
+    { "id": 266, "text": "What is the feminine form of 'Duke'?", "options": ["Dutchess", "Duchess", "Dukess", "Queen"], "answer": 1 },
+    { "id": 267, "text": "The phrase 'Once in a blue moon' means ____?", "options": ["Daily", "Very rarely", "Every month", "At night"], "answer": 1 },
+    { "id": 268, "text": "Identify the noun: 'Patience is a virtue.'", "options": ["Patience", "Is", "A", "Virtue"], "answer": 0 },
+    { "id": 269, "text": "Choose the correct plural of 'Chief':", "options": ["Chieves", "Chiefs", "Chiefes", "Chiefse"], "answer": 1 },
+    { "id": 270, "text": "Which of these is an interrogative sentence?", "options": ["Go away.", "He is tall.", "Where is my book?", "Alas! he is dead."], "answer": 2 }
+  ],
+  "Building_&_Engineering_Drawing": [
+    { "id": 271, "text": "In technical drawing, 'Hidden detail lines' are represented by:", "options": ["Thick continuous lines", "Thin continuous lines", "Dashed lines", "Zig-zag lines"], "answer": 2 },
+    { "id": 272, "text": "A 'T-Square' is primarily used to draw ____ lines.", "options": ["Vertical", "Inclined", "Horizontal", "Curved"], "answer": 2 },
+    { "id": 273, "text": "The angle of a set-square used for isometric drawing is:", "options": ["30°", "45°", "60°", "90°"], "answer": 0 },
+    { "id": 274, "text": "Which scale is a 'Full Scale'?", "options": ["1:2", "1:1", "2:1", "1:10"], "answer": 1 },
+    { "id": 275, "text": "The projection where all three axes are equal is called:", "options": ["Orthographic", "Oblique", "Isometric", "Perspective"], "answer": 2 }
+  ],
+  "General_Home_Management_&_Catering": [
+    { "id": 276, "text": "Which nutrient is the primary source of energy for the body?", "options": ["Vitamins", "Proteins", "Carbohydrates", "Minerals"], "answer": 2 },
+    { "id": 277, "text": "A small tool used to remove skin from fruits and vegetables is a:", "options": ["Knife", "Peeler", "Grater", "Whisk"], "answer": 1 },
+    { "id": 278, "text": "The process of preserving food by heat in sealed containers is:", "options": ["Freezing", "Drying", "Canning", "Smoking"], "answer": 2 },
+    { "id": 279, "text": "Which vitamin is essential for good eyesight?", "options": ["Vitamin A", "Vitamin B", "Vitamin C", "Vitamin D"], "answer": 0 },
+    { "id": 280, "text": "What is the most effective way to prevent food poisoning?", "options": ["Keeping food warm", "Proper hygiene and hand washing", "Using lots of salt", "Frying everything"], "answer": 1 }
+  ],
+  "Physics_&_Chemistry_Technical": [
+    { "id": 281, "text": "The rate of doing work is called:", "options": ["Energy", "Force", "Power", "Momentum"], "answer": 2 },
+    { "id": 282, "text": "The boiling point of water on the Fahrenheit scale is:", "options": ["32°F", "100°F", "212°F", "273°F"], "answer": 2 },
+    { "id": 283, "text": "Which gas is used in electric bulbs to prevent the filament from burning?", "options": ["Oxygen", "Hydrogen", "Argon", "Carbon Dioxide"], "answer": 2 },
+    { "id": 284, "text": "What is the chemical symbol for Lead?", "options": ["Ld", "Le", "Pb", "Fe"], "answer": 2 },
+    { "id": 285, "text": "An example of a good insulator is:", "options": ["Copper", "Aluminium", "Rubber", "Steel"], "answer": 2 }
+  ],
+  "Office_Practice_&_Business_Admin": [
+    { "id": 286, "text": "The systematic arrangement of documents for future reference is:", "options": ["Mailing", "Filing", "Shredding", "Printing"], "answer": 1 },
+    { "id": 287, "text": "A 'Check' that has been signed but not given a date is a:", "options": ["Blank check", "Post-dated check", "Stale check", "Open check"], "answer": 0 },
+    { "id": 288, "text": "Which department in an office handles staff recruitment and training?", "options": ["Finance", "Sales", "Human Resources", "Production"], "answer": 2 },
+    { "id": 289, "text": "The person who takes minutes during a meeting is the:", "options": ["Chairman", "Treasurer", "Secretary", "Manager"], "answer": 2 },
+    { "id": 290, "text": "Which document shows the details of goods sold on credit?", "options": ["Receipt", "Invoice", "Debit Note", "Waybill"], "answer": 1 }
+  ],
+  "General_Academic_Revision_Maths": [
+    { "id": 291, "text": "Evaluate: 2³ + 5².", "options": ["17", "33", "29", "21"], "answer": 1 },
+    { "id": 292, "text": "What is the LCM of 8 and 12?", "options": ["16", "24", "48", "96"], "answer": 1 },
+    { "id": 293, "text": "Find the value of x if 4x = 24.", "options": ["4", "6", "8", "12"], "answer": 1 },
+    { "id": 294, "text": "Calculate the area of a rectangle with length 15cm and width 4cm.", "options": ["19cm²", "38cm²", "60cm²", "30cm²"], "answer": 2 },
+    { "id": 295, "text": "Which of these is a prime number?", "options": ["9", "12", "13", "15"], "answer": 2 },
+    { "id": 296, "text": "The square of 15 is?", "options": ["125", "150", "225", "255"], "answer": 2 },
+    { "id": 297, "text": "Solve: 2/5 + 1/5.", "options": ["1/5", "2/5", "3/5", "4/5"], "answer": 2 },
+    { "id": 298, "text": "Express 500,000 in standard form.", "options": ["5 x 10^4", "5 x 10^5", "5.0 x 10^6", "0.5 x 10^5"], "answer": 1 },
+    { "id": 299, "text": "How many days are in a leap year?", "options": ["360", "364", "365", "366"], "answer": 3 },
+    { "id": 300, "text": "The sum of angles in a triangle is?", "options": ["90°", "180°", "270°", "360°"], "answer": 1 }
+  ],
+
+  "Mathematics_Phase_6": [
+    { "id": 301, "text": "Solve for x: 1/2x + 5 = 11.", "options": ["3", "6", "12", "15"], "answer": 2 },
+    { "id": 302, "text": "What is the value of the digit 7 in the number 45.072?", "options": ["7 units", "7 tens", "7 hundredths", "7 thousandths"], "answer": 2 },
+    { "id": 303, "text": "Find the range of the following set of numbers: 12, 5, 20, 8, 15, 3.", "options": ["12", "15", "17", "20"], "answer": 2 },
+    { "id": 304, "text": "A cylinder has a radius of 3.5cm and height of 10cm. Find its curved surface area (π = 22/7).", "options": ["110cm²", "220cm²", "385cm²", "440cm²"], "answer": 1 },
+    { "id": 305, "text": "If the bearing of X from Y is 120°, what is the bearing of Y from X?", "options": ["060°", "240°", "300°", "330°"], "answer": 2 },
+    { "id": 306, "text": "Evaluate: (0.04) x (0.2).", "options": ["0.8", "0.08", "0.008", "0.0008"], "answer": 2 },
+    { "id": 307, "text": "Simplify: sqrt(32) + sqrt(18) in surd form.", "options": ["5sqrt(2)", "7sqrt(2)", "sqrt(50)", "12sqrt(2)"], "answer": 1 },
+    { "id": 308, "text": "A man spent 1/3 of his salary on rent and 1/4 on food. What fraction remains?", "options": ["1/12", "5/12", "7/12", "1/2"], "answer": 1 }
+  ],
+  "English_Language_Phase_6": [
+    { "id": 309, "text": "Choose the correct spelling:", "options": ["Maintenance", "Maintenence", "Maintainance", "Maintainence"], "answer": 0 },
+    { "id": 310, "text": "Identify the figure of speech: 'The city was a hive of industry.'", "options": ["Simile", "Metaphor", "Personification", "Irony"], "answer": 1 },
+    { "id": 311, "text": "What is the synonym of 'Versatile'?", "options": ["Rigid", "Adaptable", "Limited", "Slow"], "answer": 1 },
+    { "id": 312, "text": "Which of these is a reflexive pronoun?", "options": ["He", "Him", "Himself", "His"], "answer": 2 },
+    { "id": 313, "text": "Choose the antonym of 'Expansion':", "options": ["Growth", "Contraction", "Increase", "Inflation"], "answer": 1 },
+    { "id": 314, "text": "The phrase 'A bird's eye view' means:", "options": ["A narrow view", "A general view from above", "To be short-sighted", "Looking closely"], "answer": 1 },
+    { "id": 315, "text": "Identify the type of noun: 'Happiness' ", "options": ["Common", "Proper", "Abstract", "Collective"], "answer": 2 }
+  ],
+  "Plumbing_&_Pipefitting_Trades": [
+    { "id": 316, "text": "Which pipe material is most resistant to corrosion from acidic soil?", "options": ["Cast iron", "Galvanized steel", "PVC", "Lead"], "answer": 2 },
+    { "id": 317, "text": "A 'U-trap' in plumbing is designed to:", "options": ["Speed up water flow", "Prevent foul gases from entering the building", "Collect sand", "Filter water"], "answer": 1 },
+    { "id": 318, "text": "The process of joining two copper pipes using a filler metal and heat is:", "options": ["Welding", "Soldering/Brazing", "Riveting", "Bolting"], "answer": 1 },
+    { "id": 319, "text": "A 'Stopcock' is used in a plumbing system to:", "options": ["Measure water pressure", "Filter dirt", "Regulate or stop water flow", "Ventilate pipes"], "answer": 2 },
+    { "id": 320, "text": "The device used to ensure a constant water level in an overhead tank is a:", "options": ["Gate valve", "Float valve", "Check valve", "Safety valve"], "answer": 1 }
+  ],
+  "Carpentry_&_Joinery_Phase_2": [
+    { "id": 321, "text": "A tool used for checking the verticality of a wall or post is a:", "options": ["Spirit level", "Try-square", "Plumb bob", "Steel rule"], "answer": 2 },
+    { "id": 322, "text": "Which saw is best suited for cutting along the grain of the wood?", "options": ["Cross-cut saw", "Rip saw", "Tenon saw", "Keyhole saw"], "answer": 1 },
+    { "id": 323, "text": "The 'Mortise and Tenon' joint is commonly used in:", "options": ["Roofing", "Furniture framing", "Wall cladding", "Flooring"], "answer": 1 },
+    { "id": 324, "text": "Which of these is an example of 'Softwood'?", "options": ["Iroko", "Mahogany", "Pine", "Oak"], "answer": 2 },
+    { "id": 325, "text": "The tool used to drive a chisel into wood is a:", "options": ["Hammer", "Mallet", "Pliers", "Wrench"], "answer": 1 }
+  ],
+  "General_Technical_&_Applied_Science": [
+    { "id": 326, "text": "[Physics] The energy stored in a stretched rubber band is:", "options": ["Kinetic", "Elastic Potential", "Chemical", "Nuclear"], "answer": 1 },
+    { "id": 327, "text": "[Chemistry] The main component of natural gas is:", "options": ["Ethane", "Propane", "Methane", "Butane"], "answer": 2 },
+    { "id": 328, "text": "[Technical Drawing] A line drawn at 45 degrees to the horizontal is a/an ____ line.", "options": ["Vertical", "Inclined", "Hidden", "Center"], "answer": 1 },
+    { "id": 329, "text": "[Biology] The deficiency of Iron in the diet leads to:", "options": ["Scurvy", "Rickets", "Anemia", "Goiter"], "answer": 2 },
+    { "id": 330, "text": "[General] The process of coating iron with zinc to prevent rusting is:", "options": ["Painting", "Greasing", "Galvanizing", "Alloying"], "answer": 2 }
+  ],
+  "Commerce_&_Office_Practice_Phase_3": [
+    { "id": 331, "text": "A market with many buyers and many sellers of an identical product is:", "options": ["Monopoly", "Perfect Competition", "Oligopoly", "Duopoly"], "answer": 1 },
+    { "id": 332, "text": "The acronym 'ATM' stands for:", "options": ["All Time Money", "Automated Teller Machine", "Automatic Transfer Mode", "Advanced Trading Method"], "answer": 1 },
+    { "id": 333, "text": "A 'Direct Debit' is an instruction given by a customer to his bank to:", "options": ["Pay a fixed amount monthly", "Allow a third party to collect money from his account", "Stop a check", "Transfer money abroad"], "answer": 1 },
+    { "id": 334, "text": "Which of these is a function of the Central Bank of Nigeria (CBN)?", "options": ["Lending to small traders", "Issuing the national currency", "Selling household items", "Opening savings accounts for students"], "answer": 1 },
+    { "id": 335, "text": "The business document that serves as a receipt for goods delivered is a:", "options": ["Invoice", "Credit Note", "Delivery Note", "Debit Note"], "answer": 2 }
+  ],
+  "English_Grammar_Review": [
+    { "id": 336, "text": "Choose the correct word: 'Neither of the tools ____ in the box.'", "options": ["is", "are", "were", "be"], "answer": 0 },
+    { "id": 337, "text": "The plural of 'Medium' is:", "options": ["Mediums", "Media", "Medias", "Medii"], "answer": 1 },
+    { "id": 338, "text": "Identify the adverb: 'The generator started immediately.'", "options": ["Generator", "Started", "Immediately", "The"], "answer": 2 },
+    { "id": 339, "text": "Choose the correctly punctuated sentence:", "options": ["Where's the foreman?", "Wheres the foreman?", "Where is the foreman.", "Where the foreman is?"], "answer": 0 },
+    { "id": 340, "text": "What is the feminine form of 'Widower'?", "options": ["Widowess", "Wife", "Widow", "Spinster"], "answer": 2 }
+  ],
+  "Maths_General_Calculations": [
+    { "id": 341, "text": "Express 15% as a fraction in its lowest term.", "options": ["3/20", "15/100", "5/20", "1/5"], "answer": 0 },
+    { "id": 342, "text": "If the price of a tool is ₦5,000 and it is sold for ₦6,500, find the percentage profit.", "options": ["15%", "20%", "30%", "40%"], "answer": 2 },
+    { "id": 343, "text": "A rectangle has a length of 12cm and a width of 8cm. Find its area.", "options": ["20cm²", "40cm²", "96cm²", "100cm²"], "answer": 2 },
+    { "id": 344, "text": "Solve for p: 3p + 9 = 27.", "options": ["3", "6", "9", "12"], "answer": 1 },
+    { "id": 345, "text": "What is the square of 14?", "options": ["144", "169", "196", "225"], "answer": 2 },
+    { "id": 346, "text": "If 10 men can dig a pit in 5 days, how many days will 2 men take?", "options": ["10 days", "15 days", "25 days", "50 days"], "answer": 2 },
+    { "id": 347, "text": "Find the average of 10, 20, and 30.", "options": ["15", "20", "25", "30"], "answer": 1 },
+    { "id": 348, "text": "Convert 250cm to meters.", "options": ["0.25m", "2.5m", "25m", "250m"], "answer": 1 },
+    { "id": 349, "text": "The sum of angles in a quadrilateral is:", "options": ["180°", "270°", "360°", "450°"], "answer": 2 },
+    { "id": 350, "text": "Find the simple interest on ₦20,000 at 5% for 3 years.", "options": ["₦1,000", "₦2,000", "₦3,000", "₦4,000"], "answer": 2 }
+  ],
+
+  "Mathematics_Phase_7": [
+    { "id": 351, "text": "Solve for x: 3(x + 2) = 2(x + 5).", "options": ["2", "4", "7", "10"], "answer": 1 },
+    { "id": 352, "text": "What is the probability of picking a prime number from a set of numbers 1 to 10?", "options": ["1/2", "2/5", "3/10", "4/10"], "answer": 1 },
+    { "id": 353, "text": "Find the length of a rectangle whose area is 60cm² and width is 5cm.", "options": ["10cm", "12cm", "15cm", "20cm"], "answer": 1 },
+    { "id": 354, "text": "If a car travels 300km on 25 litres of petrol, what is the fuel consumption in km per litre?", "options": ["10", "12", "15", "20"], "answer": 1 },
+    { "id": 355, "text": "Calculate the total surface area of a cube with side 3cm.", "options": ["9cm²", "18cm²", "36cm²", "54cm²"], "answer": 3 },
+    { "id": 356, "text": "Express ₦35.50 in Kobo.", "options": ["355k", "3,550k", "35,500k", "3.55k"], "answer": 1 },
+    { "id": 357, "text": "Find the next term in the sequence: 2, 5, 10, 17, ...", "options": ["24", "25", "26", "28"], "answer": 2 },
+    { "id": 358, "text": "Simplify: 1/x + 2/x.", "options": ["3/x", "2/x²", "3/x²", "x/3"], "answer": 0 }
+  ],
+  "English_Language_Phase_7": [
+    { "id": 359, "text": "Choose the correct option: 'The news ____ quite shocking.'", "options": ["was", "were", "be", "being"], "answer": 0 },
+    { "id": 360, "text": "What is the antonym of 'Professional'?", "options": ["Expert", "Amateur", "Skilled", "Specialist"], "answer": 1 },
+    { "id": 361, "text": "Identify the conjunction: 'He is poor yet he is happy.'", "options": ["Poor", "Yet", "He", "Happy"], "answer": 1 },
+    { "id": 362, "text": "Select the correct spelling:", "options": ["Acommodate", "Accomodate", "Accommodate", "Acomodate"], "answer": 2 },
+    { "id": 363, "text": "The idiom 'To beat around the bush' means:", "options": ["To avoid the main topic", "To plant trees", "To be direct", "To go hunting"], "answer": 0 },
+    { "id": 364, "text": "What is the plural of 'Formula'?", "options": ["Formulas", "Formulae", "Both A and B", "Formulass"], "answer": 2 },
+    { "id": 365, "text": "Which of these is a collective noun?", "options": ["Teacher", "Students", "Class", "School"], "answer": 2 }
+  ],
+  "Refrigeration_&_Air_Conditioning": [
+    { "id": 366, "text": "The primary function of a compressor in a refrigeration system is to:", "options": ["Cool the liquid", "Circulate the refrigerant", "Turn gas into liquid", "Store energy"], "answer": 1 },
+    { "id": 367, "text": "Which component in an air conditioner is responsible for absorbing heat from the room?", "options": ["Condenser", "Evaporator", "Expansion valve", "Compressor"], "answer": 1 },
+    { "id": 368, "text": "What is the common name for the refrigerant R-134a?", "options": ["Freon", "Tetrafluoroethane", "Ammonia", "Methane"], "answer": 1 },
+    { "id": 369, "text": "The process of removing moisture from a refrigeration system is called:", "options": ["Charging", "Evacuation/Dehydration", "Purging", "Flushing"], "answer": 1 },
+    { "id": 370, "text": "A 'Thermostat' in an air conditioner is used to:", "options": ["Control the current", "Regulate the temperature", "Speed up the fan", "Measure the pressure"], "answer": 1 },
+    { "id": 371, "text": "The unit of cooling capacity often used for air conditioners is the:", "options": ["Watt", "Joule", "BTU (British Thermal Unit)", "Newton"], "answer": 2 },
+    { "id": 372, "text": "Which part of the system releases the absorbed heat to the outside air?", "options": ["Evaporator", "Condenser", "Capillary tube", "Filter drier"], "answer": 1 }
+  ],
+  "General_Technical_Drawing_Phase_3": [
+    { "id": 373, "text": "An 'Orthographic' projection shows an object in how many views usually?", "options": ["One", "Two", "Three", "Six"], "answer": 2 },
+    { "id": 374, "text": "The line used to show the center of a circle is a:", "options": ["Thick continuous line", "Thin dashed line", "Chain line (Long and short dashes)", "Wavy line"], "answer": 2 },
+    { "id": 375, "text": "Which scale is used to reduce a very large object to fit on a paper?", "options": ["1:1", "5:1", "1:100", "10:1"], "answer": 2 }
+  ],
+  "Applied_Science_&_Environment": [
+    { "id": 376, "text": "[Physics] The law of 'Action and Reaction' is which of Newton's laws?", "options": ["First", "Second", "Third", "Fourth"], "answer": 2 },
+    { "id": 377, "text": "[Chemistry] The catalyst used in the production of Ammonia (Haber process) is:", "options": ["Copper", "Iron", "Platinum", "Nickel"], "answer": 1 },
+    { "id": 378, "text": "[Biology] The male reproductive part of a flower is the:", "options": ["Stigma", "Style", "Stamen", "Ovary"], "answer": 2 },
+    { "id": 379, "text": "[Safety] A 'Danger' sign is usually what color?", "options": ["Green", "Blue", "Yellow", "Red"], "answer": 3 },
+    { "id": 380, "text": "[Environment] The primary gas responsible for global warming is:", "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Argon"], "answer": 2 }
+  ],
+  "Business_&_Entrepreneurship_Phase_2": [
+    { "id": 381, "text": "Which of the following is an example of an informal communication channel in an office?", "options": ["Memorandum", "Grapevine", "Official report", "Staff meeting"], "answer": 1 },
+    { "id": 382, "text": "A 'Sole Trader' is a business owned by how many people?", "options": ["One", "Two", "Seven", "Ten"], "answer": 0 },
+    { "id": 383, "text": "The document that provides a permanent record of what happened in a meeting is the:", "options": ["Agenda", "Minutes", "Manifesto", "Proxy"], "answer": 1 },
+    { "id": 384, "text": "The money used to start a business is called:", "options": ["Profit", "Income", "Capital", "Interest"], "answer": 2 },
+    { "id": 385, "text": "A list of items to be discussed at a meeting is the:", "options": ["Minutes", "Agenda", "Notice", "Circular"], "answer": 1 }
+  ],
+  "English_Vocabulary_&_Trades": [
+    { "id": 386, "text": "Choose the word with the same vowel sound as 'Tool':", "options": ["Book", "Pool", "Pull", "Look"], "answer": 1 },
+    { "id": 387, "text": "What is the synonym of 'Rigid'?", "options": ["Flexible", "Stiff", "Soft", "Plastic"], "answer": 1 },
+    { "id": 388, "text": "Select the correctly spelled word:", "options": ["Equipement", "Equipment", "Equippment", "Equipmet"], "answer": 1 },
+    { "id": 389, "text": "The antonym of 'Assemble' is:", "options": ["Collect", "Dismantle", "Build", "Join"], "answer": 1 },
+    { "id": 390, "text": "Identify the adjective: 'The technician used a sharp blade.'", "options": ["Technician", "Used", "Sharp", "Blade"], "answer": 2 }
+  ],
+  "Mathematics_General_Revision": [
+    { "id": 391, "text": "Find the value of 5% of ₦200.", "options": ["₦1", "₦10", "₦20", "₦50"], "answer": 1 },
+    { "id": 392, "text": "Calculate the perimeter of a rectangle with length 10cm and width 4cm.", "options": ["14cm", "28cm", "40cm", "56cm"], "answer": 1 },
+    { "id": 393, "text": "What is the value of 10³?", "options": ["30", "100", "300", "1,000"], "answer": 3 },
+    { "id": 394, "text": "If 2x = 18, find x.", "options": ["4", "9", "18", "36"], "answer": 1 },
+    { "id": 395, "text": "How many degrees are in a right angle?", "options": ["45°", "90°", "180°", "360°"], "answer": 1 },
+    { "id": 396, "text": "Simplify: 1/4 + 1/2.", "options": ["1/6", "2/6", "3/4", "1/2"], "answer": 2 },
+    { "id": 397, "text": "The square root of 81 is:", "options": ["7", "8", "9", "10"], "answer": 2 },
+    { "id": 398, "text": "Find the average of 2, 4, 6, 8, 10.", "options": ["4", "5", "6", "8"], "answer": 2 },
+    { "id": 399, "text": "Convert 0.5 to a fraction.", "options": ["1/2", "1/4", "1/5", "1/10"], "answer": 0 },
+    { "id": 400, "text": "How many minutes are in 2.5 hours?", "options": ["120", "150", "180", "200"], "answer": 1 }
+  ],
+
+  "Welding_&_Fabrication_Trades": [
+    { "id": 401, "text": "The type of welding that uses a non-consumable tungsten electrode is?", "options": ["MIG", "TIG", "ARC", "Gas"], "answer": 1 },
+    { "id": 402, "text": "Which gas is used in combination with Oxygen for oxy-acetylene welding?", "options": ["Nitrogen", "Acetylene", "Hydrogen", "Argon"], "answer": 1 },
+    { "id": 403, "text": "A 'Tack Weld' is used primarily to?", "options": ["Finish a joint", "Hold parts in alignment before final welding", "Increase strength", "Prevent rust"], "answer": 1 },
+    { "id": 404, "text": "The shade of lens used in a welding helmet is to protect the eyes from?", "options": ["Dust", "Ultra-violet and Infrared radiation", "Smoke", "Wind"], "answer": 1 },
+    { "id": 405, "text": "A 'Fillet Weld' is used to join two pieces of metal at what angle?", "options": ["Parallel", "Right angle (90°)", "Acute angle", "Straight line"], "answer": 1 }
+  ],
+  "Textiles_&_Garment_Making": [
+    { "id": 406, "text": "A small tool used to protect the finger while sewing is a?", "options": ["Needle", "Thimble", "Stitch ripper", "Bodkin"], "answer": 1 },
+    { "id": 407, "text": "Which of these is a natural fiber?", "options": ["Polyester", "Nylon", "Cotton", "Acrylic"], "answer": 2 },
+    { "id": 408, "text": "The finished edge of a piece of fabric that prevents fraying is the?", "options": ["Hem", "Selvedge", "Seam", "Dart"], "answer": 1 },
+    { "id": 409, "text": "A 'Basting stitch' is a ____ stitch used to hold fabric temporarily?", "options": ["Permanent", "Decorative", "Temporary", "Zig-zag"], "answer": 2 },
+    { "id": 410, "text": "Which machine is used to finish the edges of fabric to prevent fraying professionally?", "options": ["Straight stitch machine", "Overlocking machine", "Embroidery machine", "Buttonhole machine"], "answer": 1 }
+  ],
+  "Final_Mathematics_Drill": [
+    { "id": 411, "text": "Find the simple interest on ₦50,000 for 2 years at 10% per annum.", "options": ["₦5,000", "₦10,000", "₦15,000", "₦20,000"], "answer": 1 },
+    { "id": 412, "text": "If a triangle has base 10cm and height 12cm, find its area.", "options": ["22cm²", "60cm²", "120cm²", "240cm²"], "answer": 1 },
+    { "id": 413, "text": "Solve for x: 5x + 3 = 2x + 12.", "options": ["2", "3", "4", "5"], "answer": 1 },
+    { "id": 414, "text": "Convert 1011 in binary (Base 2) to decimal (Base 10).", "options": ["10", "11", "12", "13"], "answer": 1 },
+    { "id": 415, "text": "The sum of angles in a triangle is?", "options": ["90°", "180°", "270°", "360°"], "answer": 1 },
+    { "id": 416, "text": "What is the square root of 625?", "options": ["15", "25", "35", "45"], "answer": 1 },
+    { "id": 417, "text": "Express 0.00042 in standard form.", "options": ["4.2 x 10^-4", "4.2 x 10^-3", "42 x 10^-5", "0.42 x 10^-3"], "answer": 0 },
+    { "id": 418, "text": "A man buys an item for ₦800 and sells it for ₦1,000. Calculate profit percentage.", "options": ["10%", "20%", "25%", "30%"], "answer": 2 },
+    { "id": 419, "text": "If x = 4 and y = 3, evaluate 2x² - y.", "options": ["5", "13", "29", "35"], "answer": 2 },
+    { "id": 420, "text": "Find the median of: 4, 8, 1, 6, 2.", "options": ["1", "4", "6", "8"], "answer": 1 },
+    { "id": 421, "text": "Calculate the volume of a cube with side 5cm.", "options": ["25cm³", "50cm³", "125cm³", "150cm³"], "answer": 2 },
+    { "id": 422, "text": "Solve: 3/4 + 1/8.", "options": ["4/12", "7/8", "5/8", "1/2"], "answer": 1 },
+    { "id": 423, "text": "How many degrees are in a full circle?", "options": ["90°", "180°", "270°", "360°"], "answer": 3 },
+    { "id": 424, "text": "Find the HCF of 24 and 36.", "options": ["6", "12", "18", "24"], "answer": 1 },
+    { "id": 425, "text": "Express 3/5 as a decimal.", "options": ["0.3", "0.5", "0.6", "0.8"], "answer": 2 }
+  ],
+  "Final_English_Drill": [
+    { "id": 426, "text": "Choose the correct spelling:", "options": ["Occurred", "Ocured", "Ocurred", "Occured"], "answer": 0 },
+    { "id": 427, "text": "What is the feminine form of 'Horse'?", "options": ["Doe", "Mare", "Ewe", "Sow"], "answer": 1 },
+    { "id": 428, "text": "Choose the synonym for 'Sturdy':", "options": ["Weak", "Strong", "Fast", "Brave"], "answer": 1 },
+    { "id": 429, "text": "Identify the conjunction: 'He is tall, yet he is weak.'", "options": ["Tall", "Yet", "He", "Weak"], "answer": 1 },
+    { "id": 430, "text": "The phrase 'A green horn' refers to a/an?", "options": ["Expert", "Inexperienced person", "Old man", "Criminal"], "answer": 1 },
+    { "id": 431, "text": "Identify the adverb: 'The machine ran quietly.'", "options": ["Machine", "Ran", "Quietly", "The"], "answer": 2 },
+    { "id": 432, "text": "What is the antonym of 'Export'?", "options": ["Transport", "Import", "Support", "Report"], "answer": 1 },
+    { "id": 433, "text": "The plural of 'Goose' is?", "options": ["Gooses", "Geeses", "Geese", "Goos"], "answer": 2 },
+    { "id": 434, "text": "Choose the correct verb: 'Neither of the boys ____ here yesterday.'", "options": ["is", "are", "was", "were"], "answer": 2 },
+    { "id": 435, "text": "A person who fixes water pipes is a?", "options": ["Carpenter", "Plumber", "Mechanic", "Welder"], "answer": 1 }
+  ],
+  "General_Revision_Mix": [
+    { "id": 436, "text": "[Commerce] The fee paid for the use of a warehouse is?", "options": ["Rent", "Warrant", "Rentage", "Premium"], "answer": 2 },
+    { "id": 437, "text": "[Biology] The largest organ in the human body is?", "options": ["Heart", "Liver", "Skin", "Lungs"], "answer": 2 },
+    { "id": 438, "text": "[Physics] The instrument for measuring temperature is?", "options": ["Thermometer", "Barometer", "Ammeter", "Volt meter"], "answer": 0 },
+    { "id": 439, "text": "[Gov] Who is the head of a local government in Nigeria?", "options": ["Governor", "Chairman", "President", "King"], "answer": 1 },
+    { "id": 440, "text": "[Civic] The Nigerian flag was designed by?", "options": ["Herbert Macaulay", "Taiwo Akinkunmi", "Nnamdi Azikiwe", "Ahmadu Bello"], "answer": 1 },
+    { "id": 441, "text": "[Chemistry] What is the pH of pure water?", "options": ["1", "7", "10", "14"], "answer": 1 },
+    { "id": 442, "text": "[ICT] Which key is used to delete text to the right of the cursor?", "options": ["Backspace", "Enter", "Delete", "Shift"], "answer": 2 },
+    { "id": 443, "text": "[Maths] Find the mean of 2, 4, 6, 8.", "options": ["4", "5", "6", "7"], "answer": 1 },
+    { "id": 444, "text": "[English] What part of speech is 'Beautifully'?", "options": ["Noun", "Adjective", "Adverb", "Verb"], "answer": 2 },
+    { "id": 445, "text": "[Technical] Which tool is used to tighten a bolt?", "options": ["Hammer", "Spanner", "Chisel", "Saw"], "answer": 1 },
+    { "id": 446, "text": "[Gov] Nigeria has how many geopolitical zones?", "options": ["4", "6", "10", "36"], "answer": 1 },
+    { "id": 447, "text": "[Agric] Ruminant animals have how many stomach compartments?", "options": ["1", "2", "3", "4"], "answer": 3 },
+    { "id": 448, "text": "[Commerce] The tax on imported goods is?", "options": ["Excise", "Tariff", "VAT", "Income tax"], "answer": 1 },
+    { "id": 449, "text": "[General] The capital of Lagos State is?", "options": ["Lagos Island", "Ikeja", "Badagry", "Epe"], "answer": 1 },
+    { "id": 450, "text": "[General] Who is the first female pilot in Nigeria?", "options": ["Stella Oduah", "Chinyere Kalu", "Dora Akunyili", "Virginia Etiaba"], "answer": 1 },
+    { "id": 451, "text": "[Maths] Find the value of 10% of 1,000.", "options": ["10", "100", "200", "500"], "answer": 1 },
+    { "id": 452, "text": "[English] Synonym of 'Fast'?", "options": ["Slow", "Quick", "Calm", "Heavy"], "answer": 1 },
+    { "id": 453, "text": "[Physics] Speed is ____ divided by time.", "options": ["Weight", "Distance", "Mass", "Force"], "answer": 1 },
+    { "id": 454, "text": "[Chemistry] Formula for Water?", "options": ["CO2", "H2O", "O2", "NaCl"], "answer": 1 },
+    { "id": 455, "text": "[Biology] Human being breathes in?", "options": ["Nitrogen", "Oxygen", "Carbon dioxide", "Hydrogen"], "answer": 1 },
+    { "id": 456, "text": "[Gov] The arm of government that judges is?", "options": ["Executive", "Legislature", "Judiciary", "Police"], "answer": 2 },
+    { "id": 457, "text": "[History] First capital of Nigeria?", "options": ["Lagos", "Abuja", "Calabar", "Lokoja"], "answer": 2 },
+    { "id": 458, "text": "[ICT] Brain of the computer?", "options": ["RAM", "Monitor", "CPU", "Mouse"], "answer": 2 },
+    { "id": 459, "text": "[Maths] Solve 2 + 2 x 2.", "options": ["4", "6", "8", "10"], "answer": 1 },
+    { "id": 460, "text": "[English] Antonym of 'Friend'?", "options": ["Ally", "Enemy", "Partner", "Brother"], "answer": 1 },
+    { "id": 461, "text": "[General] National anthem title?", "options": ["Nigeria we hail thee", "Arise O Compatriots", "God bless Nigeria", "Unity and Faith"], "answer": 1 },
+    { "id": 462, "text": "[Agric] Tool for weeding?", "options": ["Hoe", "Plough", "Tractor", "Harrow"], "answer": 0 },
+    { "id": 463, "text": "[Chemistry] Symbol for Iron?", "options": ["I", "Fe", "Ir", "In"], "answer": 1 },
+    { "id": 464, "text": "[Physics] Boiling point of water?", "options": ["0°C", "50°C", "100°C", "200°C"], "answer": 2 },
+    { "id": 465, "text": "[Biology] Part of plant for photosynthesis?", "options": ["Root", "Stem", "Leaf", "Fruit"], "answer": 2 },
+    { "id": 466, "text": "[Civic] NDLEA fights?", "options": ["Money", "Drugs", "Corruption", "Robbery"], "answer": 1 },
+    { "id": 467, "text": "[Maths] Diameter is ____ times radius.", "options": ["1", "2", "3", "4"], "answer": 1 },
+    { "id": 468, "text": "[English] Plural of 'Man'?", "options": ["Mans", "Men", "Mens", "Manes"], "answer": 1 },
+    { "id": 469, "text": "[Commerce] Trade inside a country is ____ trade.", "options": ["Foreign", "Internal", "Export", "Import"], "answer": 1 },
+    { "id": 470, "text": "[General] Nigeria independence year?", "options": ["1914", "1960", "1963", "1999"], "answer": 1 },
+    { "id": 471, "text": "[Agric] Bird for eggs?", "options": ["Goat", "Chicken (Layers)", "Pig", "Cow"], "answer": 1 },
+    { "id": 472, "text": "[Maths] Area of square with side 4?", "options": ["8", "12", "16", "20"], "answer": 2 },
+    { "id": 473, "text": "[English] He ____ to school yesterday.", "options": ["go", "goes", "went", "going"], "answer": 2 },
+    { "id": 474, "text": "[Science] Planet we live on?", "options": ["Mars", "Earth", "Venus", "Jupiter"], "answer": 1 },
+    { "id": 475, "text": "[Gov] Upper house of assembly?", "options": ["House of Reps", "Senate", "Lords", "States"], "answer": 1 },
+    { "id": 476, "text": "[Agric] Removal of forest trees?", "options": ["Deforestation", "Afforestation", "Planting", "Weeding"], "answer": 0 },
+    { "id": 477, "text": "[Maths] 1/2 of 100?", "options": ["25", "50", "75", "100"], "answer": 1 },
+    { "id": 478, "text": "[English] Plural of 'Tooth'?", "options": ["Tooths", "Teeth", "Teeths", "Tooth"], "answer": 1 },
+    { "id": 479, "text": "[Science] Water freezing point?", "options": ["0°C", "32°C", "100°C", "10°C"], "answer": 0 },
+    { "id": 480, "text": "[General] Colors of traffic light?", "options": ["Red, Yellow, Blue", "Red, Yellow, Green", "Red, Green, Blue", "Yellow, Green, White"], "answer": 1 },
+    { "id": 481, "text": "[Maths] 5 x 5?", "options": ["10", "15", "25", "30"], "answer": 2 },
+    { "id": 482, "text": "[English] Past tense of 'Eat'?", "options": ["Eats", "Eating", "Ate", "Eaten"], "answer": 2 },
+    { "id": 483, "text": "[Science] Most reactive metal?", "options": ["Gold", "Silver", "Potassium", "Iron"], "answer": 2 },
+    { "id": 484, "text": "[General] Current president of Nigeria?", "options": ["Buhari", "Tinubu", "Jonathan", "Atiku"], "answer": 1 },
+    { "id": 485, "text": "[Maths] Triangle with 90° angle?", "options": ["Isosceles", "Scalene", "Right-angled", "Equilateral"], "answer": 2 },
+    { "id": 486, "text": "[English] Pronoun for a girl?", "options": ["He", "She", "It", "They"], "answer": 1 },
+    { "id": 487, "text": "[Agric] Rearing of fish?", "options": ["Poultry", "Fishery", "Piggery", "Rabbitry"], "answer": 1 },
+    { "id": 488, "text": "[Physics] Unit of Power?", "options": ["Ohm", "Watt", "Volt", "Ampere"], "answer": 1 },
+    { "id": 489, "text": "[Chemistry] Salt chemical name?", "options": ["Sugar", "Sodium Chloride", "Acid", "Base"], "answer": 1 },
+    { "id": 500, "text": "[Conclusion] Hard work leads to?", "options": ["Failure", "Success", "Laziness", "Sleep"], "answer": 1 }
+  ]
+}

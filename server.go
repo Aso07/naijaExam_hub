@@ -63,6 +63,7 @@ func main() {
 		http.ServeFile(w, r, "sw.js")
 	})
 
+
 	fmt.Println("Exam Hub Server running at http://localhost:8080")
 	log.Fatal(http.ListenAndServe(":8080", nil))
 }
